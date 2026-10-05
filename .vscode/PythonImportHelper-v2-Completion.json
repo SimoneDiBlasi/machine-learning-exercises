@@ -1,0 +1,2787 @@
+[
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "LinearRegression",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
+        "documentation": {}
+    },
+    {
+        "label": "LinearRegression",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
+        "documentation": {}
+    },
+    {
+        "label": "LogisticRegression",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
+        "documentation": {}
+    },
+    {
+        "label": "LogisticRegression",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
+        "documentation": {}
+    },
+    {
+        "label": "LogisticRegression",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
+        "documentation": {}
+    },
+    {
+        "label": "mean_squared_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "r2_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "mean_squared_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "r2_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "mean_absolute_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "mean_squared_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "ConfusionMatrixDisplay",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "tensorflow",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tensorflow",
+        "description": "tensorflow",
+        "detail": "tensorflow",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "make_moons",
+        "importPath": "sklearn.datasets",
+        "description": "sklearn.datasets",
+        "isExtraImport": true,
+        "detail": "sklearn.datasets",
+        "documentation": {}
+    },
+    {
+        "label": "make_moons",
+        "importPath": "sklearn.datasets",
+        "description": "sklearn.datasets",
+        "isExtraImport": true,
+        "detail": "sklearn.datasets",
+        "documentation": {}
+    },
+    {
+        "label": "seaborn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "seaborn",
+        "description": "seaborn",
+        "detail": "seaborn",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "kagglehub",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "kagglehub",
+        "description": "kagglehub",
+        "detail": "kagglehub",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "exercises.exercise_01_linear_regression",
+        "description": "exercises.exercise_01_linear_regression",
+        "peekOfCode": "X = np.array([\n    [50],\n    [60],\n    [70],\n    [80],\n    [90],\n    [100],\n    [120],\n    [150]\n])",
+        "detail": "exercises.exercise_01_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "exercises.exercise_01_linear_regression",
+        "description": "exercises.exercise_01_linear_regression",
+        "peekOfCode": "y = np.array([\n    110000,\n    125000,\n    140000,\n    155000,\n    175000,\n    195000,\n    230000,\n    290000\n])",
+        "detail": "exercises.exercise_01_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "exercises.exercise_01_linear_regression",
+        "description": "exercises.exercise_01_linear_regression",
+        "peekOfCode": "model = LinearRegression()\n# ============================================================\n# Training\n# ============================================================\n# Train the model using the training data.\n# The model learns the relationship between\n# house surface area and price.\nmodel.fit(X_train, y_train)\n# ============================================================\n# Model Parameters",
+        "detail": "exercises.exercise_01_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "coefficient",
+        "kind": 5,
+        "importPath": "exercises.exercise_01_linear_regression",
+        "description": "exercises.exercise_01_linear_regression",
+        "peekOfCode": "coefficient = model.coef_[0]\n# Intercept:\n# Represents the predicted price when the input feature is 0.\nintercept = model.intercept_\nprint(\"Coefficient:\", coefficient)\nprint(\"Intercept:\", intercept)\n# ============================================================\n# Prediction for a New House\n# ============================================================\n# Predict the price of a new house with an area of 110 m².",
+        "detail": "exercises.exercise_01_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "intercept",
+        "kind": 5,
+        "importPath": "exercises.exercise_01_linear_regression",
+        "description": "exercises.exercise_01_linear_regression",
+        "peekOfCode": "intercept = model.intercept_\nprint(\"Coefficient:\", coefficient)\nprint(\"Intercept:\", intercept)\n# ============================================================\n# Prediction for a New House\n# ============================================================\n# Predict the price of a new house with an area of 110 m².\nhouse = np.array([[110]])\nhouse_prediction = model.predict(house)\nprint(\"\\nPredicted price for 110 m²:\", house_prediction[0])",
+        "detail": "exercises.exercise_01_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "house",
+        "kind": 5,
+        "importPath": "exercises.exercise_01_linear_regression",
+        "description": "exercises.exercise_01_linear_regression",
+        "peekOfCode": "house = np.array([[110]])\nhouse_prediction = model.predict(house)\nprint(\"\\nPredicted price for 110 m²:\", house_prediction[0])\n# ============================================================\n# Prediction on the Test Set\n# ============================================================\n# Use the trained model to predict prices for the test set.\ny_pred = model.predict(X_test)\nprint(\"\\nReal prices:\")\nprint(y_test)",
+        "detail": "exercises.exercise_01_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "house_prediction",
+        "kind": 5,
+        "importPath": "exercises.exercise_01_linear_regression",
+        "description": "exercises.exercise_01_linear_regression",
+        "peekOfCode": "house_prediction = model.predict(house)\nprint(\"\\nPredicted price for 110 m²:\", house_prediction[0])\n# ============================================================\n# Prediction on the Test Set\n# ============================================================\n# Use the trained model to predict prices for the test set.\ny_pred = model.predict(X_test)\nprint(\"\\nReal prices:\")\nprint(y_test)\nprint(\"\\nPredicted prices:\")",
+        "detail": "exercises.exercise_01_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "y_pred",
+        "kind": 5,
+        "importPath": "exercises.exercise_01_linear_regression",
+        "description": "exercises.exercise_01_linear_regression",
+        "peekOfCode": "y_pred = model.predict(X_test)\nprint(\"\\nReal prices:\")\nprint(y_test)\nprint(\"\\nPredicted prices:\")\nprint(y_pred)\n# ============================================================\n# Model Evaluation\n# ============================================================\n# Mean Squared Error (MSE):\n# Calculates the average squared difference between",
+        "detail": "exercises.exercise_01_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "mse",
+        "kind": 5,
+        "importPath": "exercises.exercise_01_linear_regression",
+        "description": "exercises.exercise_01_linear_regression",
+        "peekOfCode": "mse = mean_squared_error(y_test, y_pred)\n# R² Score:\n# Measures how well the model explains the variance\n# in the target values.\nr2 = r2_score(y_test, y_pred)\nprint(\"\\nMSE:\", mse)\nprint(\"R²:\", r2)\n# ============================================================\n# Visualization\n# ============================================================",
+        "detail": "exercises.exercise_01_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "r2",
+        "kind": 5,
+        "importPath": "exercises.exercise_01_linear_regression",
+        "description": "exercises.exercise_01_linear_regression",
+        "peekOfCode": "r2 = r2_score(y_test, y_pred)\nprint(\"\\nMSE:\", mse)\nprint(\"R²:\", r2)\n# ============================================================\n# Visualization\n# ============================================================\n# Plot the actual data points.\nplt.scatter(X, y)\n# Plot the Linear Regression line.\nplt.plot(X, model.predict(X))",
+        "detail": "exercises.exercise_01_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "exercises.exercise_02_multiple_linear_regression",
+        "description": "exercises.exercise_02_multiple_linear_regression",
+        "peekOfCode": "X = np.array([\n    [50, 1, 30],\n    [60, 2, 20],\n    [70, 2, 15],\n    [80, 2, 10],\n    [90, 3, 8],\n    [100, 3, 5],\n    [120, 3, 3],\n    [150, 4, 1]\n])",
+        "detail": "exercises.exercise_02_multiple_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "exercises.exercise_02_multiple_linear_regression",
+        "description": "exercises.exercise_02_multiple_linear_regression",
+        "peekOfCode": "y = np.array([\n    100000,\n    130000,\n    150000,\n    175000,\n    200000,\n    225000,\n    270000,\n    350000\n])",
+        "detail": "exercises.exercise_02_multiple_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "exercises.exercise_02_multiple_linear_regression",
+        "description": "exercises.exercise_02_multiple_linear_regression",
+        "peekOfCode": "model = LinearRegression()\n# ============================================================\n# Training\n# ============================================================\n# Train the model using the training data.\nmodel.fit(X_train, y_train)\n# ============================================================\n# Model Parameters\n# ============================================================\n# Get the coefficients of the model.",
+        "detail": "exercises.exercise_02_multiple_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "coefficients",
+        "kind": 5,
+        "importPath": "exercises.exercise_02_multiple_linear_regression",
+        "description": "exercises.exercise_02_multiple_linear_regression",
+        "peekOfCode": "coefficients = model.coef_\n# Get the intercept of the model.\nintercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# ============================================================\n# Prediction for a New House\n# ============================================================\n# Create a new house:\n# - 110 m²",
+        "detail": "exercises.exercise_02_multiple_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "intercept",
+        "kind": 5,
+        "importPath": "exercises.exercise_02_multiple_linear_regression",
+        "description": "exercises.exercise_02_multiple_linear_regression",
+        "peekOfCode": "intercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# ============================================================\n# Prediction for a New House\n# ============================================================\n# Create a new house:\n# - 110 m²\n# - 2 bedrooms\n# - 15 years old",
+        "detail": "exercises.exercise_02_multiple_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "house",
+        "kind": 5,
+        "importPath": "exercises.exercise_02_multiple_linear_regression",
+        "description": "exercises.exercise_02_multiple_linear_regression",
+        "peekOfCode": "house = np.array([[110, 2, 15]])\n# Predict the price of the new house.\nhouse_prediction = model.predict(house)\nprint(\"\\nPredicted price for the new house:\", house_prediction[0])\n# ============================================================\n# Prediction on the Test Set\n# ============================================================\n# Predict the prices of the houses in the test set.\ny_pred = model.predict(X_test)\nprint(\"\\nReal prices:\")",
+        "detail": "exercises.exercise_02_multiple_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "house_prediction",
+        "kind": 5,
+        "importPath": "exercises.exercise_02_multiple_linear_regression",
+        "description": "exercises.exercise_02_multiple_linear_regression",
+        "peekOfCode": "house_prediction = model.predict(house)\nprint(\"\\nPredicted price for the new house:\", house_prediction[0])\n# ============================================================\n# Prediction on the Test Set\n# ============================================================\n# Predict the prices of the houses in the test set.\ny_pred = model.predict(X_test)\nprint(\"\\nReal prices:\")\nprint(y_test)\nprint(\"\\nPredicted prices:\")",
+        "detail": "exercises.exercise_02_multiple_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "y_pred",
+        "kind": 5,
+        "importPath": "exercises.exercise_02_multiple_linear_regression",
+        "description": "exercises.exercise_02_multiple_linear_regression",
+        "peekOfCode": "y_pred = model.predict(X_test)\nprint(\"\\nReal prices:\")\nprint(y_test)\nprint(\"\\nPredicted prices:\")\nprint(y_pred)\n# ============================================================\n# Model Evaluation\n# ============================================================\n# Calculate the Mean Squared Error (MSE).\n# MSE measures the average squared difference between",
+        "detail": "exercises.exercise_02_multiple_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "mse",
+        "kind": 5,
+        "importPath": "exercises.exercise_02_multiple_linear_regression",
+        "description": "exercises.exercise_02_multiple_linear_regression",
+        "peekOfCode": "mse = mean_squared_error(y_test, y_pred)\nprint(\"\\nMean Squared Error (MSE):\", mse)\n# Calculate the R² score.\n# R² measures how well the model explains the variance\n# in the real target values.\nr2 = r2_score(y_test, y_pred)\nprint(\"R² Score:\", r2)\nfor real, predicted in zip(y_test, y_pred):\n    print(f\"Real: €{real:.2f} | Predicted: €{predicted:.2f}\")\n# ============================================================",
+        "detail": "exercises.exercise_02_multiple_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "r2",
+        "kind": 5,
+        "importPath": "exercises.exercise_02_multiple_linear_regression",
+        "description": "exercises.exercise_02_multiple_linear_regression",
+        "peekOfCode": "r2 = r2_score(y_test, y_pred)\nprint(\"R² Score:\", r2)\nfor real, predicted in zip(y_test, y_pred):\n    print(f\"Real: €{real:.2f} | Predicted: €{predicted:.2f}\")\n# ============================================================\n# Visualization\n# ============================================================\n# Visualize real prices vs predicted prices.\n# Each point represents one house from the test set.\nplt.scatter(y_test, y_pred)",
+        "detail": "exercises.exercise_02_multiple_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "exercises.exercise_03_logistic_regression",
+        "description": "exercises.exercise_03_logistic_regression",
+        "peekOfCode": "X = np.array([\n    [20, 20000],\n    [22, 25000],\n    [25, 30000],\n    [28, 35000],\n    [30, 40000],\n    [35, 45000],\n    [40, 50000],\n    [45, 60000],\n    [50, 70000],",
+        "detail": "exercises.exercise_03_logistic_regression",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "exercises.exercise_03_logistic_regression",
+        "description": "exercises.exercise_03_logistic_regression",
+        "peekOfCode": "y = np.array([\n    0,\n    0,\n    0,\n    0,\n    0,\n    1,\n    1,\n    1,\n    1,",
+        "detail": "exercises.exercise_03_logistic_regression",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "exercises.exercise_03_logistic_regression",
+        "description": "exercises.exercise_03_logistic_regression",
+        "peekOfCode": "model = LogisticRegression()\n# Training\nmodel.fit(X_train, y_train)\n# Model Parameters\ncoefficients = model.coef_\nintercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# Prediction for a New Customer\nnew_customer = np.array([[18, 15000]])",
+        "detail": "exercises.exercise_03_logistic_regression",
+        "documentation": {}
+    },
+    {
+        "label": "coefficients",
+        "kind": 5,
+        "importPath": "exercises.exercise_03_logistic_regression",
+        "description": "exercises.exercise_03_logistic_regression",
+        "peekOfCode": "coefficients = model.coef_\nintercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# Prediction for a New Customer\nnew_customer = np.array([[18, 15000]])\npurchase_prediction = model.predict(new_customer)\nprint(\"\\nNew customer prediction:\")\nprint(\"Will purchase:\", purchase_prediction[0])\npurchase_probability = model.predict_proba(new_customer)",
+        "detail": "exercises.exercise_03_logistic_regression",
+        "documentation": {}
+    },
+    {
+        "label": "intercept",
+        "kind": 5,
+        "importPath": "exercises.exercise_03_logistic_regression",
+        "description": "exercises.exercise_03_logistic_regression",
+        "peekOfCode": "intercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# Prediction for a New Customer\nnew_customer = np.array([[18, 15000]])\npurchase_prediction = model.predict(new_customer)\nprint(\"\\nNew customer prediction:\")\nprint(\"Will purchase:\", purchase_prediction[0])\npurchase_probability = model.predict_proba(new_customer)\nprint(\"\\nPurchase probabilities:\")",
+        "detail": "exercises.exercise_03_logistic_regression",
+        "documentation": {}
+    },
+    {
+        "label": "new_customer",
+        "kind": 5,
+        "importPath": "exercises.exercise_03_logistic_regression",
+        "description": "exercises.exercise_03_logistic_regression",
+        "peekOfCode": "new_customer = np.array([[18, 15000]])\npurchase_prediction = model.predict(new_customer)\nprint(\"\\nNew customer prediction:\")\nprint(\"Will purchase:\", purchase_prediction[0])\npurchase_probability = model.predict_proba(new_customer)\nprint(\"\\nPurchase probabilities:\")\nprint(\"No purchase:\", purchase_probability[0][0])\nprint(\"Purchase:\", purchase_probability[0][1]) \n# Prediction on the Test Set\ny_pred = model.predict(X_test)",
+        "detail": "exercises.exercise_03_logistic_regression",
+        "documentation": {}
+    },
+    {
+        "label": "purchase_prediction",
+        "kind": 5,
+        "importPath": "exercises.exercise_03_logistic_regression",
+        "description": "exercises.exercise_03_logistic_regression",
+        "peekOfCode": "purchase_prediction = model.predict(new_customer)\nprint(\"\\nNew customer prediction:\")\nprint(\"Will purchase:\", purchase_prediction[0])\npurchase_probability = model.predict_proba(new_customer)\nprint(\"\\nPurchase probabilities:\")\nprint(\"No purchase:\", purchase_probability[0][0])\nprint(\"Purchase:\", purchase_probability[0][1]) \n# Prediction on the Test Set\ny_pred = model.predict(X_test)\nprint(\"\\nReal purchase results:\")",
+        "detail": "exercises.exercise_03_logistic_regression",
+        "documentation": {}
+    },
+    {
+        "label": "purchase_probability",
+        "kind": 5,
+        "importPath": "exercises.exercise_03_logistic_regression",
+        "description": "exercises.exercise_03_logistic_regression",
+        "peekOfCode": "purchase_probability = model.predict_proba(new_customer)\nprint(\"\\nPurchase probabilities:\")\nprint(\"No purchase:\", purchase_probability[0][0])\nprint(\"Purchase:\", purchase_probability[0][1]) \n# Prediction on the Test Set\ny_pred = model.predict(X_test)\nprint(\"\\nReal purchase results:\")\nprint(y_test)\nprint(\"\\nPredicted purchase results:\")\nprint(y_pred)",
+        "detail": "exercises.exercise_03_logistic_regression",
+        "documentation": {}
+    },
+    {
+        "label": "y_pred",
+        "kind": 5,
+        "importPath": "exercises.exercise_03_logistic_regression",
+        "description": "exercises.exercise_03_logistic_regression",
+        "peekOfCode": "y_pred = model.predict(X_test)\nprint(\"\\nReal purchase results:\")\nprint(y_test)\nprint(\"\\nPredicted purchase results:\")\nprint(y_pred)\n# Compare Real and Predicted Results\nprint(\"\\nReal vs Predicted:\")\nfor real, predicted in zip(y_test, y_pred):\n    print(f\"Real: {real} | Predicted: {predicted}\")\n# Visualization",
+        "detail": "exercises.exercise_03_logistic_regression",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "exercises.exercise_04_logistic_regression_churn",
+        "description": "exercises.exercise_04_logistic_regression_churn",
+        "peekOfCode": "X = np.array([\n    [22, 30, 3],\n    [25, 35, 6],\n    [28, 40, 12],\n    [30, 45, 24],\n    [35, 50, 36],\n    [40, 60, 48],\n    [45, 70, 60],\n    [50, 80, 72],\n    [55, 90, 84],",
+        "detail": "exercises.exercise_04_logistic_regression_churn",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "exercises.exercise_04_logistic_regression_churn",
+        "description": "exercises.exercise_04_logistic_regression_churn",
+        "peekOfCode": "y = np.array([\n    1,\n    1,\n    1,\n    0,\n    0,\n    0,\n    0,\n    0,\n    0,",
+        "detail": "exercises.exercise_04_logistic_regression_churn",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "exercises.exercise_04_logistic_regression_churn",
+        "description": "exercises.exercise_04_logistic_regression_churn",
+        "peekOfCode": "model = LogisticRegression()\n# Training\nmodel.fit(X_train, y_train)\n# Model Parameters\ncoefficients = model.coef_\nintercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# Prediction for a New Customer\nnew_customer = np.array([[28, 20, 2]])",
+        "detail": "exercises.exercise_04_logistic_regression_churn",
+        "documentation": {}
+    },
+    {
+        "label": "coefficients",
+        "kind": 5,
+        "importPath": "exercises.exercise_04_logistic_regression_churn",
+        "description": "exercises.exercise_04_logistic_regression_churn",
+        "peekOfCode": "coefficients = model.coef_\nintercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# Prediction for a New Customer\nnew_customer = np.array([[28, 20, 2]])\nchurn_prediction = model.predict(new_customer)\nchurn_probability = model.predict_proba(new_customer)\nprint(\"\\nNew customer prediction:\")\nprint(\"Will churn:\", churn_prediction[0])",
+        "detail": "exercises.exercise_04_logistic_regression_churn",
+        "documentation": {}
+    },
+    {
+        "label": "intercept",
+        "kind": 5,
+        "importPath": "exercises.exercise_04_logistic_regression_churn",
+        "description": "exercises.exercise_04_logistic_regression_churn",
+        "peekOfCode": "intercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# Prediction for a New Customer\nnew_customer = np.array([[28, 20, 2]])\nchurn_prediction = model.predict(new_customer)\nchurn_probability = model.predict_proba(new_customer)\nprint(\"\\nNew customer prediction:\")\nprint(\"Will churn:\", churn_prediction[0])\nprint(\"\\nChurn probabilities:\")",
+        "detail": "exercises.exercise_04_logistic_regression_churn",
+        "documentation": {}
+    },
+    {
+        "label": "new_customer",
+        "kind": 5,
+        "importPath": "exercises.exercise_04_logistic_regression_churn",
+        "description": "exercises.exercise_04_logistic_regression_churn",
+        "peekOfCode": "new_customer = np.array([[28, 20, 2]])\nchurn_prediction = model.predict(new_customer)\nchurn_probability = model.predict_proba(new_customer)\nprint(\"\\nNew customer prediction:\")\nprint(\"Will churn:\", churn_prediction[0])\nprint(\"\\nChurn probabilities:\")\nprint(\"No churn:\", churn_probability[0][0])\nprint(\"Churn:\", churn_probability[0][1])\n# Prediction on the Test Set\ny_pred = model.predict(X_test)",
+        "detail": "exercises.exercise_04_logistic_regression_churn",
+        "documentation": {}
+    },
+    {
+        "label": "churn_prediction",
+        "kind": 5,
+        "importPath": "exercises.exercise_04_logistic_regression_churn",
+        "description": "exercises.exercise_04_logistic_regression_churn",
+        "peekOfCode": "churn_prediction = model.predict(new_customer)\nchurn_probability = model.predict_proba(new_customer)\nprint(\"\\nNew customer prediction:\")\nprint(\"Will churn:\", churn_prediction[0])\nprint(\"\\nChurn probabilities:\")\nprint(\"No churn:\", churn_probability[0][0])\nprint(\"Churn:\", churn_probability[0][1])\n# Prediction on the Test Set\ny_pred = model.predict(X_test)\n# Model Evaluation",
+        "detail": "exercises.exercise_04_logistic_regression_churn",
+        "documentation": {}
+    },
+    {
+        "label": "churn_probability",
+        "kind": 5,
+        "importPath": "exercises.exercise_04_logistic_regression_churn",
+        "description": "exercises.exercise_04_logistic_regression_churn",
+        "peekOfCode": "churn_probability = model.predict_proba(new_customer)\nprint(\"\\nNew customer prediction:\")\nprint(\"Will churn:\", churn_prediction[0])\nprint(\"\\nChurn probabilities:\")\nprint(\"No churn:\", churn_probability[0][0])\nprint(\"Churn:\", churn_probability[0][1])\n# Prediction on the Test Set\ny_pred = model.predict(X_test)\n# Model Evaluation\naccuracy = accuracy_score(y_test, y_pred)",
+        "detail": "exercises.exercise_04_logistic_regression_churn",
+        "documentation": {}
+    },
+    {
+        "label": "y_pred",
+        "kind": 5,
+        "importPath": "exercises.exercise_04_logistic_regression_churn",
+        "description": "exercises.exercise_04_logistic_regression_churn",
+        "peekOfCode": "y_pred = model.predict(X_test)\n# Model Evaluation\naccuracy = accuracy_score(y_test, y_pred)\nprint(\"\\nAccuracy:\", accuracy)\n# Compare Real and Predicted Results\nprint(\"\\nReal vs Predicted:\")\nfor real, predicted in zip(y_test, y_pred):\n    print(f\"Real: {real} | Predicted: {predicted}\")\n# Visualization\nplt.scatter(",
+        "detail": "exercises.exercise_04_logistic_regression_churn",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy",
+        "kind": 5,
+        "importPath": "exercises.exercise_04_logistic_regression_churn",
+        "description": "exercises.exercise_04_logistic_regression_churn",
+        "peekOfCode": "accuracy = accuracy_score(y_test, y_pred)\nprint(\"\\nAccuracy:\", accuracy)\n# Compare Real and Predicted Results\nprint(\"\\nReal vs Predicted:\")\nfor real, predicted in zip(y_test, y_pred):\n    print(f\"Real: {real} | Predicted: {predicted}\")\n# Visualization\nplt.scatter(\n    range(len(y_test)),\n    y_test,",
+        "detail": "exercises.exercise_04_logistic_regression_churn",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "exercises.exercise_05_logistic_regression_loan_approval",
+        "description": "exercises.exercise_05_logistic_regression_loan_approval",
+        "peekOfCode": "X = np.array([\n    [22, 20000, 550],\n    [25, 25000, 580],\n    [28, 30000, 600],\n    [30, 35000, 620],\n    [32, 40000, 650],\n    [35, 45000, 680],\n    [38, 50000, 700],\n    [40, 55000, 720],\n    [45, 60000, 740],",
+        "detail": "exercises.exercise_05_logistic_regression_loan_approval",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "exercises.exercise_05_logistic_regression_loan_approval",
+        "description": "exercises.exercise_05_logistic_regression_loan_approval",
+        "peekOfCode": "y = np.array([\n    0,\n    0,\n    0,\n    0,\n    0,\n    1,\n    1,\n    1,\n    1,",
+        "detail": "exercises.exercise_05_logistic_regression_loan_approval",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "exercises.exercise_05_logistic_regression_loan_approval",
+        "description": "exercises.exercise_05_logistic_regression_loan_approval",
+        "peekOfCode": "model = LogisticRegression()\n# Training\nmodel.fit(X_train, y_train)\n# Model Parameters\ncoefficients = model.coef_\nintercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# Prediction for a New Applicant\nnew_applicant = np.array([[28, 20000, 620]])",
+        "detail": "exercises.exercise_05_logistic_regression_loan_approval",
+        "documentation": {}
+    },
+    {
+        "label": "coefficients",
+        "kind": 5,
+        "importPath": "exercises.exercise_05_logistic_regression_loan_approval",
+        "description": "exercises.exercise_05_logistic_regression_loan_approval",
+        "peekOfCode": "coefficients = model.coef_\nintercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# Prediction for a New Applicant\nnew_applicant = np.array([[28, 20000, 620]])\nloan_prediction = model.predict(new_applicant)\nloan_probability = model.predict_proba(new_applicant)\nprint(\"\\nNew applicant prediction:\")\nprint(\"Loan approved:\", loan_prediction[0])",
+        "detail": "exercises.exercise_05_logistic_regression_loan_approval",
+        "documentation": {}
+    },
+    {
+        "label": "intercept",
+        "kind": 5,
+        "importPath": "exercises.exercise_05_logistic_regression_loan_approval",
+        "description": "exercises.exercise_05_logistic_regression_loan_approval",
+        "peekOfCode": "intercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# Prediction for a New Applicant\nnew_applicant = np.array([[28, 20000, 620]])\nloan_prediction = model.predict(new_applicant)\nloan_probability = model.predict_proba(new_applicant)\nprint(\"\\nNew applicant prediction:\")\nprint(\"Loan approved:\", loan_prediction[0])\nprint(\"\\nLoan probabilities:\")",
+        "detail": "exercises.exercise_05_logistic_regression_loan_approval",
+        "documentation": {}
+    },
+    {
+        "label": "new_applicant",
+        "kind": 5,
+        "importPath": "exercises.exercise_05_logistic_regression_loan_approval",
+        "description": "exercises.exercise_05_logistic_regression_loan_approval",
+        "peekOfCode": "new_applicant = np.array([[28, 20000, 620]])\nloan_prediction = model.predict(new_applicant)\nloan_probability = model.predict_proba(new_applicant)\nprint(\"\\nNew applicant prediction:\")\nprint(\"Loan approved:\", loan_prediction[0])\nprint(\"\\nLoan probabilities:\")\nprint(\"Rejected:\", loan_probability[0][0])\nprint(\"Approved:\", loan_probability[0][1])\n# Prediction on the Test Set\ny_pred = model.predict(X_test)",
+        "detail": "exercises.exercise_05_logistic_regression_loan_approval",
+        "documentation": {}
+    },
+    {
+        "label": "loan_prediction",
+        "kind": 5,
+        "importPath": "exercises.exercise_05_logistic_regression_loan_approval",
+        "description": "exercises.exercise_05_logistic_regression_loan_approval",
+        "peekOfCode": "loan_prediction = model.predict(new_applicant)\nloan_probability = model.predict_proba(new_applicant)\nprint(\"\\nNew applicant prediction:\")\nprint(\"Loan approved:\", loan_prediction[0])\nprint(\"\\nLoan probabilities:\")\nprint(\"Rejected:\", loan_probability[0][0])\nprint(\"Approved:\", loan_probability[0][1])\n# Prediction on the Test Set\ny_pred = model.predict(X_test)\n# Model Evaluation",
+        "detail": "exercises.exercise_05_logistic_regression_loan_approval",
+        "documentation": {}
+    },
+    {
+        "label": "loan_probability",
+        "kind": 5,
+        "importPath": "exercises.exercise_05_logistic_regression_loan_approval",
+        "description": "exercises.exercise_05_logistic_regression_loan_approval",
+        "peekOfCode": "loan_probability = model.predict_proba(new_applicant)\nprint(\"\\nNew applicant prediction:\")\nprint(\"Loan approved:\", loan_prediction[0])\nprint(\"\\nLoan probabilities:\")\nprint(\"Rejected:\", loan_probability[0][0])\nprint(\"Approved:\", loan_probability[0][1])\n# Prediction on the Test Set\ny_pred = model.predict(X_test)\n# Model Evaluation\naccuracy = accuracy_score(y_test, y_pred)",
+        "detail": "exercises.exercise_05_logistic_regression_loan_approval",
+        "documentation": {}
+    },
+    {
+        "label": "y_pred",
+        "kind": 5,
+        "importPath": "exercises.exercise_05_logistic_regression_loan_approval",
+        "description": "exercises.exercise_05_logistic_regression_loan_approval",
+        "peekOfCode": "y_pred = model.predict(X_test)\n# Model Evaluation\naccuracy = accuracy_score(y_test, y_pred)\nprint(\"\\nAccuracy:\", accuracy)\n# Compare Real and Predicted Results\nprint(\"\\nReal vs Predicted:\")\nfor real, predicted in zip(y_test, y_pred):\n    print(f\"Real: {real} | Predicted: {predicted}\")\n# Visualization\nplt.scatter(",
+        "detail": "exercises.exercise_05_logistic_regression_loan_approval",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy",
+        "kind": 5,
+        "importPath": "exercises.exercise_05_logistic_regression_loan_approval",
+        "description": "exercises.exercise_05_logistic_regression_loan_approval",
+        "peekOfCode": "accuracy = accuracy_score(y_test, y_pred)\nprint(\"\\nAccuracy:\", accuracy)\n# Compare Real and Predicted Results\nprint(\"\\nReal vs Predicted:\")\nfor real, predicted in zip(y_test, y_pred):\n    print(f\"Real: {real} | Predicted: {predicted}\")\n# Visualization\nplt.scatter(\n    range(len(y_test)),\n    y_test,",
+        "detail": "exercises.exercise_05_logistic_regression_loan_approval",
+        "documentation": {}
+    },
+    {
+        "label": "build_model",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_01_neural_network",
+        "description": "neural-networks.exercise_01_neural_network",
+        "peekOfCode": "def build_model(hidden_layers):\n    \"\"\"\n    Build and compile a Neural Network.\n    Parameters:\n        hidden_layers: list containing the number of neurons\n                       for each hidden layer.\n    Example:\n        [16, 8, 4]\n    Creates:\n        Input(5) → Dense(16) → Dense(8) → Dense(4) → Dense(1)",
+        "detail": "neural-networks.exercise_01_neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_01_neural_network",
+        "description": "neural-networks.exercise_01_neural_network",
+        "peekOfCode": "X = np.array([\n    [22, 22000, 10, 0, 2],\n    [25, 28000, 15, 1, 3],\n    [28, 32000, 20, 1, 4],\n    [31, 35000, 25, 2, 5],\n    [35, 40000, 30, 2, 6],\n    [38, 45000, 35, 3, 7],\n    [42, 50000, 40, 4, 8],\n    [45, 55000, 45, 5, 9],\n    [50, 60000, 50, 6, 10],",
+        "detail": "neural-networks.exercise_01_neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_01_neural_network",
+        "description": "neural-networks.exercise_01_neural_network",
+        "peekOfCode": "y = np.array([\n    0,\n    0,\n    0,\n    0,\n    1,\n    1,\n    1,\n    1,\n    1,",
+        "detail": "neural-networks.exercise_01_neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "scaler",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_01_neural_network",
+        "description": "neural-networks.exercise_01_neural_network",
+        "peekOfCode": "scaler = StandardScaler()\nX_train = scaler.fit_transform(X_train)\nX_test = scaler.transform(X_test)\nprint(\"\\nX_train after scaling:\")\nprint(X_train)\nprint(\"\\nX_test after scaling:\")\nprint(X_test)\n# ============================================================\n# 4. Build the Neural Network\n# ============================================================",
+        "detail": "neural-networks.exercise_01_neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "X_train",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_01_neural_network",
+        "description": "neural-networks.exercise_01_neural_network",
+        "peekOfCode": "X_train = scaler.fit_transform(X_train)\nX_test = scaler.transform(X_test)\nprint(\"\\nX_train after scaling:\")\nprint(X_train)\nprint(\"\\nX_test after scaling:\")\nprint(X_test)\n# ============================================================\n# 4. Build the Neural Network\n# ============================================================\ndef build_model(hidden_layers):",
+        "detail": "neural-networks.exercise_01_neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "X_test",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_01_neural_network",
+        "description": "neural-networks.exercise_01_neural_network",
+        "peekOfCode": "X_test = scaler.transform(X_test)\nprint(\"\\nX_train after scaling:\")\nprint(X_train)\nprint(\"\\nX_test after scaling:\")\nprint(X_test)\n# ============================================================\n# 4. Build the Neural Network\n# ============================================================\ndef build_model(hidden_layers):\n    \"\"\"",
+        "detail": "neural-networks.exercise_01_neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "architecture",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_01_neural_network",
+        "description": "neural-networks.exercise_01_neural_network",
+        "peekOfCode": "architecture = [16, 8, 4]\nmodel = build_model(architecture)\n# Display the model architecture\nprint(\"\\nModel architecture:\")\nmodel.summary()\n# ============================================================\n# 6. Train the Neural Network\n# ============================================================\nhistory = model.fit(\n    X_train,",
+        "detail": "neural-networks.exercise_01_neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_01_neural_network",
+        "description": "neural-networks.exercise_01_neural_network",
+        "peekOfCode": "model = build_model(architecture)\n# Display the model architecture\nprint(\"\\nModel architecture:\")\nmodel.summary()\n# ============================================================\n# 6. Train the Neural Network\n# ============================================================\nhistory = model.fit(\n    X_train,\n    y_train,",
+        "detail": "neural-networks.exercise_01_neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "history",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_01_neural_network",
+        "description": "neural-networks.exercise_01_neural_network",
+        "peekOfCode": "history = model.fit(\n    X_train,\n    y_train,\n    epochs=100,\n    validation_split=0.2,\n    verbose=1\n)\n# ============================================================\n# 7. Plot Training and Validation Accuracy\n# ============================================================",
+        "detail": "neural-networks.exercise_01_neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "new_customer",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_01_neural_network",
+        "description": "neural-networks.exercise_01_neural_network",
+        "peekOfCode": "new_customer = np.array([\n    [36, 42000, 35, 3, 7]\n])\n# Apply the same scaler used for the training data\nnew_customer_scaled = scaler.transform(new_customer)\n# Predict purchase probability\npurchase_probability = model.predict(\n    new_customer_scaled,\n    verbose=0\n)",
+        "detail": "neural-networks.exercise_01_neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "new_customer_scaled",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_01_neural_network",
+        "description": "neural-networks.exercise_01_neural_network",
+        "peekOfCode": "new_customer_scaled = scaler.transform(new_customer)\n# Predict purchase probability\npurchase_probability = model.predict(\n    new_customer_scaled,\n    verbose=0\n)\nprobability = purchase_probability[0][0]\n# Convert probability into a class\npredicted_class = 1 if probability >= 0.5 else 0\nprint(\"\\nNew Customer Prediction\")",
+        "detail": "neural-networks.exercise_01_neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "purchase_probability",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_01_neural_network",
+        "description": "neural-networks.exercise_01_neural_network",
+        "peekOfCode": "purchase_probability = model.predict(\n    new_customer_scaled,\n    verbose=0\n)\nprobability = purchase_probability[0][0]\n# Convert probability into a class\npredicted_class = 1 if probability >= 0.5 else 0\nprint(\"\\nNew Customer Prediction\")\nprint(\"Purchase probability:\", probability)\nprint(\"Predicted class:\", predicted_class)",
+        "detail": "neural-networks.exercise_01_neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "probability",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_01_neural_network",
+        "description": "neural-networks.exercise_01_neural_network",
+        "peekOfCode": "probability = purchase_probability[0][0]\n# Convert probability into a class\npredicted_class = 1 if probability >= 0.5 else 0\nprint(\"\\nNew Customer Prediction\")\nprint(\"Purchase probability:\", probability)\nprint(\"Predicted class:\", predicted_class)\n# ============================================================\n# 11. Generate predictions for the test set\n# ============================================================\ny_probability = model.predict(",
+        "detail": "neural-networks.exercise_01_neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "predicted_class",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_01_neural_network",
+        "description": "neural-networks.exercise_01_neural_network",
+        "peekOfCode": "predicted_class = 1 if probability >= 0.5 else 0\nprint(\"\\nNew Customer Prediction\")\nprint(\"Purchase probability:\", probability)\nprint(\"Predicted class:\", predicted_class)\n# ============================================================\n# 11. Generate predictions for the test set\n# ============================================================\ny_probability = model.predict(\n    X_test,\n    verbose=0",
+        "detail": "neural-networks.exercise_01_neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "y_probability",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_01_neural_network",
+        "description": "neural-networks.exercise_01_neural_network",
+        "peekOfCode": "y_probability = model.predict(\n    X_test,\n    verbose=0\n)\n# Convert probabilities into classes using a 0.5 threshold\ny_pred = (y_probability >= 0.5).astype(int)\n# ============================================================\n# 12. Confusion Matrix\n# ============================================================\ncm = confusion_matrix(",
+        "detail": "neural-networks.exercise_01_neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "y_pred",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_01_neural_network",
+        "description": "neural-networks.exercise_01_neural_network",
+        "peekOfCode": "y_pred = (y_probability >= 0.5).astype(int)\n# ============================================================\n# 12. Confusion Matrix\n# ============================================================\ncm = confusion_matrix(\n    y_test,\n    y_pred\n)\nprint(\"\\nConfusion Matrix:\")\nprint(cm)",
+        "detail": "neural-networks.exercise_01_neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "cm",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_01_neural_network",
+        "description": "neural-networks.exercise_01_neural_network",
+        "peekOfCode": "cm = confusion_matrix(\n    y_test,\n    y_pred\n)\nprint(\"\\nConfusion Matrix:\")\nprint(cm)\n# ============================================================\n# 13. Classification Report\n# ============================================================\nprint(\"\\nClassification Report:\")",
+        "detail": "neural-networks.exercise_01_neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "architectures",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_01_neural_network",
+        "description": "neural-networks.exercise_01_neural_network",
+        "peekOfCode": "architectures = {\n    \"Network A\": [4],\n    \"Network B\": [16, 8],\n    \"Network C\": [64, 32, 16]\n}\nprint(\"\\nArchitecture experiments:\")\nfor name, architecture in architectures.items():\n    print(\"\\n\" + \"=\" * 50)\n    print(name)\n    print(\"Architecture:\", architecture)",
+        "detail": "neural-networks.exercise_01_neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "build_model",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_02_neural_network_regression",
+        "description": "neural-networks.exercise_02_neural_network_regression",
+        "peekOfCode": "def build_model(hidden_layers):\n    \"\"\"\n    Build and compile a neural network for regression.\n    Parameters:\n        hidden_layers: list containing the number of neurons\n                       for each hidden layer.\n    Example:\n        [16, 8]\n    Architecture:\n        Input -> Dense(16) -> Dense(8) -> Dense(1)",
+        "detail": "neural-networks.exercise_02_neural_network_regression",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_02_neural_network_regression",
+        "description": "neural-networks.exercise_02_neural_network_regression",
+        "peekOfCode": "X = np.array([\n    [50, 1, 1, 30, 12],\n    [60, 2, 1, 25, 10],\n    [70, 2, 1, 20, 9],\n    [80, 2, 1, 15, 8],\n    [90, 3, 2, 12, 7],\n    [100, 3, 2, 10, 6],\n    [110, 3, 2, 8, 5],\n    [120, 3, 2, 7, 5],\n    [130, 4, 2, 5, 4],",
+        "detail": "neural-networks.exercise_02_neural_network_regression",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_02_neural_network_regression",
+        "description": "neural-networks.exercise_02_neural_network_regression",
+        "peekOfCode": "y = np.array([\n    95000, 115000, 135000, 155000, 180000,\n    205000, 230000, 250000, 280000, 310000,\n    90000, 120000, 140000, 165000, 190000,\n    215000, 240000, 270000, 300000, 335000,\n    85000, 110000, 145000, 170000, 195000,\n    225000, 255000, 285000, 320000, 360000\n])\n# ============================================================\n# 2. Train / Test Split",
+        "detail": "neural-networks.exercise_02_neural_network_regression",
+        "documentation": {}
+    },
+    {
+        "label": "X_scaler",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_02_neural_network_regression",
+        "description": "neural-networks.exercise_02_neural_network_regression",
+        "peekOfCode": "X_scaler = StandardScaler()\nX_train = X_scaler.fit_transform(X_train)\nX_test = X_scaler.transform(X_test)\n# ============================================================\n# 4. Target Scaling\n# ============================================================\n# House prices are large values such as 95000, 230000, 360000.\n# We scale the target to make optimization easier.\ny_scaler = StandardScaler()\ny_train = y_scaler.fit_transform(",
+        "detail": "neural-networks.exercise_02_neural_network_regression",
+        "documentation": {}
+    },
+    {
+        "label": "X_train",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_02_neural_network_regression",
+        "description": "neural-networks.exercise_02_neural_network_regression",
+        "peekOfCode": "X_train = X_scaler.fit_transform(X_train)\nX_test = X_scaler.transform(X_test)\n# ============================================================\n# 4. Target Scaling\n# ============================================================\n# House prices are large values such as 95000, 230000, 360000.\n# We scale the target to make optimization easier.\ny_scaler = StandardScaler()\ny_train = y_scaler.fit_transform(\n    y_train.reshape(-1, 1)",
+        "detail": "neural-networks.exercise_02_neural_network_regression",
+        "documentation": {}
+    },
+    {
+        "label": "X_test",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_02_neural_network_regression",
+        "description": "neural-networks.exercise_02_neural_network_regression",
+        "peekOfCode": "X_test = X_scaler.transform(X_test)\n# ============================================================\n# 4. Target Scaling\n# ============================================================\n# House prices are large values such as 95000, 230000, 360000.\n# We scale the target to make optimization easier.\ny_scaler = StandardScaler()\ny_train = y_scaler.fit_transform(\n    y_train.reshape(-1, 1)\n)",
+        "detail": "neural-networks.exercise_02_neural_network_regression",
+        "documentation": {}
+    },
+    {
+        "label": "y_scaler",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_02_neural_network_regression",
+        "description": "neural-networks.exercise_02_neural_network_regression",
+        "peekOfCode": "y_scaler = StandardScaler()\ny_train = y_scaler.fit_transform(\n    y_train.reshape(-1, 1)\n)\ny_test = y_scaler.transform(\n    y_test.reshape(-1, 1)\n)\n# Keep the original test prices for the final comparison.\ny_test_original = y_scaler.inverse_transform(y_test)\n# ============================================================",
+        "detail": "neural-networks.exercise_02_neural_network_regression",
+        "documentation": {}
+    },
+    {
+        "label": "y_train",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_02_neural_network_regression",
+        "description": "neural-networks.exercise_02_neural_network_regression",
+        "peekOfCode": "y_train = y_scaler.fit_transform(\n    y_train.reshape(-1, 1)\n)\ny_test = y_scaler.transform(\n    y_test.reshape(-1, 1)\n)\n# Keep the original test prices for the final comparison.\ny_test_original = y_scaler.inverse_transform(y_test)\n# ============================================================\n# 5. Build Neural Network",
+        "detail": "neural-networks.exercise_02_neural_network_regression",
+        "documentation": {}
+    },
+    {
+        "label": "y_test",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_02_neural_network_regression",
+        "description": "neural-networks.exercise_02_neural_network_regression",
+        "peekOfCode": "y_test = y_scaler.transform(\n    y_test.reshape(-1, 1)\n)\n# Keep the original test prices for the final comparison.\ny_test_original = y_scaler.inverse_transform(y_test)\n# ============================================================\n# 5. Build Neural Network\n# ============================================================\ndef build_model(hidden_layers):\n    \"\"\"",
+        "detail": "neural-networks.exercise_02_neural_network_regression",
+        "documentation": {}
+    },
+    {
+        "label": "y_test_original",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_02_neural_network_regression",
+        "description": "neural-networks.exercise_02_neural_network_regression",
+        "peekOfCode": "y_test_original = y_scaler.inverse_transform(y_test)\n# ============================================================\n# 5. Build Neural Network\n# ============================================================\ndef build_model(hidden_layers):\n    \"\"\"\n    Build and compile a neural network for regression.\n    Parameters:\n        hidden_layers: list containing the number of neurons\n                       for each hidden layer.",
+        "detail": "neural-networks.exercise_02_neural_network_regression",
+        "documentation": {}
+    },
+    {
+        "label": "architectures",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_02_neural_network_regression",
+        "description": "neural-networks.exercise_02_neural_network_regression",
+        "peekOfCode": "architectures = {\n    \"Network A\": [4],\n    \"Network B\": [16, 8],\n    \"Network C\": [32, 16, 8]\n}\n# ============================================================\n# 7. Train All Networks\n# ============================================================\nresults = {}\nmodels = {}",
+        "detail": "neural-networks.exercise_02_neural_network_regression",
+        "documentation": {}
+    },
+    {
+        "label": "results",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_02_neural_network_regression",
+        "description": "neural-networks.exercise_02_neural_network_regression",
+        "peekOfCode": "results = {}\nmodels = {}\nhistories = {}\nfor name, architecture in architectures.items():\n    print(\"\\n\" + \"=\" * 50)\n    print(name)\n    print(f\"Architecture: {architecture}\")\n    print(\"=\" * 50)\n    # Build model\n    model = build_model(architecture)",
+        "detail": "neural-networks.exercise_02_neural_network_regression",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_02_neural_network_regression",
+        "description": "neural-networks.exercise_02_neural_network_regression",
+        "peekOfCode": "models = {}\nhistories = {}\nfor name, architecture in architectures.items():\n    print(\"\\n\" + \"=\" * 50)\n    print(name)\n    print(f\"Architecture: {architecture}\")\n    print(\"=\" * 50)\n    # Build model\n    model = build_model(architecture)\n    # Display architecture",
+        "detail": "neural-networks.exercise_02_neural_network_regression",
+        "documentation": {}
+    },
+    {
+        "label": "histories",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_02_neural_network_regression",
+        "description": "neural-networks.exercise_02_neural_network_regression",
+        "peekOfCode": "histories = {}\nfor name, architecture in architectures.items():\n    print(\"\\n\" + \"=\" * 50)\n    print(name)\n    print(f\"Architecture: {architecture}\")\n    print(\"=\" * 50)\n    # Build model\n    model = build_model(architecture)\n    # Display architecture\n    model.summary()",
+        "detail": "neural-networks.exercise_02_neural_network_regression",
+        "documentation": {}
+    },
+    {
+        "label": "best_network_name",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_02_neural_network_regression",
+        "description": "neural-networks.exercise_02_neural_network_regression",
+        "peekOfCode": "best_network_name = min(\n    results,\n    key=lambda name: results[name][\"test_mae_euro\"]\n)\nbest_model = models[best_network_name]\nbest_predictions = results[best_network_name][\"predictions\"]\nprint(\"\\n\")\nprint(\"=\" * 70)\nprint(\"BEST NETWORK ON THIS TEST SPLIT\")\nprint(\"=\" * 70)",
+        "detail": "neural-networks.exercise_02_neural_network_regression",
+        "documentation": {}
+    },
+    {
+        "label": "best_model",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_02_neural_network_regression",
+        "description": "neural-networks.exercise_02_neural_network_regression",
+        "peekOfCode": "best_model = models[best_network_name]\nbest_predictions = results[best_network_name][\"predictions\"]\nprint(\"\\n\")\nprint(\"=\" * 70)\nprint(\"BEST NETWORK ON THIS TEST SPLIT\")\nprint(\"=\" * 70)\nprint(\n    f\"Network: {best_network_name}\"\n)\nprint(",
+        "detail": "neural-networks.exercise_02_neural_network_regression",
+        "documentation": {}
+    },
+    {
+        "label": "best_predictions",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_02_neural_network_regression",
+        "description": "neural-networks.exercise_02_neural_network_regression",
+        "peekOfCode": "best_predictions = results[best_network_name][\"predictions\"]\nprint(\"\\n\")\nprint(\"=\" * 70)\nprint(\"BEST NETWORK ON THIS TEST SPLIT\")\nprint(\"=\" * 70)\nprint(\n    f\"Network: {best_network_name}\"\n)\nprint(\n    f\"Architecture: \"",
+        "detail": "neural-networks.exercise_02_neural_network_regression",
+        "documentation": {}
+    },
+    {
+        "label": "min_price",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_02_neural_network_regression",
+        "description": "neural-networks.exercise_02_neural_network_regression",
+        "peekOfCode": "min_price = min(\n    y_test_original.min(),\n    best_predictions.min()\n)\nmax_price = max(\n    y_test_original.max(),\n    best_predictions.max()\n)\nplt.plot(\n    [min_price, max_price],",
+        "detail": "neural-networks.exercise_02_neural_network_regression",
+        "documentation": {}
+    },
+    {
+        "label": "max_price",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_02_neural_network_regression",
+        "description": "neural-networks.exercise_02_neural_network_regression",
+        "peekOfCode": "max_price = max(\n    y_test_original.max(),\n    best_predictions.max()\n)\nplt.plot(\n    [min_price, max_price],\n    [min_price, max_price]\n)\nplt.xlabel(\"Real Price (€)\")\nplt.ylabel(\"Predicted Price (€)\")",
+        "detail": "neural-networks.exercise_02_neural_network_regression",
+        "documentation": {}
+    },
+    {
+        "label": "new_house",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_02_neural_network_regression",
+        "description": "neural-networks.exercise_02_neural_network_regression",
+        "peekOfCode": "new_house = np.array([\n    [115, 3, 2, 8, 5]\n])\n# Scale using the SAME scaler used during training.\nnew_house_scaled = X_scaler.transform(\n    new_house\n)\nprint(\"\\n\")\nprint(\"=\" * 70)\nprint(\"NEW HOUSE PREDICTIONS\")",
+        "detail": "neural-networks.exercise_02_neural_network_regression",
+        "documentation": {}
+    },
+    {
+        "label": "new_house_scaled",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_02_neural_network_regression",
+        "description": "neural-networks.exercise_02_neural_network_regression",
+        "peekOfCode": "new_house_scaled = X_scaler.transform(\n    new_house\n)\nprint(\"\\n\")\nprint(\"=\" * 70)\nprint(\"NEW HOUSE PREDICTIONS\")\nprint(\"=\" * 70)\nprint(\n    \"House: 115 m² | \"\n    \"3 bedrooms | \"",
+        "detail": "neural-networks.exercise_02_neural_network_regression",
+        "documentation": {}
+    },
+    {
+        "label": "best_history",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_02_neural_network_regression",
+        "description": "neural-networks.exercise_02_neural_network_regression",
+        "peekOfCode": "best_history = histories[best_network_name]\n# ------------------------------------------------------------\n# MAE\n# ------------------------------------------------------------\nplt.figure(figsize=(8, 6))\nplt.plot(\n    best_history.history[\"mae\"],\n    label=\"Training MAE\"\n)\nplt.plot(",
+        "detail": "neural-networks.exercise_02_neural_network_regression",
+        "documentation": {}
+    },
+    {
+        "label": "scaler",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "description": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "peekOfCode": "scaler = StandardScaler()\nX_train = scaler.fit_transform(X_train)\nX_test = scaler.transform(X_test)\n# Build the neural network\nmodel = tf.keras.Sequential([\n    tf.keras.layers.Input(shape=(2,)),\n    tf.keras.layers.Dense(16, activation=\"relu\"),\n    tf.keras.layers.Dense(8, activation=\"relu\"),\n    tf.keras.layers.Dense(1, activation=\"sigmoid\")\n])",
+        "detail": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "documentation": {}
+    },
+    {
+        "label": "X_train",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "description": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "peekOfCode": "X_train = scaler.fit_transform(X_train)\nX_test = scaler.transform(X_test)\n# Build the neural network\nmodel = tf.keras.Sequential([\n    tf.keras.layers.Input(shape=(2,)),\n    tf.keras.layers.Dense(16, activation=\"relu\"),\n    tf.keras.layers.Dense(8, activation=\"relu\"),\n    tf.keras.layers.Dense(1, activation=\"sigmoid\")\n])\n# Compile the model",
+        "detail": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "documentation": {}
+    },
+    {
+        "label": "X_test",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "description": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "peekOfCode": "X_test = scaler.transform(X_test)\n# Build the neural network\nmodel = tf.keras.Sequential([\n    tf.keras.layers.Input(shape=(2,)),\n    tf.keras.layers.Dense(16, activation=\"relu\"),\n    tf.keras.layers.Dense(8, activation=\"relu\"),\n    tf.keras.layers.Dense(1, activation=\"sigmoid\")\n])\n# Compile the model\nmodel.compile(",
+        "detail": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "description": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "peekOfCode": "model = tf.keras.Sequential([\n    tf.keras.layers.Input(shape=(2,)),\n    tf.keras.layers.Dense(16, activation=\"relu\"),\n    tf.keras.layers.Dense(8, activation=\"relu\"),\n    tf.keras.layers.Dense(1, activation=\"sigmoid\")\n])\n# Compile the model\nmodel.compile(\n    optimizer=\"adam\",\n    loss=\"binary_crossentropy\",",
+        "detail": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "documentation": {}
+    },
+    {
+        "label": "history",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "description": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "peekOfCode": "history = model.fit(\n    X_train,\n    y_train,\n    epochs=100,\n    validation_split=0.20,\n    verbose=1\n)\ntest_loss, test_accuracy = model.evaluate(\n    X_test,\n    y_test,",
+        "detail": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "documentation": {}
+    },
+    {
+        "label": "y_probability",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "description": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "peekOfCode": "y_probability = model.predict(X_test)\n# Convert probabilities into binary classes\ny_pred = (y_probability >= 0.5).astype(int)\nprint(\"First 10 prediction probabilities:\")\nprint(y_probability[:10])\nprint(\"\\nFirst 10 predicted classes:\")\nprint(y_pred[:10])\nprint(\"\\nFirst 10 real classes:\")\nprint(y_test[:10])\naccuracy = accuracy_score(y_test, y_pred)",
+        "detail": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "documentation": {}
+    },
+    {
+        "label": "y_pred",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "description": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "peekOfCode": "y_pred = (y_probability >= 0.5).astype(int)\nprint(\"First 10 prediction probabilities:\")\nprint(y_probability[:10])\nprint(\"\\nFirst 10 predicted classes:\")\nprint(y_pred[:10])\nprint(\"\\nFirst 10 real classes:\")\nprint(y_test[:10])\naccuracy = accuracy_score(y_test, y_pred)\nprint(f\"Accuracy: {accuracy:.4f}\")\n# Calculate the confusion matrix",
+        "detail": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "description": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "peekOfCode": "accuracy = accuracy_score(y_test, y_pred)\nprint(f\"Accuracy: {accuracy:.4f}\")\n# Calculate the confusion matrix\ncm = confusion_matrix(y_test, y_pred)\nprint(\"Confusion Matrix:\")\nprint(cm)\nplt.figure(figsize=(6, 5))\nplt.imshow(cm)\nplt.title(\"Confusion Matrix\")\nplt.xlabel(\"Predicted Class\")",
+        "detail": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "documentation": {}
+    },
+    {
+        "label": "cm",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "description": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "peekOfCode": "cm = confusion_matrix(y_test, y_pred)\nprint(\"Confusion Matrix:\")\nprint(cm)\nplt.figure(figsize=(6, 5))\nplt.imshow(cm)\nplt.title(\"Confusion Matrix\")\nplt.xlabel(\"Predicted Class\")\nplt.ylabel(\"True Class\")\nplt.xticks([0, 1], [\"Class 0\", \"Class 1\"])\nplt.yticks([0, 1], [\"Class 0\", \"Class 1\"])",
+        "detail": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "documentation": {}
+    },
+    {
+        "label": "grid",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "description": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "peekOfCode": "grid = np.c_[xx.ravel(), yy.ravel()]\n# Apply the same scaling used for the training data\ngrid_scaled = scaler.transform(grid)\n# Predict the probability for each point\ngrid_probability = model.predict(\n    grid_scaled,\n    verbose=0\n)\n# Convert probabilities back to the grid shape\ngrid_probability = grid_probability.reshape(xx.shape)",
+        "detail": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "documentation": {}
+    },
+    {
+        "label": "grid_scaled",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "description": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "peekOfCode": "grid_scaled = scaler.transform(grid)\n# Predict the probability for each point\ngrid_probability = model.predict(\n    grid_scaled,\n    verbose=0\n)\n# Convert probabilities back to the grid shape\ngrid_probability = grid_probability.reshape(xx.shape)\n# Plot the decision boundary\nplt.figure(figsize=(8, 6))",
+        "detail": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "documentation": {}
+    },
+    {
+        "label": "grid_probability",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "description": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "peekOfCode": "grid_probability = model.predict(\n    grid_scaled,\n    verbose=0\n)\n# Convert probabilities back to the grid shape\ngrid_probability = grid_probability.reshape(xx.shape)\n# Plot the decision boundary\nplt.figure(figsize=(8, 6))\nplt.contourf(\n    xx,",
+        "detail": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "documentation": {}
+    },
+    {
+        "label": "grid_probability",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "description": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "peekOfCode": "grid_probability = grid_probability.reshape(xx.shape)\n# Plot the decision boundary\nplt.figure(figsize=(8, 6))\nplt.contourf(\n    xx,\n    yy,\n    grid_probability,\n    levels=[0, 0.5, 1],\n    alpha=0.3\n)",
+        "detail": "neural-networks.exercise_03_neural_network_non_linear_classification",
+        "documentation": {}
+    },
+    {
+        "label": "X_train",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_04_mnist_digit_classification",
+        "description": "neural-networks.exercise_04_mnist_digit_classification",
+        "peekOfCode": "X_train = X_train / 255.0\nX_test = X_test / 255.0\n# ============================================================\n# 4. Build the neural network\n# ============================================================\n# The original image has a shape of:\n#\n#     28 x 28\n#\n# Flatten converts it into:",
+        "detail": "neural-networks.exercise_04_mnist_digit_classification",
+        "documentation": {}
+    },
+    {
+        "label": "X_test",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_04_mnist_digit_classification",
+        "description": "neural-networks.exercise_04_mnist_digit_classification",
+        "peekOfCode": "X_test = X_test / 255.0\n# ============================================================\n# 4. Build the neural network\n# ============================================================\n# The original image has a shape of:\n#\n#     28 x 28\n#\n# Flatten converts it into:\n#",
+        "detail": "neural-networks.exercise_04_mnist_digit_classification",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_04_mnist_digit_classification",
+        "description": "neural-networks.exercise_04_mnist_digit_classification",
+        "peekOfCode": "model = tf.keras.Sequential([\n    tf.keras.layers.Flatten(input_shape=(28, 28)),\n    # First hidden layer.\n    # ReLU introduces non-linearity into the network.\n    tf.keras.layers.Dense(256, activation=\"relu\"),\n    # During training, randomly disables 30% of the neurons.\n    #\n    # This helps prevent the network from becoming too dependent\n    # on specific neurons and can reduce overfitting.\n    tf.keras.layers.Dropout(0.30),",
+        "detail": "neural-networks.exercise_04_mnist_digit_classification",
+        "documentation": {}
+    },
+    {
+        "label": "early_stopping",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_04_mnist_digit_classification",
+        "description": "neural-networks.exercise_04_mnist_digit_classification",
+        "peekOfCode": "early_stopping = tf.keras.callbacks.EarlyStopping(\n    monitor=\"val_loss\",\n    patience=3,\n    restore_best_weights=True\n)\n# ============================================================\n# 7. Train the model\n# ============================================================\n# We allow up to 30 epochs.\n#",
+        "detail": "neural-networks.exercise_04_mnist_digit_classification",
+        "documentation": {}
+    },
+    {
+        "label": "history",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_04_mnist_digit_classification",
+        "description": "neural-networks.exercise_04_mnist_digit_classification",
+        "peekOfCode": "history = model.fit(\n    X_train,\n    y_train,\n    epochs=30,\n    batch_size=32,\n    validation_split=0.1,\n    callbacks=[early_stopping]\n)\n# ============================================================\n# 8. Analyze the training history",
+        "detail": "neural-networks.exercise_04_mnist_digit_classification",
+        "documentation": {}
+    },
+    {
+        "label": "best_epoch",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_04_mnist_digit_classification",
+        "description": "neural-networks.exercise_04_mnist_digit_classification",
+        "peekOfCode": "best_epoch = np.argmin(history.history[\"val_loss\"]) + 1\nbest_val_loss = min(history.history[\"val_loss\"])\nbest_val_accuracy = history.history[\"val_accuracy\"][best_epoch - 1]\nprint(\"\\nBest Training Epoch\")\nprint(\"-------------------\")\nprint(\"Best Epoch:\", best_epoch)\nprint(\"Best Validation Loss:\", best_val_loss)\nprint(\"Validation Accuracy at Best Epoch:\", best_val_accuracy)\n# ============================================================\n# 9. Plot training and validation accuracy",
+        "detail": "neural-networks.exercise_04_mnist_digit_classification",
+        "documentation": {}
+    },
+    {
+        "label": "best_val_loss",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_04_mnist_digit_classification",
+        "description": "neural-networks.exercise_04_mnist_digit_classification",
+        "peekOfCode": "best_val_loss = min(history.history[\"val_loss\"])\nbest_val_accuracy = history.history[\"val_accuracy\"][best_epoch - 1]\nprint(\"\\nBest Training Epoch\")\nprint(\"-------------------\")\nprint(\"Best Epoch:\", best_epoch)\nprint(\"Best Validation Loss:\", best_val_loss)\nprint(\"Validation Accuracy at Best Epoch:\", best_val_accuracy)\n# ============================================================\n# 9. Plot training and validation accuracy\n# ============================================================",
+        "detail": "neural-networks.exercise_04_mnist_digit_classification",
+        "documentation": {}
+    },
+    {
+        "label": "best_val_accuracy",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_04_mnist_digit_classification",
+        "description": "neural-networks.exercise_04_mnist_digit_classification",
+        "peekOfCode": "best_val_accuracy = history.history[\"val_accuracy\"][best_epoch - 1]\nprint(\"\\nBest Training Epoch\")\nprint(\"-------------------\")\nprint(\"Best Epoch:\", best_epoch)\nprint(\"Best Validation Loss:\", best_val_loss)\nprint(\"Validation Accuracy at Best Epoch:\", best_val_accuracy)\n# ============================================================\n# 9. Plot training and validation accuracy\n# ============================================================\n# Training accuracy shows how well the model performs",
+        "detail": "neural-networks.exercise_04_mnist_digit_classification",
+        "documentation": {}
+    },
+    {
+        "label": "predictions",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_04_mnist_digit_classification",
+        "description": "neural-networks.exercise_04_mnist_digit_classification",
+        "peekOfCode": "predictions = model.predict(X_test)\n# np.argmax() returns the index of the highest probability.\n#\n# This converts the probability vector into the predicted\n# digit class.\ny_pred = np.argmax(predictions, axis=1)\n# ============================================================\n# 13. Inspect one prediction\n# ============================================================\nprint(\"\\nPrediction probabilities:\")",
+        "detail": "neural-networks.exercise_04_mnist_digit_classification",
+        "documentation": {}
+    },
+    {
+        "label": "y_pred",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_04_mnist_digit_classification",
+        "description": "neural-networks.exercise_04_mnist_digit_classification",
+        "peekOfCode": "y_pred = np.argmax(predictions, axis=1)\n# ============================================================\n# 13. Inspect one prediction\n# ============================================================\nprint(\"\\nPrediction probabilities:\")\nprint(predictions[0])\nprint(\"Predicted digit:\", predictions[0].argmax())\nprint(\"Actual digit:\", y_test[0])\n# Visualize the prediction.\nplt.imshow(X_test[0], cmap=\"gray\")",
+        "detail": "neural-networks.exercise_04_mnist_digit_classification",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_04_mnist_digit_classification",
+        "description": "neural-networks.exercise_04_mnist_digit_classification",
+        "peekOfCode": "confusion_matrix = tf.math.confusion_matrix(\n    y_test,\n    y_pred\n)\nprint(\"\\nConfusion Matrix:\")\nprint(confusion_matrix)\n# Visualize the confusion matrix.\nplt.figure(figsize=(10, 8))\nsns.heatmap(\n    confusion_matrix,",
+        "detail": "neural-networks.exercise_04_mnist_digit_classification",
+        "documentation": {}
+    },
+    {
+        "label": "wrong_predictions",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_04_mnist_digit_classification",
+        "description": "neural-networks.exercise_04_mnist_digit_classification",
+        "peekOfCode": "wrong_predictions = np.where(y_pred != y_test)[0]\nprint(\n    \"\\nNumber of incorrect predictions:\",\n    len(wrong_predictions)\n)\n# ============================================================\n# 16. Visualize the first incorrect prediction\n# ============================================================\nindex = wrong_predictions[0]\nplt.imshow(X_test[index], cmap=\"gray\")",
+        "detail": "neural-networks.exercise_04_mnist_digit_classification",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_04_mnist_digit_classification",
+        "description": "neural-networks.exercise_04_mnist_digit_classification",
+        "peekOfCode": "index = wrong_predictions[0]\nplt.imshow(X_test[index], cmap=\"gray\")\nplt.title(\n    f\"Predicted: {y_pred[index]} | Actual: {y_test[index]}\"\n)\nplt.axis(\"off\")\nplt.show()\n# ============================================================\n# 17. Visualize multiple incorrect predictions\n# ============================================================",
+        "detail": "neural-networks.exercise_04_mnist_digit_classification",
+        "documentation": {}
+    },
+    {
+        "label": "num_images",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_04_mnist_digit_classification",
+        "description": "neural-networks.exercise_04_mnist_digit_classification",
+        "peekOfCode": "num_images = 10\nplt.figure(figsize=(12, 6))\nfor i in range(num_images):\n    index = wrong_predictions[i]\n    plt.subplot(2, 5, i + 1)\n    plt.imshow(X_test[index], cmap=\"gray\")\n    plt.title(\n        f\"Pred: {y_pred[index]} | Real: {y_test[index]}\"\n    )\n    plt.axis(\"off\")",
+        "detail": "neural-networks.exercise_04_mnist_digit_classification",
+        "documentation": {}
+    },
+    {
+        "label": "class_names",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_05_overfitting_regularization",
+        "description": "neural-networks.exercise_05_overfitting_regularization",
+        "peekOfCode": "class_names = [\n    \"T-shirt / Top\",\n    \"Trouser\",\n    \"Pullover\",\n    \"Dress\",\n    \"Coat\",\n    \"Sandal\",\n    \"Shirt\",\n    \"Sneaker\",\n    \"Bag\",",
+        "detail": "neural-networks.exercise_05_overfitting_regularization",
+        "documentation": {}
+    },
+    {
+        "label": "class_counts",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_05_overfitting_regularization",
+        "description": "neural-networks.exercise_05_overfitting_regularization",
+        "peekOfCode": "class_counts = np.bincount(y_train)\nfor class_index, count in enumerate(class_counts):\n    print(\n        f\"{class_index} - {class_names[class_index]}: {count}\"\n    )\nplt.figure(figsize=(10, 5))\nplt.bar(\n    class_names,\n    class_counts\n)",
+        "detail": "neural-networks.exercise_05_overfitting_regularization",
+        "documentation": {}
+    },
+    {
+        "label": "X_train",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_05_overfitting_regularization",
+        "description": "neural-networks.exercise_05_overfitting_regularization",
+        "peekOfCode": "X_train = X_train / 255.0\nX_test = X_test / 255.0\n# ============================================================\n# 5. Build a high-capacity neural network\n# ============================================================\n# This model is intentionally larger than necessary.\n#\n# The goal is to observe what happens when a neural network\n# has enough capacity to memorize the training data.\n#",
+        "detail": "neural-networks.exercise_05_overfitting_regularization",
+        "documentation": {}
+    },
+    {
+        "label": "X_test",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_05_overfitting_regularization",
+        "description": "neural-networks.exercise_05_overfitting_regularization",
+        "peekOfCode": "X_test = X_test / 255.0\n# ============================================================\n# 5. Build a high-capacity neural network\n# ============================================================\n# This model is intentionally larger than necessary.\n#\n# The goal is to observe what happens when a neural network\n# has enough capacity to memorize the training data.\n#\n# We will later compare this model with regularized versions.",
+        "detail": "neural-networks.exercise_05_overfitting_regularization",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_05_overfitting_regularization",
+        "description": "neural-networks.exercise_05_overfitting_regularization",
+        "peekOfCode": "model = tf.keras.Sequential([\n    # Convert each 28x28 image into a vector of 784 values.\n    tf.keras.layers.Flatten(input_shape=(28, 28)),\n    # Large hidden layers give the network a high capacity.\n    tf.keras.layers.Dense(512, activation=\"relu\"),\n    tf.keras.layers.Dense(256, activation=\"relu\"),\n    tf.keras.layers.Dense(128, activation=\"relu\"),\n    # Output layer:\n    # 10 neurons because Fashion MNIST has 10 classes.\n    #",
+        "detail": "neural-networks.exercise_05_overfitting_regularization",
+        "documentation": {}
+    },
+    {
+        "label": "history",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_05_overfitting_regularization",
+        "description": "neural-networks.exercise_05_overfitting_regularization",
+        "peekOfCode": "history = model.fit(\n    X_train,\n    y_train,\n    epochs=30,\n    batch_size=32,\n    validation_split=0.1\n)\n# ============================================================\n# 8. Visualize training and validation performance\n# ============================================================",
+        "detail": "neural-networks.exercise_05_overfitting_regularization",
+        "documentation": {}
+    },
+    {
+        "label": "final_training_accuracy",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_05_overfitting_regularization",
+        "description": "neural-networks.exercise_05_overfitting_regularization",
+        "peekOfCode": "final_training_accuracy = history.history[\"accuracy\"][-1]\nfinal_validation_accuracy = history.history[\"val_accuracy\"][-1]\nprint(\"\\nPerformance Comparison\")\nprint(\"----------------------\")\nprint(\"Final Training Accuracy:\", final_training_accuracy)\nprint(\"Final Validation Accuracy:\", final_validation_accuracy)\nprint(\"Test Accuracy:\", test_accuracy)\n# ============================================================\n# 11. Build a regularized neural network\n# ============================================================",
+        "detail": "neural-networks.exercise_05_overfitting_regularization",
+        "documentation": {}
+    },
+    {
+        "label": "final_validation_accuracy",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_05_overfitting_regularization",
+        "description": "neural-networks.exercise_05_overfitting_regularization",
+        "peekOfCode": "final_validation_accuracy = history.history[\"val_accuracy\"][-1]\nprint(\"\\nPerformance Comparison\")\nprint(\"----------------------\")\nprint(\"Final Training Accuracy:\", final_training_accuracy)\nprint(\"Final Validation Accuracy:\", final_validation_accuracy)\nprint(\"Test Accuracy:\", test_accuracy)\n# ============================================================\n# 11. Build a regularized neural network\n# ============================================================\n# This model uses the same architecture as the previous model,",
+        "detail": "neural-networks.exercise_05_overfitting_regularization",
+        "documentation": {}
+    },
+    {
+        "label": "regularized_model",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_05_overfitting_regularization",
+        "description": "neural-networks.exercise_05_overfitting_regularization",
+        "peekOfCode": "regularized_model = tf.keras.Sequential([\n    tf.keras.layers.Flatten(input_shape=(28, 28)),\n    tf.keras.layers.Dense(512, activation=\"relu\"),\n    tf.keras.layers.Dropout(0.30),\n    tf.keras.layers.Dense(256, activation=\"relu\"),\n    tf.keras.layers.Dropout(0.30),\n    tf.keras.layers.Dense(128, activation=\"relu\"),\n    tf.keras.layers.Dropout(0.20),\n    tf.keras.layers.Dense(10, activation=\"softmax\")\n])",
+        "detail": "neural-networks.exercise_05_overfitting_regularization",
+        "documentation": {}
+    },
+    {
+        "label": "regularized_history",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_05_overfitting_regularization",
+        "description": "neural-networks.exercise_05_overfitting_regularization",
+        "peekOfCode": "regularized_history = regularized_model.fit(\n    X_train,\n    y_train,\n    epochs=30,\n    batch_size=32,\n    validation_split=0.1\n)\n# ============================================================\n# 14. Visualize regularized model performance\n# ============================================================",
+        "detail": "neural-networks.exercise_05_overfitting_regularization",
+        "documentation": {}
+    },
+    {
+        "label": "early_stopping",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_05_overfitting_regularization",
+        "description": "neural-networks.exercise_05_overfitting_regularization",
+        "peekOfCode": "early_stopping = tf.keras.callbacks.EarlyStopping(\n    monitor=\"val_loss\",\n    patience=3,\n    restore_best_weights=True\n)\n# ============================================================\n# 16. Build the final regularized model\n# ============================================================\nfinal_model = tf.keras.Sequential([\n    tf.keras.layers.Flatten(input_shape=(28, 28)),",
+        "detail": "neural-networks.exercise_05_overfitting_regularization",
+        "documentation": {}
+    },
+    {
+        "label": "final_model",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_05_overfitting_regularization",
+        "description": "neural-networks.exercise_05_overfitting_regularization",
+        "peekOfCode": "final_model = tf.keras.Sequential([\n    tf.keras.layers.Flatten(input_shape=(28, 28)),\n    tf.keras.layers.Dense(512, activation=\"relu\"),\n    tf.keras.layers.Dropout(0.30),\n    tf.keras.layers.Dense(256, activation=\"relu\"),\n    tf.keras.layers.Dropout(0.30),\n    tf.keras.layers.Dense(128, activation=\"relu\"),\n    tf.keras.layers.Dropout(0.20),\n    tf.keras.layers.Dense(10, activation=\"softmax\")\n])",
+        "detail": "neural-networks.exercise_05_overfitting_regularization",
+        "documentation": {}
+    },
+    {
+        "label": "final_history",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_05_overfitting_regularization",
+        "description": "neural-networks.exercise_05_overfitting_regularization",
+        "peekOfCode": "final_history = final_model.fit(\n    X_train,\n    y_train,\n    epochs=30,\n    batch_size=32,\n    validation_split=0.1,\n    callbacks=[early_stopping]\n)\n# ============================================================\n# 18. Analyze Early Stopping",
+        "detail": "neural-networks.exercise_05_overfitting_regularization",
+        "documentation": {}
+    },
+    {
+        "label": "epochs_trained",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_05_overfitting_regularization",
+        "description": "neural-networks.exercise_05_overfitting_regularization",
+        "peekOfCode": "epochs_trained = len(final_history.history[\"loss\"])\nbest_epoch = np.argmin(\n    final_history.history[\"val_loss\"]\n) + 1\nbest_val_loss = min(\n    final_history.history[\"val_loss\"]\n)\nprint(\"\\nEarly Stopping Results\")\nprint(\"----------------------\")\nprint(\"Epochs actually trained:\", epochs_trained)",
+        "detail": "neural-networks.exercise_05_overfitting_regularization",
+        "documentation": {}
+    },
+    {
+        "label": "best_epoch",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_05_overfitting_regularization",
+        "description": "neural-networks.exercise_05_overfitting_regularization",
+        "peekOfCode": "best_epoch = np.argmin(\n    final_history.history[\"val_loss\"]\n) + 1\nbest_val_loss = min(\n    final_history.history[\"val_loss\"]\n)\nprint(\"\\nEarly Stopping Results\")\nprint(\"----------------------\")\nprint(\"Epochs actually trained:\", epochs_trained)\nprint(\"Best epoch:\", best_epoch)",
+        "detail": "neural-networks.exercise_05_overfitting_regularization",
+        "documentation": {}
+    },
+    {
+        "label": "best_val_loss",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_05_overfitting_regularization",
+        "description": "neural-networks.exercise_05_overfitting_regularization",
+        "peekOfCode": "best_val_loss = min(\n    final_history.history[\"val_loss\"]\n)\nprint(\"\\nEarly Stopping Results\")\nprint(\"----------------------\")\nprint(\"Epochs actually trained:\", epochs_trained)\nprint(\"Best epoch:\", best_epoch)\nprint(\"Best validation loss:\", best_val_loss)\n# ============================================================\n# 19. Evaluate the final model",
+        "detail": "neural-networks.exercise_05_overfitting_regularization",
+        "documentation": {}
+    },
+    {
+        "label": "IMG_HEIGHT",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "IMG_HEIGHT = 128\nIMG_WIDTH = 128\nBATCH_SIZE = 32\nVALIDATION_SPLIT = 0.2\nSEED = 42\n# ============================================================\n# 2. Download the Dataset\n# ============================================================\ndataset_path = kagglehub.dataset_download(\n    \"shaunthesheep/microsoft-catsvsdogs-dataset\"",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "IMG_WIDTH",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "IMG_WIDTH = 128\nBATCH_SIZE = 32\nVALIDATION_SPLIT = 0.2\nSEED = 42\n# ============================================================\n# 2. Download the Dataset\n# ============================================================\ndataset_path = kagglehub.dataset_download(\n    \"shaunthesheep/microsoft-catsvsdogs-dataset\"\n)",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "BATCH_SIZE",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "BATCH_SIZE = 32\nVALIDATION_SPLIT = 0.2\nSEED = 42\n# ============================================================\n# 2. Download the Dataset\n# ============================================================\ndataset_path = kagglehub.dataset_download(\n    \"shaunthesheep/microsoft-catsvsdogs-dataset\"\n)\nprint(\"Dataset downloaded to:\")",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "VALIDATION_SPLIT",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "VALIDATION_SPLIT = 0.2\nSEED = 42\n# ============================================================\n# 2. Download the Dataset\n# ============================================================\ndataset_path = kagglehub.dataset_download(\n    \"shaunthesheep/microsoft-catsvsdogs-dataset\"\n)\nprint(\"Dataset downloaded to:\")\nprint(dataset_path)",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "SEED",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "SEED = 42\n# ============================================================\n# 2. Download the Dataset\n# ============================================================\ndataset_path = kagglehub.dataset_download(\n    \"shaunthesheep/microsoft-catsvsdogs-dataset\"\n)\nprint(\"Dataset downloaded to:\")\nprint(dataset_path)\n# ============================================================",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "dataset_path",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "dataset_path = kagglehub.dataset_download(\n    \"shaunthesheep/microsoft-catsvsdogs-dataset\"\n)\nprint(\"Dataset downloaded to:\")\nprint(dataset_path)\n# ============================================================\n# 3. Locate the Cat and Dog Directories\n# ============================================================\ndataset_root = Path(dataset_path)\ncat_directories = list(dataset_root.rglob(\"Cat\"))",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "dataset_root",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "dataset_root = Path(dataset_path)\ncat_directories = list(dataset_root.rglob(\"Cat\"))\ndog_directories = list(dataset_root.rglob(\"Dog\"))\nif not cat_directories:\n    raise FileNotFoundError(\n        f\"Could not find the 'Cat' directory inside: {dataset_root}\"\n    )\nif not dog_directories:\n    raise FileNotFoundError(\n        f\"Could not find the 'Dog' directory inside: {dataset_root}\"",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "cat_directories",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "cat_directories = list(dataset_root.rglob(\"Cat\"))\ndog_directories = list(dataset_root.rglob(\"Dog\"))\nif not cat_directories:\n    raise FileNotFoundError(\n        f\"Could not find the 'Cat' directory inside: {dataset_root}\"\n    )\nif not dog_directories:\n    raise FileNotFoundError(\n        f\"Could not find the 'Dog' directory inside: {dataset_root}\"\n    )",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "dog_directories",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "dog_directories = list(dataset_root.rglob(\"Dog\"))\nif not cat_directories:\n    raise FileNotFoundError(\n        f\"Could not find the 'Cat' directory inside: {dataset_root}\"\n    )\nif not dog_directories:\n    raise FileNotFoundError(\n        f\"Could not find the 'Dog' directory inside: {dataset_root}\"\n    )\ncat_directory = cat_directories[0]",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "cat_directory",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "cat_directory = cat_directories[0]\ndog_directory = dog_directories[0]\ndataset_root_directory = cat_directory.parent\nprint(\"Cat directory:\", cat_directory)\nprint(\"Dog directory:\", dog_directory)\nprint(\"Dataset root directory:\", dataset_root_directory)\n# ============================================================\n# 4. Load the Dataset\n# ============================================================\ndataset = tf.keras.utils.image_dataset_from_directory(",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "dog_directory",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "dog_directory = dog_directories[0]\ndataset_root_directory = cat_directory.parent\nprint(\"Cat directory:\", cat_directory)\nprint(\"Dog directory:\", dog_directory)\nprint(\"Dataset root directory:\", dataset_root_directory)\n# ============================================================\n# 4. Load the Dataset\n# ============================================================\ndataset = tf.keras.utils.image_dataset_from_directory(\n    dataset_root_directory,",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "dataset_root_directory",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "dataset_root_directory = cat_directory.parent\nprint(\"Cat directory:\", cat_directory)\nprint(\"Dog directory:\", dog_directory)\nprint(\"Dataset root directory:\", dataset_root_directory)\n# ============================================================\n# 4. Load the Dataset\n# ============================================================\ndataset = tf.keras.utils.image_dataset_from_directory(\n    dataset_root_directory,\n    labels=\"inferred\",",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "dataset",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "dataset = tf.keras.utils.image_dataset_from_directory(\n    dataset_root_directory,\n    labels=\"inferred\",\n    label_mode=\"binary\",\n    validation_split=VALIDATION_SPLIT,\n    subset=\"both\",\n    seed=SEED,\n    image_size=(IMG_HEIGHT, IMG_WIDTH),\n    batch_size=BATCH_SIZE,\n    shuffle=True",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "class_names",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "class_names = train_dataset.class_names\nprint(\"Class names:\", class_names)\n# ============================================================\n# 6. Ignore Invalid Images\n# ============================================================\ntrain_dataset = train_dataset.apply(\n    tf.data.experimental.ignore_errors()\n)\nvalidation_dataset = validation_dataset.apply(\n    tf.data.experimental.ignore_errors()",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "train_dataset",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "train_dataset = train_dataset.apply(\n    tf.data.experimental.ignore_errors()\n)\nvalidation_dataset = validation_dataset.apply(\n    tf.data.experimental.ignore_errors()\n)\n# ============================================================\n# 6. Normalize Pixel Values\n# ============================================================\nnormalization_layer = tf.keras.layers.Rescaling(",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "validation_dataset",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "validation_dataset = validation_dataset.apply(\n    tf.data.experimental.ignore_errors()\n)\n# ============================================================\n# 6. Normalize Pixel Values\n# ============================================================\nnormalization_layer = tf.keras.layers.Rescaling(\n    1.0 / 255\n)\ntrain_dataset = train_dataset.map(",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "normalization_layer",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "normalization_layer = tf.keras.layers.Rescaling(\n    1.0 / 255\n)\ntrain_dataset = train_dataset.map(\n    lambda images, labels: (\n        normalization_layer(images),\n        labels\n    ),\n    num_parallel_calls=tf.data.AUTOTUNE\n)",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "train_dataset",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "train_dataset = train_dataset.map(\n    lambda images, labels: (\n        normalization_layer(images),\n        labels\n    ),\n    num_parallel_calls=tf.data.AUTOTUNE\n)\nvalidation_dataset = validation_dataset.map(\n    lambda images, labels: (\n        normalization_layer(images),",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "validation_dataset",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "validation_dataset = validation_dataset.map(\n    lambda images, labels: (\n        normalization_layer(images),\n        labels\n    ),\n    num_parallel_calls=tf.data.AUTOTUNE\n)\n# ============================================================\n# 7. Optimize the Dataset Pipeline\n# ============================================================",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "train_dataset",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "train_dataset = train_dataset.prefetch(\n    tf.data.AUTOTUNE\n)\nvalidation_dataset = validation_dataset.prefetch(\n    tf.data.AUTOTUNE\n)\n# ============================================================\n# 8. Inspect the Dataset\n# ============================================================\nfor images, labels in train_dataset.take(1):",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "validation_dataset",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "validation_dataset = validation_dataset.prefetch(\n    tf.data.AUTOTUNE\n)\n# ============================================================\n# 8. Inspect the Dataset\n# ============================================================\nfor images, labels in train_dataset.take(1):\n    print(\"Image batch shape:\", images.shape)\n    print(\"Label batch shape:\", labels.shape)\n    print(",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "model = tf.keras.Sequential([\n    tf.keras.layers.Input(\n        shape=(\n            IMG_HEIGHT,\n            IMG_WIDTH,\n            3\n        )\n    ),\n    tf.keras.layers.Conv2D(\n        filters=32,",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "EPOCHS",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "EPOCHS = 10\nhistory = model.fit(\n    train_dataset,\n    validation_data=validation_dataset,\n    epochs=EPOCHS\n)\n# ============================================================\n# 14. Plot Training History\n# ============================================================\nplt.figure(figsize=(12, 5))",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "history",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "history = model.fit(\n    train_dataset,\n    validation_data=validation_dataset,\n    epochs=EPOCHS\n)\n# ============================================================\n# 14. Plot Training History\n# ============================================================\nplt.figure(figsize=(12, 5))\n# ------------------------------------------------------------",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "evaluation_results",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "evaluation_results = model.evaluate(\n    validation_dataset,\n    verbose=1\n)\nvalidation_loss = evaluation_results[0]\nvalidation_accuracy = evaluation_results[1]\nprint()\nprint(\"Validation Results\")\nprint(\"------------------\")\nprint(f\"Loss: {validation_loss:.4f}\")",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "validation_loss",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "validation_loss = evaluation_results[0]\nvalidation_accuracy = evaluation_results[1]\nprint()\nprint(\"Validation Results\")\nprint(\"------------------\")\nprint(f\"Loss: {validation_loss:.4f}\")\nprint(f\"Accuracy: {validation_accuracy:.4f}\")\n# ============================================================\n# 16. Generate Predictions\n# ============================================================",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "validation_accuracy",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "validation_accuracy = evaluation_results[1]\nprint()\nprint(\"Validation Results\")\nprint(\"------------------\")\nprint(f\"Loss: {validation_loss:.4f}\")\nprint(f\"Accuracy: {validation_accuracy:.4f}\")\n# ============================================================\n# 16. Generate Predictions\n# ============================================================\ny_true = []",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "y_true",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "y_true = []\ny_probabilities = []\nfor images, labels in validation_dataset:\n    predictions = model.predict(\n        images,\n        verbose=0\n    )\n    y_true.extend(\n        labels.numpy().flatten()\n    )",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "y_probabilities",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "y_probabilities = []\nfor images, labels in validation_dataset:\n    predictions = model.predict(\n        images,\n        verbose=0\n    )\n    y_true.extend(\n        labels.numpy().flatten()\n    )\n    y_probabilities.extend(",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "y_true",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "y_true = tf.convert_to_tensor(\n    y_true,\n    dtype=tf.float32\n)\ny_probabilities = tf.convert_to_tensor(\n    y_probabilities,\n    dtype=tf.float32\n)\ny_pred = tf.cast(\n    y_probabilities >= 0.5,",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "y_probabilities",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "y_probabilities = tf.convert_to_tensor(\n    y_probabilities,\n    dtype=tf.float32\n)\ny_pred = tf.cast(\n    y_probabilities >= 0.5,\n    tf.float32\n)\n# ============================================================\n# 17. Calculate Confusion Matrix",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "y_pred",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "y_pred = tf.cast(\n    y_probabilities >= 0.5,\n    tf.float32\n)\n# ============================================================\n# 17. Calculate Confusion Matrix\n# ============================================================\nconfusion_matrix = tf.math.confusion_matrix(\n    tf.cast(y_true, tf.int32),\n    tf.cast(y_pred, tf.int32),",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "confusion_matrix = tf.math.confusion_matrix(\n    tf.cast(y_true, tf.int32),\n    tf.cast(y_pred, tf.int32),\n    num_classes=2\n)\nprint()\nprint(\"Confusion Matrix\")\nprint(\"----------------\")\nprint(confusion_matrix.numpy())\n# ============================================================",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "true_cat",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "true_cat = confusion_matrix[0, 0].numpy()\ncat_predicted_as_dog = confusion_matrix[0, 1].numpy()\ndog_predicted_as_cat = confusion_matrix[1, 0].numpy()\ntrue_dog = confusion_matrix[1, 1].numpy()\nprint()\nprint(\"Confusion Matrix Details\")\nprint(\"------------------------\")\nprint(f\"Correct Cat predictions: {true_cat}\")\nprint(f\"Cat predicted as Dog: {cat_predicted_as_dog}\")\nprint(f\"Dog predicted as Cat: {dog_predicted_as_cat}\")",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "cat_predicted_as_dog",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "cat_predicted_as_dog = confusion_matrix[0, 1].numpy()\ndog_predicted_as_cat = confusion_matrix[1, 0].numpy()\ntrue_dog = confusion_matrix[1, 1].numpy()\nprint()\nprint(\"Confusion Matrix Details\")\nprint(\"------------------------\")\nprint(f\"Correct Cat predictions: {true_cat}\")\nprint(f\"Cat predicted as Dog: {cat_predicted_as_dog}\")\nprint(f\"Dog predicted as Cat: {dog_predicted_as_cat}\")\nprint(f\"Correct Dog predictions: {true_dog}\")",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "dog_predicted_as_cat",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "dog_predicted_as_cat = confusion_matrix[1, 0].numpy()\ntrue_dog = confusion_matrix[1, 1].numpy()\nprint()\nprint(\"Confusion Matrix Details\")\nprint(\"------------------------\")\nprint(f\"Correct Cat predictions: {true_cat}\")\nprint(f\"Cat predicted as Dog: {cat_predicted_as_dog}\")\nprint(f\"Dog predicted as Cat: {dog_predicted_as_cat}\")\nprint(f\"Correct Dog predictions: {true_dog}\")\n# ============================================================",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "true_dog",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "true_dog = confusion_matrix[1, 1].numpy()\nprint()\nprint(\"Confusion Matrix Details\")\nprint(\"------------------------\")\nprint(f\"Correct Cat predictions: {true_cat}\")\nprint(f\"Cat predicted as Dog: {cat_predicted_as_dog}\")\nprint(f\"Dog predicted as Cat: {dog_predicted_as_cat}\")\nprint(f\"Correct Dog predictions: {true_dog}\")\n# ============================================================\n# 19. Calculate Classification Metrics",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "true_positive",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "true_positive = true_dog\ntrue_negative = true_cat\nfalse_positive = dog_predicted_as_cat\nfalse_negative = cat_predicted_as_dog\ntotal_predictions = (\n    true_positive\n    + true_negative\n    + false_positive\n    + false_negative\n)",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "true_negative",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "true_negative = true_cat\nfalse_positive = dog_predicted_as_cat\nfalse_negative = cat_predicted_as_dog\ntotal_predictions = (\n    true_positive\n    + true_negative\n    + false_positive\n    + false_negative\n)\naccuracy = (",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "false_positive",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "false_positive = dog_predicted_as_cat\nfalse_negative = cat_predicted_as_dog\ntotal_predictions = (\n    true_positive\n    + true_negative\n    + false_positive\n    + false_negative\n)\naccuracy = (\n    (true_positive + true_negative)",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "false_negative",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "false_negative = cat_predicted_as_dog\ntotal_predictions = (\n    true_positive\n    + true_negative\n    + false_positive\n    + false_negative\n)\naccuracy = (\n    (true_positive + true_negative)\n    / total_predictions",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "total_predictions",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "total_predictions = (\n    true_positive\n    + true_negative\n    + false_positive\n    + false_negative\n)\naccuracy = (\n    (true_positive + true_negative)\n    / total_predictions\n)",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "accuracy = (\n    (true_positive + true_negative)\n    / total_predictions\n)\nprecision = (\n    true_positive\n    / (true_positive + false_positive)\n    if (true_positive + false_positive) > 0\n    else 0\n)",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "precision",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "precision = (\n    true_positive\n    / (true_positive + false_positive)\n    if (true_positive + false_positive) > 0\n    else 0\n)\nrecall = (\n    true_positive\n    / (true_positive + false_negative)\n    if (true_positive + false_negative) > 0",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "recall",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "recall = (\n    true_positive\n    / (true_positive + false_negative)\n    if (true_positive + false_negative) > 0\n    else 0\n)\nf1_score = (\n    2 * precision * recall\n    / (precision + recall)\n    if (precision + recall) > 0",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_06_cnn_image_classification",
+        "description": "neural-networks.exercise_06_cnn_image_classification",
+        "peekOfCode": "f1_score = (\n    2 * precision * recall\n    / (precision + recall)\n    if (precision + recall) > 0\n    else 0\n)\nprint()\nprint(\"Classification Metrics\")\nprint(\"----------------------\")\nprint(f\"Accuracy:  {accuracy:.4f}\")",
+        "detail": "neural-networks.exercise_06_cnn_image_classification",
+        "documentation": {}
+    },
+    {
+        "label": "IMG_HEIGHT",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "IMG_HEIGHT = 160\nIMG_WIDTH = 160\nBATCH_SIZE = 32\nVALIDATION_SPLIT = 0.2\nSEED = 42\n# ------------------------------------------------------------\n# Step 2 - Download Dataset\n# ------------------------------------------------------------\ndataset_path = kagglehub.dataset_download(\n    \"shaunthesheep/microsoft-catsvsdogs-dataset\"",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "IMG_WIDTH",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "IMG_WIDTH = 160\nBATCH_SIZE = 32\nVALIDATION_SPLIT = 0.2\nSEED = 42\n# ------------------------------------------------------------\n# Step 2 - Download Dataset\n# ------------------------------------------------------------\ndataset_path = kagglehub.dataset_download(\n    \"shaunthesheep/microsoft-catsvsdogs-dataset\"\n)",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "BATCH_SIZE",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "BATCH_SIZE = 32\nVALIDATION_SPLIT = 0.2\nSEED = 42\n# ------------------------------------------------------------\n# Step 2 - Download Dataset\n# ------------------------------------------------------------\ndataset_path = kagglehub.dataset_download(\n    \"shaunthesheep/microsoft-catsvsdogs-dataset\"\n)\ndataset_path = Path(dataset_path)",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "VALIDATION_SPLIT",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "VALIDATION_SPLIT = 0.2\nSEED = 42\n# ------------------------------------------------------------\n# Step 2 - Download Dataset\n# ------------------------------------------------------------\ndataset_path = kagglehub.dataset_download(\n    \"shaunthesheep/microsoft-catsvsdogs-dataset\"\n)\ndataset_path = Path(dataset_path)\nprint(\"Dataset path:\")",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "SEED",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "SEED = 42\n# ------------------------------------------------------------\n# Step 2 - Download Dataset\n# ------------------------------------------------------------\ndataset_path = kagglehub.dataset_download(\n    \"shaunthesheep/microsoft-catsvsdogs-dataset\"\n)\ndataset_path = Path(dataset_path)\nprint(\"Dataset path:\")\nprint(dataset_path)",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "dataset_path",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "dataset_path = kagglehub.dataset_download(\n    \"shaunthesheep/microsoft-catsvsdogs-dataset\"\n)\ndataset_path = Path(dataset_path)\nprint(\"Dataset path:\")\nprint(dataset_path)\n# ------------------------------------------------------------\n# Step 3 - Find Cat and Dog Directories\n# ------------------------------------------------------------\ncat_dirs = list(dataset_path.rglob(\"Cat\"))",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "dataset_path",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "dataset_path = Path(dataset_path)\nprint(\"Dataset path:\")\nprint(dataset_path)\n# ------------------------------------------------------------\n# Step 3 - Find Cat and Dog Directories\n# ------------------------------------------------------------\ncat_dirs = list(dataset_path.rglob(\"Cat\"))\ndog_dirs = list(dataset_path.rglob(\"Dog\"))\nif not cat_dirs or not dog_dirs:\n    raise FileNotFoundError(",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "cat_dirs",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "cat_dirs = list(dataset_path.rglob(\"Cat\"))\ndog_dirs = list(dataset_path.rglob(\"Dog\"))\nif not cat_dirs or not dog_dirs:\n    raise FileNotFoundError(\n        \"Could not find Cat and Dog directories.\"\n    )\ndata_dir = cat_dirs[0].parent\nprint(\"Data directory:\")\nprint(data_dir)\n# ------------------------------------------------------------",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "dog_dirs",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "dog_dirs = list(dataset_path.rglob(\"Dog\"))\nif not cat_dirs or not dog_dirs:\n    raise FileNotFoundError(\n        \"Could not find Cat and Dog directories.\"\n    )\ndata_dir = cat_dirs[0].parent\nprint(\"Data directory:\")\nprint(data_dir)\n# ------------------------------------------------------------\n# Step 4 - Load Dataset",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "data_dir",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "data_dir = cat_dirs[0].parent\nprint(\"Data directory:\")\nprint(data_dir)\n# ------------------------------------------------------------\n# Step 4 - Load Dataset\n# ------------------------------------------------------------\ntrain_ds, val_ds = tf.keras.utils.image_dataset_from_directory(\n    data_dir,\n    labels=\"inferred\",\n    label_mode=\"binary\",",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "train_ds",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "train_ds = train_ds.apply(\n    tf.data.experimental.ignore_errors()\n)\nval_ds = val_ds.apply(\n    tf.data.experimental.ignore_errors()\n)\n# ------------------------------------------------------------\n# Step 6 - Optimize Dataset Loading\n# ------------------------------------------------------------\nAUTOTUNE = tf.data.AUTOTUNE",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "val_ds",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "val_ds = val_ds.apply(\n    tf.data.experimental.ignore_errors()\n)\n# ------------------------------------------------------------\n# Step 6 - Optimize Dataset Loading\n# ------------------------------------------------------------\nAUTOTUNE = tf.data.AUTOTUNE\ntrain_ds = train_ds.prefetch(AUTOTUNE)\nval_ds = val_ds.prefetch(AUTOTUNE)\n# ------------------------------------------------------------",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "AUTOTUNE",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "AUTOTUNE = tf.data.AUTOTUNE\ntrain_ds = train_ds.prefetch(AUTOTUNE)\nval_ds = val_ds.prefetch(AUTOTUNE)\n# ------------------------------------------------------------\n# Step 7 - Load Pre-Trained MobileNetV2\n# ------------------------------------------------------------\nbase_model = tf.keras.applications.MobileNetV2(\n    input_shape=(IMG_HEIGHT, IMG_WIDTH, 3),\n    include_top=False,\n    weights=\"imagenet\"",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "train_ds",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "train_ds = train_ds.prefetch(AUTOTUNE)\nval_ds = val_ds.prefetch(AUTOTUNE)\n# ------------------------------------------------------------\n# Step 7 - Load Pre-Trained MobileNetV2\n# ------------------------------------------------------------\nbase_model = tf.keras.applications.MobileNetV2(\n    input_shape=(IMG_HEIGHT, IMG_WIDTH, 3),\n    include_top=False,\n    weights=\"imagenet\"\n)",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "val_ds",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "val_ds = val_ds.prefetch(AUTOTUNE)\n# ------------------------------------------------------------\n# Step 7 - Load Pre-Trained MobileNetV2\n# ------------------------------------------------------------\nbase_model = tf.keras.applications.MobileNetV2(\n    input_shape=(IMG_HEIGHT, IMG_WIDTH, 3),\n    include_top=False,\n    weights=\"imagenet\"\n)\n# Freeze the entire pre-trained network.",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "base_model",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "base_model = tf.keras.applications.MobileNetV2(\n    input_shape=(IMG_HEIGHT, IMG_WIDTH, 3),\n    include_top=False,\n    weights=\"imagenet\"\n)\n# Freeze the entire pre-trained network.\nbase_model.trainable = False\n# ------------------------------------------------------------\n# Step 8 - Build Transfer Learning Model\n# ------------------------------------------------------------",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "base_model.trainable",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "base_model.trainable = False\n# ------------------------------------------------------------\n# Step 8 - Build Transfer Learning Model\n# ------------------------------------------------------------\npreprocess_input = (\n    tf.keras.applications.mobilenet_v2.preprocess_input\n)\ninputs = tf.keras.Input(\n    shape=(IMG_HEIGHT, IMG_WIDTH, 3)\n)",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_input",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "preprocess_input = (\n    tf.keras.applications.mobilenet_v2.preprocess_input\n)\ninputs = tf.keras.Input(\n    shape=(IMG_HEIGHT, IMG_WIDTH, 3)\n)\nx = preprocess_input(inputs)\nx = base_model(\n    x,\n    training=False",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "inputs",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "inputs = tf.keras.Input(\n    shape=(IMG_HEIGHT, IMG_WIDTH, 3)\n)\nx = preprocess_input(inputs)\nx = base_model(\n    x,\n    training=False\n)\nx = tf.keras.layers.GlobalAveragePooling2D()(x)\nx = tf.keras.layers.Dense(",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "x = preprocess_input(inputs)\nx = base_model(\n    x,\n    training=False\n)\nx = tf.keras.layers.GlobalAveragePooling2D()(x)\nx = tf.keras.layers.Dense(\n    128,\n    activation=\"relu\"\n)(x)",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "x = base_model(\n    x,\n    training=False\n)\nx = tf.keras.layers.GlobalAveragePooling2D()(x)\nx = tf.keras.layers.Dense(\n    128,\n    activation=\"relu\"\n)(x)\nx = tf.keras.layers.Dropout(0.3)(x)",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "x = tf.keras.layers.GlobalAveragePooling2D()(x)\nx = tf.keras.layers.Dense(\n    128,\n    activation=\"relu\"\n)(x)\nx = tf.keras.layers.Dropout(0.3)(x)\noutputs = tf.keras.layers.Dense(\n    1,\n    activation=\"sigmoid\"\n)(x)",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "x = tf.keras.layers.Dense(\n    128,\n    activation=\"relu\"\n)(x)\nx = tf.keras.layers.Dropout(0.3)(x)\noutputs = tf.keras.layers.Dense(\n    1,\n    activation=\"sigmoid\"\n)(x)\nmodel = tf.keras.Model(",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "x = tf.keras.layers.Dropout(0.3)(x)\noutputs = tf.keras.layers.Dense(\n    1,\n    activation=\"sigmoid\"\n)(x)\nmodel = tf.keras.Model(\n    inputs,\n    outputs\n)\n# ------------------------------------------------------------",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "outputs",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "outputs = tf.keras.layers.Dense(\n    1,\n    activation=\"sigmoid\"\n)(x)\nmodel = tf.keras.Model(\n    inputs,\n    outputs\n)\n# ------------------------------------------------------------\n# Step 9 - Compile Model",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "model = tf.keras.Model(\n    inputs,\n    outputs\n)\n# ------------------------------------------------------------\n# Step 9 - Compile Model\n# ------------------------------------------------------------\nmodel.compile(\n    optimizer=tf.keras.optimizers.Adam(\n        learning_rate=0.0001",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "trainable_params",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "trainable_params = sum(\n    tf.keras.backend.count_params(weight)\n    for weight in model.trainable_weights\n)\nnon_trainable_params = sum(\n    tf.keras.backend.count_params(weight)\n    for weight in model.non_trainable_weights\n)\nprint()\nprint(\"Transfer Learning Model\")",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "non_trainable_params",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "non_trainable_params = sum(\n    tf.keras.backend.count_params(weight)\n    for weight in model.non_trainable_weights\n)\nprint()\nprint(\"Transfer Learning Model\")\nprint(\"-----------------------\")\nprint(\"Trainable parameters:\", trainable_params)\nprint(\"Non-trainable parameters:\", non_trainable_params)\n# ------------------------------------------------------------",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "EPOCHS",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "EPOCHS = 10\nhistory = model.fit(\n    train_ds,\n    validation_data=val_ds,\n    epochs=EPOCHS\n)\n# ------------------------------------------------------------\n# Step 12 - Evaluate Transfer Learning Model\n# ------------------------------------------------------------\ntest_loss, test_accuracy = model.evaluate(",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "history",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "history = model.fit(\n    train_ds,\n    validation_data=val_ds,\n    epochs=EPOCHS\n)\n# ------------------------------------------------------------\n# Step 12 - Evaluate Transfer Learning Model\n# ------------------------------------------------------------\ntest_loss, test_accuracy = model.evaluate(\n    val_ds,",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "y_true",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "y_true = []\ny_pred = []\ny_probability = []\nfor images, labels in val_ds:\n    probabilities = model.predict(\n        images,\n        verbose=0\n    )\n    predictions = (\n        probabilities >= 0.5",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "y_pred",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "y_pred = []\ny_probability = []\nfor images, labels in val_ds:\n    probabilities = model.predict(\n        images,\n        verbose=0\n    )\n    predictions = (\n        probabilities >= 0.5\n    ).astype(\"int32\")",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "y_probability",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "y_probability = []\nfor images, labels in val_ds:\n    probabilities = model.predict(\n        images,\n        verbose=0\n    )\n    predictions = (\n        probabilities >= 0.5\n    ).astype(\"int32\")\n    y_true.extend(",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "y_true",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "y_true = tf.convert_to_tensor(y_true)\ny_pred = tf.convert_to_tensor(y_pred)\ny_probability = tf.convert_to_tensor(y_probability)\nconfusion_matrix = tf.math.confusion_matrix(\n    y_true,\n    y_pred\n)\nprint()\nprint(\"Confusion Matrix\")\nprint(\"-----------------\")",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "y_pred",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "y_pred = tf.convert_to_tensor(y_pred)\ny_probability = tf.convert_to_tensor(y_probability)\nconfusion_matrix = tf.math.confusion_matrix(\n    y_true,\n    y_pred\n)\nprint()\nprint(\"Confusion Matrix\")\nprint(\"-----------------\")\nprint(confusion_matrix.numpy())",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "y_probability",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "y_probability = tf.convert_to_tensor(y_probability)\nconfusion_matrix = tf.math.confusion_matrix(\n    y_true,\n    y_pred\n)\nprint()\nprint(\"Confusion Matrix\")\nprint(\"-----------------\")\nprint(confusion_matrix.numpy())\n# ============================================================",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "confusion_matrix = tf.math.confusion_matrix(\n    y_true,\n    y_pred\n)\nprint()\nprint(\"Confusion Matrix\")\nprint(\"-----------------\")\nprint(confusion_matrix.numpy())\n# ============================================================\n# FINE-TUNING",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "base_model.trainable",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "base_model.trainable = True\n# Freeze the early layers of MobileNetV2.\nfine_tune_at = 100\nfor layer in base_model.layers[:fine_tune_at]:\n    layer.trainable = False\n# Keep Batch Normalization layers frozen.\n# This helps keep the pre-trained statistics stable\n# during fine-tuning.\nfor layer in base_model.layers:\n    if isinstance(",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "fine_tune_at",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "fine_tune_at = 100\nfor layer in base_model.layers[:fine_tune_at]:\n    layer.trainable = False\n# Keep Batch Normalization layers frozen.\n# This helps keep the pre-trained statistics stable\n# during fine-tuning.\nfor layer in base_model.layers:\n    if isinstance(\n        layer,\n        tf.keras.layers.BatchNormalization",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "trainable_params",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "trainable_params = sum(\n    tf.keras.backend.count_params(weight)\n    for weight in model.trainable_weights\n)\nnon_trainable_params = sum(\n    tf.keras.backend.count_params(weight)\n    for weight in model.non_trainable_weights\n)\nprint()\nprint(\"Fine-Tuning Configuration\")",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "non_trainable_params",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "non_trainable_params = sum(\n    tf.keras.backend.count_params(weight)\n    for weight in model.non_trainable_weights\n)\nprint()\nprint(\"Fine-Tuning Configuration\")\nprint(\"-------------------------\")\nprint(\"Fine-tune from layer:\", fine_tune_at)\nprint(\"Trainable parameters:\", trainable_params)\nprint(\"Non-trainable parameters:\", non_trainable_params)",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "FINE_TUNE_EPOCHS",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "FINE_TUNE_EPOCHS = 5\nfine_tune_history = model.fit(\n    train_ds,\n    validation_data=val_ds,\n    epochs=FINE_TUNE_EPOCHS\n)\n# ------------------------------------------------------------\n# Step 19 - Evaluate Fine-Tuned Model\n# ------------------------------------------------------------\nfine_tune_loss, fine_tune_accuracy = model.evaluate(",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "fine_tune_history",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "fine_tune_history = model.fit(\n    train_ds,\n    validation_data=val_ds,\n    epochs=FINE_TUNE_EPOCHS\n)\n# ------------------------------------------------------------\n# Step 19 - Evaluate Fine-Tuned Model\n# ------------------------------------------------------------\nfine_tune_loss, fine_tune_accuracy = model.evaluate(\n    val_ds,",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "y_true",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "y_true = []\ny_pred = []\nfor images, labels in val_ds:\n    probabilities = model.predict(\n        images,\n        verbose=0\n    )\n    predictions = (\n        probabilities >= 0.5\n    ).astype(\"int32\")",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "y_pred",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "y_pred = []\nfor images, labels in val_ds:\n    probabilities = model.predict(\n        images,\n        verbose=0\n    )\n    predictions = (\n        probabilities >= 0.5\n    ).astype(\"int32\")\n    y_true.extend(",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "y_true",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "y_true = tf.convert_to_tensor(y_true)\ny_pred = tf.convert_to_tensor(y_pred)\nfinal_confusion_matrix = tf.math.confusion_matrix(\n    y_true,\n    y_pred\n)\nprint()\nprint(\"Final Confusion Matrix\")\nprint(\"----------------------\")\nprint(final_confusion_matrix.numpy())",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "y_pred",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "y_pred = tf.convert_to_tensor(y_pred)\nfinal_confusion_matrix = tf.math.confusion_matrix(\n    y_true,\n    y_pred\n)\nprint()\nprint(\"Final Confusion Matrix\")\nprint(\"----------------------\")\nprint(final_confusion_matrix.numpy())\n# ------------------------------------------------------------",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "final_confusion_matrix",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "final_confusion_matrix = tf.math.confusion_matrix(\n    y_true,\n    y_pred\n)\nprint()\nprint(\"Final Confusion Matrix\")\nprint(\"----------------------\")\nprint(final_confusion_matrix.numpy())\n# ------------------------------------------------------------\n# Step 22 - Compare Transfer Learning and Fine-Tuning",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "early_stopping",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "early_stopping = tf.keras.callbacks.EarlyStopping(\n    monitor=\"val_loss\",\n    patience=2,\n    restore_best_weights=True\n)\nFINE_TUNE_EPOCHS = 10\nfine_tune_history = model.fit(\n    train_ds,\n    validation_data=val_ds,\n    epochs=FINE_TUNE_EPOCHS,",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "FINE_TUNE_EPOCHS",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "FINE_TUNE_EPOCHS = 10\nfine_tune_history = model.fit(\n    train_ds,\n    validation_data=val_ds,\n    epochs=FINE_TUNE_EPOCHS,\n    callbacks=[early_stopping]\n)\n# ------------------------------------------------------------\n# Step 19 - Evaluate Fine-Tuned Model\n# ------------------------------------------------------------",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "fine_tune_history",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "fine_tune_history = model.fit(\n    train_ds,\n    validation_data=val_ds,\n    epochs=FINE_TUNE_EPOCHS,\n    callbacks=[early_stopping]\n)\n# ------------------------------------------------------------\n# Step 19 - Evaluate Fine-Tuned Model\n# ------------------------------------------------------------\nfine_tune_loss, fine_tune_accuracy = model.evaluate(",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "y_true",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "y_true = []\ny_pred = []\nfor images, labels in val_ds:\n    probabilities = model.predict(\n        images,\n        verbose=0\n    )\n    predictions = (\n        probabilities >= 0.5\n    ).astype(\"int32\")",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "y_pred",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "y_pred = []\nfor images, labels in val_ds:\n    probabilities = model.predict(\n        images,\n        verbose=0\n    )\n    predictions = (\n        probabilities >= 0.5\n    ).astype(\"int32\")\n    y_true.extend(",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "y_true",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "y_true = tf.convert_to_tensor(y_true)\ny_pred = tf.convert_to_tensor(y_pred)\nfinal_confusion_matrix = tf.math.confusion_matrix(\n    y_true,\n    y_pred\n)\nprint()\nprint(\"Final Confusion Matrix\")\nprint(\"----------------------\")\nprint(final_confusion_matrix.numpy())",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "y_pred",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "y_pred = tf.convert_to_tensor(y_pred)\nfinal_confusion_matrix = tf.math.confusion_matrix(\n    y_true,\n    y_pred\n)\nprint()\nprint(\"Final Confusion Matrix\")\nprint(\"----------------------\")\nprint(final_confusion_matrix.numpy())\n# ------------------------------------------------------------",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "final_confusion_matrix",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_07_transfer_learning",
+        "description": "neural-networks.exercise_07_transfer_learning",
+        "peekOfCode": "final_confusion_matrix = tf.math.confusion_matrix(\n    y_true,\n    y_pred\n)\nprint()\nprint(\"Final Confusion Matrix\")\nprint(\"----------------------\")\nprint(final_confusion_matrix.numpy())\n# ------------------------------------------------------------\n# Step 22 - Model Comparison",
+        "detail": "neural-networks.exercise_07_transfer_learning",
+        "documentation": {}
+    },
+    {
+        "label": "add_neural_network",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "def add_neural_network(\n    trainable: bool,\n    learning_rate: float,\n    fine_tune_at: int = 100,\n    fine_tune_learning_rate: float = 0.00001\n) -> dict:\n    # Load pre-trained MobileNetV2\n    base_model = tf.keras.applications.MobileNetV2(\n        input_shape=(\n            IMG_HEIGHT,",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "visualize_results",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "def visualize_results(\n    title: str,\n    accuracy: list[float],\n    val_accuracy: list[float],\n    loss: list[float],\n    val_loss: list[float],\n    model: tf.keras.Model,\n    dataset: tf.data.Dataset\n) -> None:\n    # ==================================================",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "predict_image",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "def predict_image(\n    model: tf.keras.Model,\n    image_path: Path\n) -> None:\n    # Check if image exists\n    if not image_path.exists():\n        print()\n        print(\n            f\"Image not found: {image_path}\"\n        )",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_new_images",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "def analyze_new_images(\n    model: tf.keras.Model,\n    images_directory: Path\n) -> None:\n    if not images_directory.exists():\n        print()\n        print(\n            f\"Directory not found: \"\n            f\"{images_directory}\"\n        )",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "IMG_HEIGHT",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "IMG_HEIGHT = 160\nIMG_WIDTH = 160\nBATCH_SIZE = 32\nVALIDATION_SPLIT = 0.2\nSEED = 42\nEPOCHS = 10\nLEARNING_RATE = 0.001\nFINE_TUNE_AT = 100\nFINE_TUNE_LEARNING_RATE = 0.00001\nTEST_IMAGES_DIR = Path(\"test_images\")",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "IMG_WIDTH",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "IMG_WIDTH = 160\nBATCH_SIZE = 32\nVALIDATION_SPLIT = 0.2\nSEED = 42\nEPOCHS = 10\nLEARNING_RATE = 0.001\nFINE_TUNE_AT = 100\nFINE_TUNE_LEARNING_RATE = 0.00001\nTEST_IMAGES_DIR = Path(\"test_images\")\n# ======================================================",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "BATCH_SIZE",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "BATCH_SIZE = 32\nVALIDATION_SPLIT = 0.2\nSEED = 42\nEPOCHS = 10\nLEARNING_RATE = 0.001\nFINE_TUNE_AT = 100\nFINE_TUNE_LEARNING_RATE = 0.00001\nTEST_IMAGES_DIR = Path(\"test_images\")\n# ======================================================\n# Create Neural Network",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "VALIDATION_SPLIT",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "VALIDATION_SPLIT = 0.2\nSEED = 42\nEPOCHS = 10\nLEARNING_RATE = 0.001\nFINE_TUNE_AT = 100\nFINE_TUNE_LEARNING_RATE = 0.00001\nTEST_IMAGES_DIR = Path(\"test_images\")\n# ======================================================\n# Create Neural Network\n# ======================================================",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "SEED",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "SEED = 42\nEPOCHS = 10\nLEARNING_RATE = 0.001\nFINE_TUNE_AT = 100\nFINE_TUNE_LEARNING_RATE = 0.00001\nTEST_IMAGES_DIR = Path(\"test_images\")\n# ======================================================\n# Create Neural Network\n# ======================================================\ndef add_neural_network(",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "EPOCHS",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "EPOCHS = 10\nLEARNING_RATE = 0.001\nFINE_TUNE_AT = 100\nFINE_TUNE_LEARNING_RATE = 0.00001\nTEST_IMAGES_DIR = Path(\"test_images\")\n# ======================================================\n# Create Neural Network\n# ======================================================\ndef add_neural_network(\n    trainable: bool,",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "LEARNING_RATE",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "LEARNING_RATE = 0.001\nFINE_TUNE_AT = 100\nFINE_TUNE_LEARNING_RATE = 0.00001\nTEST_IMAGES_DIR = Path(\"test_images\")\n# ======================================================\n# Create Neural Network\n# ======================================================\ndef add_neural_network(\n    trainable: bool,\n    learning_rate: float,",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "FINE_TUNE_AT",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "FINE_TUNE_AT = 100\nFINE_TUNE_LEARNING_RATE = 0.00001\nTEST_IMAGES_DIR = Path(\"test_images\")\n# ======================================================\n# Create Neural Network\n# ======================================================\ndef add_neural_network(\n    trainable: bool,\n    learning_rate: float,\n    fine_tune_at: int = 100,",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "FINE_TUNE_LEARNING_RATE",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "FINE_TUNE_LEARNING_RATE = 0.00001\nTEST_IMAGES_DIR = Path(\"test_images\")\n# ======================================================\n# Create Neural Network\n# ======================================================\ndef add_neural_network(\n    trainable: bool,\n    learning_rate: float,\n    fine_tune_at: int = 100,\n    fine_tune_learning_rate: float = 0.00001",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "TEST_IMAGES_DIR",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "TEST_IMAGES_DIR = Path(\"test_images\")\n# ======================================================\n# Create Neural Network\n# ======================================================\ndef add_neural_network(\n    trainable: bool,\n    learning_rate: float,\n    fine_tune_at: int = 100,\n    fine_tune_learning_rate: float = 0.00001\n) -> dict:",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "dataset_path",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "dataset_path = kagglehub.dataset_download(\n    \"shaunthesheep/microsoft-catsvsdogs-dataset\"\n)\ndataset_path = Path(\n    dataset_path\n)\n# ======================================================\n# Find Cat and Dog Directories\n# ======================================================\ncat_dir = list(",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "dataset_path",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "dataset_path = Path(\n    dataset_path\n)\n# ======================================================\n# Find Cat and Dog Directories\n# ======================================================\ncat_dir = list(\n    dataset_path.rglob(\"Cat\")\n)\ndog_dir = list(",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "cat_dir",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "cat_dir = list(\n    dataset_path.rglob(\"Cat\")\n)\ndog_dir = list(\n    dataset_path.rglob(\"Dog\")\n)\nif not cat_dir or not dog_dir:\n    raise FileNotFoundError(\n        \"Could not find Cat and Dog directories.\"\n    )",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "dog_dir",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "dog_dir = list(\n    dataset_path.rglob(\"Dog\")\n)\nif not cat_dir or not dog_dir:\n    raise FileNotFoundError(\n        \"Could not find Cat and Dog directories.\"\n    )\nmain_dir = cat_dir[0].parent\nprint()\nprint(",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "main_dir",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "main_dir = cat_dir[0].parent\nprint()\nprint(\n    f\"Main dataset directory: {main_dir}\"\n)\nprint(\n    f\"Downloaded dataset directory: {dataset_path}\"\n)\n# ======================================================\n# Create Training and Validation Datasets",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "train_ds",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "train_ds = train_ds.apply(\n    tf.data.experimental.ignore_errors()\n)\nval_ds = val_ds.apply(\n    tf.data.experimental.ignore_errors()\n)\n# ======================================================\n# Transfer Learning\n# ======================================================\nprint()",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "val_ds",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "val_ds = val_ds.apply(\n    tf.data.experimental.ignore_errors()\n)\n# ======================================================\n# Transfer Learning\n# ======================================================\nprint()\nprint(\n    \"========================\"\n)",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "transfer_learning",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "transfer_learning = add_neural_network(\n    trainable=False,\n    learning_rate=LEARNING_RATE\n)\n# ======================================================\n# Transfer Learning Results\n# ======================================================\nprint()\nprint(\n    \"========================\"",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "transfer_history",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "transfer_history = (\n    transfer_learning[\"history\"].history\n)\nvisualize_results(\n    title=\"Transfer Learning\",\n    accuracy=transfer_history[\"accuracy\"],\n    val_accuracy=transfer_history[\"val_accuracy\"],\n    loss=transfer_history[\"loss\"],\n    val_loss=transfer_history[\"val_loss\"],\n    model=transfer_learning[\"model\"],",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "fine_tuning",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "fine_tuning = add_neural_network(\n    trainable=True,\n    learning_rate=LEARNING_RATE,\n    fine_tune_at=FINE_TUNE_AT,\n    fine_tune_learning_rate=FINE_TUNE_LEARNING_RATE\n)\n# ======================================================\n# Fine-Tuning Results\n# ======================================================\nprint()",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "fine_tuning_history",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "fine_tuning_history = (\n    fine_tuning[\"history\"].history\n)\nvisualize_results(\n    title=\"Fine-Tuning\",\n    accuracy=fine_tuning_history[\"accuracy\"],\n    val_accuracy=fine_tuning_history[\"val_accuracy\"],\n    loss=fine_tuning_history[\"loss\"],\n    val_loss=fine_tuning_history[\"val_loss\"],\n    model=fine_tuning[\"model\"],",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "transfer_accuracy",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "transfer_accuracy = (\n    transfer_learning[\"validation_accuracy\"]\n)\nfine_tuning_accuracy = (\n    fine_tuning[\"validation_accuracy\"]\n)\ntransfer_loss = (\n    transfer_learning[\"validation_loss\"]\n)\nfine_tuning_loss = (",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "fine_tuning_accuracy",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "fine_tuning_accuracy = (\n    fine_tuning[\"validation_accuracy\"]\n)\ntransfer_loss = (\n    transfer_learning[\"validation_loss\"]\n)\nfine_tuning_loss = (\n    fine_tuning[\"validation_loss\"]\n)\naccuracy_difference = (",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "transfer_loss",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "transfer_loss = (\n    transfer_learning[\"validation_loss\"]\n)\nfine_tuning_loss = (\n    fine_tuning[\"validation_loss\"]\n)\naccuracy_difference = (\n    fine_tuning_accuracy\n    - transfer_accuracy\n)",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "fine_tuning_loss",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "fine_tuning_loss = (\n    fine_tuning[\"validation_loss\"]\n)\naccuracy_difference = (\n    fine_tuning_accuracy\n    - transfer_accuracy\n)\nloss_difference = (\n    fine_tuning_loss\n    - transfer_loss",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_difference",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "accuracy_difference = (\n    fine_tuning_accuracy\n    - transfer_accuracy\n)\nloss_difference = (\n    fine_tuning_loss\n    - transfer_loss\n)\nprint()\nprint(",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "loss_difference",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "loss_difference = (\n    fine_tuning_loss\n    - transfer_loss\n)\nprint()\nprint(\n    \"========================\"\n)\nprint(\n    \"Model Comparison\"",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "final_training_accuracy",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "final_training_accuracy = (\n    fine_tuning_history[\"accuracy\"][-1]\n)\nfinal_validation_accuracy = (\n    fine_tuning_history[\"val_accuracy\"][-1]\n)\naccuracy_gap = (\n    final_training_accuracy\n    - final_validation_accuracy\n)",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "final_validation_accuracy",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "final_validation_accuracy = (\n    fine_tuning_history[\"val_accuracy\"][-1]\n)\naccuracy_gap = (\n    final_training_accuracy\n    - final_validation_accuracy\n)\nprint()\nprint(\n    \"========================\"",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_gap",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_08_fine_tuning",
+        "description": "neural-networks.exercise_08_fine_tuning",
+        "peekOfCode": "accuracy_gap = (\n    final_training_accuracy\n    - final_validation_accuracy\n)\nprint()\nprint(\n    \"========================\"\n)\nprint(\n    \"Overfitting Analysis\"",
+        "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    }
+]
