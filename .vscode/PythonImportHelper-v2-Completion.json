@@ -90,6 +90,14 @@
         "documentation": {}
     },
     {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
         "label": "LinearRegression",
         "importPath": "sklearn.linear_model",
         "description": "sklearn.linear_model",
@@ -171,6 +179,70 @@
     },
     {
         "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "roc_auc_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "roc_curve",
         "importPath": "sklearn.metrics",
         "description": "sklearn.metrics",
         "isExtraImport": true,
@@ -274,6 +346,312 @@
         "documentation": {}
     },
     {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "DATASET_PATH",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "RANDOM_STATE",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL_PATH",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "PREPROCESSOR_PATH",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "CONFIG_PATH",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "ARCHITECTURE_IMAGE_PATH",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "RESULTS_DIR",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "EPOCHS",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "BATCH_SIZE",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "LEARNING_RATE",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "DROPOUT_RATE_1",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "DROPOUT_RATE_2",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "PREPROCESSOR_PATH",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset",
+        "importPath": "data",
+        "description": "data",
+        "isExtraImport": true,
+        "detail": "data",
+        "documentation": {}
+    },
+    {
+        "label": "clean_dataset",
+        "importPath": "data",
+        "description": "data",
+        "isExtraImport": true,
+        "detail": "data",
+        "documentation": {}
+    },
+    {
+        "label": "split_dataset",
+        "importPath": "data",
+        "description": "data",
+        "isExtraImport": true,
+        "detail": "data",
+        "documentation": {}
+    },
+    {
+        "label": "create_preprocessor",
+        "importPath": "preprocessing",
+        "description": "preprocessing",
+        "isExtraImport": true,
+        "detail": "preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_data",
+        "importPath": "preprocessing",
+        "description": "preprocessing",
+        "isExtraImport": true,
+        "detail": "preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "save_preprocessor",
+        "importPath": "preprocessing",
+        "description": "preprocessing",
+        "isExtraImport": true,
+        "detail": "preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "create_model",
+        "importPath": "model",
+        "description": "model",
+        "isExtraImport": true,
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "create_callbacks",
+        "importPath": "model",
+        "description": "model",
+        "isExtraImport": true,
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "importPath": "evaluation",
+        "description": "evaluation",
+        "isExtraImport": true,
+        "detail": "evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_roc_auc",
+        "importPath": "evaluation",
+        "description": "evaluation",
+        "isExtraImport": true,
+        "detail": "evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "find_best_f1_threshold",
+        "importPath": "evaluation",
+        "description": "evaluation",
+        "isExtraImport": true,
+        "detail": "evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "save_model_architecture",
+        "importPath": "visualization",
+        "description": "visualization",
+        "isExtraImport": true,
+        "detail": "visualization",
+        "documentation": {}
+    },
+    {
+        "label": "plot_training_loss",
+        "importPath": "visualization",
+        "description": "visualization",
+        "isExtraImport": true,
+        "detail": "visualization",
+        "documentation": {}
+    },
+    {
+        "label": "plot_training_accuracy",
+        "importPath": "visualization",
+        "description": "visualization",
+        "isExtraImport": true,
+        "detail": "visualization",
+        "documentation": {}
+    },
+    {
+        "label": "plot_training_auc",
+        "importPath": "visualization",
+        "description": "visualization",
+        "isExtraImport": true,
+        "detail": "visualization",
+        "documentation": {}
+    },
+    {
+        "label": "plot_threshold_analysis",
+        "importPath": "visualization",
+        "description": "visualization",
+        "isExtraImport": true,
+        "detail": "visualization",
+        "documentation": {}
+    },
+    {
+        "label": "plot_confusion_matrix",
+        "importPath": "visualization",
+        "description": "visualization",
+        "isExtraImport": true,
+        "detail": "visualization",
+        "documentation": {}
+    },
+    {
+        "label": "plot_roc_curve",
+        "importPath": "visualization",
+        "description": "visualization",
+        "isExtraImport": true,
+        "detail": "visualization",
+        "documentation": {}
+    },
+    {
         "label": "tensorflow",
         "kind": 6,
         "isExtraImport": true,
@@ -283,7 +661,24 @@
         "documentation": {}
     },
     {
-        "label": "StandardScaler",
+        "label": "joblib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "joblib",
+        "description": "joblib",
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "ColumnTransformer",
+        "importPath": "sklearn.compose",
+        "description": "sklearn.compose",
+        "isExtraImport": true,
+        "detail": "sklearn.compose",
+        "documentation": {}
+    },
+    {
+        "label": "OneHotEncoder",
         "importPath": "sklearn.preprocessing",
         "description": "sklearn.preprocessing",
         "isExtraImport": true,
@@ -312,6 +707,62 @@
         "description": "sklearn.preprocessing",
         "isExtraImport": true,
         "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "plot_model",
+        "importPath": "tensorflow.keras.utils",
+        "description": "tensorflow.keras.utils",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "importPath": "prediction",
+        "description": "prediction",
+        "isExtraImport": true,
+        "detail": "prediction",
+        "documentation": {}
+    },
+    {
+        "label": "load_preprocessor",
+        "importPath": "prediction",
+        "description": "prediction",
+        "isExtraImport": true,
+        "detail": "prediction",
+        "documentation": {}
+    },
+    {
+        "label": "load_threshold",
+        "importPath": "prediction",
+        "description": "prediction",
+        "isExtraImport": true,
+        "detail": "prediction",
+        "documentation": {}
+    },
+    {
+        "label": "predict_customer",
+        "importPath": "prediction",
+        "description": "prediction",
+        "isExtraImport": true,
+        "detail": "prediction",
         "documentation": {}
     },
     {
@@ -337,30 +788,6 @@
         "importPath": "seaborn",
         "description": "seaborn",
         "detail": "seaborn",
-        "documentation": {}
-    },
-    {
-        "label": "Path",
-        "importPath": "pathlib",
-        "description": "pathlib",
-        "isExtraImport": true,
-        "detail": "pathlib",
-        "documentation": {}
-    },
-    {
-        "label": "Path",
-        "importPath": "pathlib",
-        "description": "pathlib",
-        "isExtraImport": true,
-        "detail": "pathlib",
-        "documentation": {}
-    },
-    {
-        "label": "Path",
-        "importPath": "pathlib",
-        "description": "pathlib",
-        "isExtraImport": true,
-        "detail": "pathlib",
         "documentation": {}
     },
     {
@@ -811,6 +1238,474 @@
         "description": "exercises.exercise_05_logistic_regression_loan_approval",
         "peekOfCode": "accuracy = accuracy_score(y_test, y_pred)\nprint(\"\\nAccuracy:\", accuracy)\n# Compare Real and Predicted Results\nprint(\"\\nReal vs Predicted:\")\nfor real, predicted in zip(y_test, y_pred):\n    print(f\"Real: {real} | Predicted: {predicted}\")\n# Visualization\nplt.scatter(\n    range(len(y_test)),\n    y_test,",
         "detail": "exercises.exercise_05_logistic_regression_loan_approval",
+        "documentation": {}
+    },
+    {
+        "label": "EXERCISE_DIR",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_09_customer_churn.config",
+        "description": "neural-networks.exercise_09_customer_churn.config",
+        "peekOfCode": "EXERCISE_DIR = Path(__file__).resolve().parent\nNEURAL_NETWORKS_DIR = EXERCISE_DIR.parent\n# Dataset\nDATASET_PATH = (\n    NEURAL_NETWORKS_DIR\n    / \"datasets\"\n    / \"Telco-Customer-Churn.csv\"\n)\n# Output directories\nMODELS_DIR = EXERCISE_DIR / \"models\"",
+        "detail": "neural-networks.exercise_09_customer_churn.config",
+        "documentation": {}
+    },
+    {
+        "label": "NEURAL_NETWORKS_DIR",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_09_customer_churn.config",
+        "description": "neural-networks.exercise_09_customer_churn.config",
+        "peekOfCode": "NEURAL_NETWORKS_DIR = EXERCISE_DIR.parent\n# Dataset\nDATASET_PATH = (\n    NEURAL_NETWORKS_DIR\n    / \"datasets\"\n    / \"Telco-Customer-Churn.csv\"\n)\n# Output directories\nMODELS_DIR = EXERCISE_DIR / \"models\"\nRESULTS_DIR = EXERCISE_DIR / \"results\"",
+        "detail": "neural-networks.exercise_09_customer_churn.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATASET_PATH",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_09_customer_churn.config",
+        "description": "neural-networks.exercise_09_customer_churn.config",
+        "peekOfCode": "DATASET_PATH = (\n    NEURAL_NETWORKS_DIR\n    / \"datasets\"\n    / \"Telco-Customer-Churn.csv\"\n)\n# Output directories\nMODELS_DIR = EXERCISE_DIR / \"models\"\nRESULTS_DIR = EXERCISE_DIR / \"results\"\nMODELS_DIR.mkdir(parents=True, exist_ok=True)\nRESULTS_DIR.mkdir(parents=True, exist_ok=True)",
+        "detail": "neural-networks.exercise_09_customer_churn.config",
+        "documentation": {}
+    },
+    {
+        "label": "MODELS_DIR",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_09_customer_churn.config",
+        "description": "neural-networks.exercise_09_customer_churn.config",
+        "peekOfCode": "MODELS_DIR = EXERCISE_DIR / \"models\"\nRESULTS_DIR = EXERCISE_DIR / \"results\"\nMODELS_DIR.mkdir(parents=True, exist_ok=True)\nRESULTS_DIR.mkdir(parents=True, exist_ok=True)\n# Saved model artifacts\nMODEL_PATH = MODELS_DIR / \"customer_churn_model.keras\"\nPREPROCESSOR_PATH = (\n    MODELS_DIR\n    / \"customer_churn_preprocessor.joblib\"\n)",
+        "detail": "neural-networks.exercise_09_customer_churn.config",
+        "documentation": {}
+    },
+    {
+        "label": "RESULTS_DIR",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_09_customer_churn.config",
+        "description": "neural-networks.exercise_09_customer_churn.config",
+        "peekOfCode": "RESULTS_DIR = EXERCISE_DIR / \"results\"\nMODELS_DIR.mkdir(parents=True, exist_ok=True)\nRESULTS_DIR.mkdir(parents=True, exist_ok=True)\n# Saved model artifacts\nMODEL_PATH = MODELS_DIR / \"customer_churn_model.keras\"\nPREPROCESSOR_PATH = (\n    MODELS_DIR\n    / \"customer_churn_preprocessor.joblib\"\n)\nCONFIG_PATH = (",
+        "detail": "neural-networks.exercise_09_customer_churn.config",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL_PATH",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_09_customer_churn.config",
+        "description": "neural-networks.exercise_09_customer_churn.config",
+        "peekOfCode": "MODEL_PATH = MODELS_DIR / \"customer_churn_model.keras\"\nPREPROCESSOR_PATH = (\n    MODELS_DIR\n    / \"customer_churn_preprocessor.joblib\"\n)\nCONFIG_PATH = (\n    MODELS_DIR\n    / \"customer_churn_config.json\"\n)\n# Visualization",
+        "detail": "neural-networks.exercise_09_customer_churn.config",
+        "documentation": {}
+    },
+    {
+        "label": "PREPROCESSOR_PATH",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_09_customer_churn.config",
+        "description": "neural-networks.exercise_09_customer_churn.config",
+        "peekOfCode": "PREPROCESSOR_PATH = (\n    MODELS_DIR\n    / \"customer_churn_preprocessor.joblib\"\n)\nCONFIG_PATH = (\n    MODELS_DIR\n    / \"customer_churn_config.json\"\n)\n# Visualization\nARCHITECTURE_IMAGE_PATH = (",
+        "detail": "neural-networks.exercise_09_customer_churn.config",
+        "documentation": {}
+    },
+    {
+        "label": "CONFIG_PATH",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_09_customer_churn.config",
+        "description": "neural-networks.exercise_09_customer_churn.config",
+        "peekOfCode": "CONFIG_PATH = (\n    MODELS_DIR\n    / \"customer_churn_config.json\"\n)\n# Visualization\nARCHITECTURE_IMAGE_PATH = (\n    RESULTS_DIR\n    / \"customer_churn_model_architecture.png\"\n)\n# Dataset configuration",
+        "detail": "neural-networks.exercise_09_customer_churn.config",
+        "documentation": {}
+    },
+    {
+        "label": "ARCHITECTURE_IMAGE_PATH",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_09_customer_churn.config",
+        "description": "neural-networks.exercise_09_customer_churn.config",
+        "peekOfCode": "ARCHITECTURE_IMAGE_PATH = (\n    RESULTS_DIR\n    / \"customer_churn_model_architecture.png\"\n)\n# Dataset configuration\nRANDOM_STATE = 42\nTEST_SIZE = 0.30\nVALIDATION_SIZE = 0.50\n# Training configuration\nEPOCHS = 100",
+        "detail": "neural-networks.exercise_09_customer_churn.config",
+        "documentation": {}
+    },
+    {
+        "label": "RANDOM_STATE",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_09_customer_churn.config",
+        "description": "neural-networks.exercise_09_customer_churn.config",
+        "peekOfCode": "RANDOM_STATE = 42\nTEST_SIZE = 0.30\nVALIDATION_SIZE = 0.50\n# Training configuration\nEPOCHS = 100\nBATCH_SIZE = 32\nLEARNING_RATE = 0.001\n# Model configuration\nDROPOUT_RATE_1 = 0.30\nDROPOUT_RATE_2 = 0.20",
+        "detail": "neural-networks.exercise_09_customer_churn.config",
+        "documentation": {}
+    },
+    {
+        "label": "TEST_SIZE",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_09_customer_churn.config",
+        "description": "neural-networks.exercise_09_customer_churn.config",
+        "peekOfCode": "TEST_SIZE = 0.30\nVALIDATION_SIZE = 0.50\n# Training configuration\nEPOCHS = 100\nBATCH_SIZE = 32\nLEARNING_RATE = 0.001\n# Model configuration\nDROPOUT_RATE_1 = 0.30\nDROPOUT_RATE_2 = 0.20\n# Default classification threshold",
+        "detail": "neural-networks.exercise_09_customer_churn.config",
+        "documentation": {}
+    },
+    {
+        "label": "VALIDATION_SIZE",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_09_customer_churn.config",
+        "description": "neural-networks.exercise_09_customer_churn.config",
+        "peekOfCode": "VALIDATION_SIZE = 0.50\n# Training configuration\nEPOCHS = 100\nBATCH_SIZE = 32\nLEARNING_RATE = 0.001\n# Model configuration\nDROPOUT_RATE_1 = 0.30\nDROPOUT_RATE_2 = 0.20\n# Default classification threshold\nDEFAULT_THRESHOLD = 0.50",
+        "detail": "neural-networks.exercise_09_customer_churn.config",
+        "documentation": {}
+    },
+    {
+        "label": "EPOCHS",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_09_customer_churn.config",
+        "description": "neural-networks.exercise_09_customer_churn.config",
+        "peekOfCode": "EPOCHS = 100\nBATCH_SIZE = 32\nLEARNING_RATE = 0.001\n# Model configuration\nDROPOUT_RATE_1 = 0.30\nDROPOUT_RATE_2 = 0.20\n# Default classification threshold\nDEFAULT_THRESHOLD = 0.50",
+        "detail": "neural-networks.exercise_09_customer_churn.config",
+        "documentation": {}
+    },
+    {
+        "label": "BATCH_SIZE",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_09_customer_churn.config",
+        "description": "neural-networks.exercise_09_customer_churn.config",
+        "peekOfCode": "BATCH_SIZE = 32\nLEARNING_RATE = 0.001\n# Model configuration\nDROPOUT_RATE_1 = 0.30\nDROPOUT_RATE_2 = 0.20\n# Default classification threshold\nDEFAULT_THRESHOLD = 0.50",
+        "detail": "neural-networks.exercise_09_customer_churn.config",
+        "documentation": {}
+    },
+    {
+        "label": "LEARNING_RATE",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_09_customer_churn.config",
+        "description": "neural-networks.exercise_09_customer_churn.config",
+        "peekOfCode": "LEARNING_RATE = 0.001\n# Model configuration\nDROPOUT_RATE_1 = 0.30\nDROPOUT_RATE_2 = 0.20\n# Default classification threshold\nDEFAULT_THRESHOLD = 0.50",
+        "detail": "neural-networks.exercise_09_customer_churn.config",
+        "documentation": {}
+    },
+    {
+        "label": "DROPOUT_RATE_1",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_09_customer_churn.config",
+        "description": "neural-networks.exercise_09_customer_churn.config",
+        "peekOfCode": "DROPOUT_RATE_1 = 0.30\nDROPOUT_RATE_2 = 0.20\n# Default classification threshold\nDEFAULT_THRESHOLD = 0.50",
+        "detail": "neural-networks.exercise_09_customer_churn.config",
+        "documentation": {}
+    },
+    {
+        "label": "DROPOUT_RATE_2",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_09_customer_churn.config",
+        "description": "neural-networks.exercise_09_customer_churn.config",
+        "peekOfCode": "DROPOUT_RATE_2 = 0.20\n# Default classification threshold\nDEFAULT_THRESHOLD = 0.50",
+        "detail": "neural-networks.exercise_09_customer_churn.config",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_THRESHOLD",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_09_customer_churn.config",
+        "description": "neural-networks.exercise_09_customer_churn.config",
+        "peekOfCode": "DEFAULT_THRESHOLD = 0.50",
+        "detail": "neural-networks.exercise_09_customer_churn.config",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_09_customer_churn.data",
+        "description": "neural-networks.exercise_09_customer_churn.data",
+        "peekOfCode": "def load_dataset():\n    \"\"\"Load the Telco Customer Churn dataset.\"\"\"\n    return pd.read_csv(DATASET_PATH)\ndef clean_dataset(dataset):\n    \"\"\"Clean and prepare the dataset.\"\"\"\n    dataset[\"Churn\"] = dataset[\"Churn\"].map({\n        \"No\": 0,\n        \"Yes\": 1\n    })\n    dataset.drop(columns=[\"customerID\"], inplace=True)",
+        "detail": "neural-networks.exercise_09_customer_churn.data",
+        "documentation": {}
+    },
+    {
+        "label": "clean_dataset",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_09_customer_churn.data",
+        "description": "neural-networks.exercise_09_customer_churn.data",
+        "peekOfCode": "def clean_dataset(dataset):\n    \"\"\"Clean and prepare the dataset.\"\"\"\n    dataset[\"Churn\"] = dataset[\"Churn\"].map({\n        \"No\": 0,\n        \"Yes\": 1\n    })\n    dataset.drop(columns=[\"customerID\"], inplace=True)\n    dataset[\"TotalCharges\"] = pd.to_numeric(\n        dataset[\"TotalCharges\"], errors=\"coerce\")\n    dataset.dropna(inplace=True)",
+        "detail": "neural-networks.exercise_09_customer_churn.data",
+        "documentation": {}
+    },
+    {
+        "label": "split_dataset",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_09_customer_churn.data",
+        "description": "neural-networks.exercise_09_customer_churn.data",
+        "peekOfCode": "def split_dataset(dataset):\n    \"\"\"Split dataset into training, validation and test sets.\"\"\"\n    X = dataset.drop(columns=[\"Churn\"])\n    y = dataset[\"Churn\"]\n    X_train, X_temp, y_train, y_temp = train_test_split(\n        X,\n        y,\n        test_size=0.30,\n        random_state=RANDOM_STATE,\n        stratify=y",
+        "detail": "neural-networks.exercise_09_customer_churn.data",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_09_customer_churn.evaluation",
+        "description": "neural-networks.exercise_09_customer_churn.evaluation",
+        "peekOfCode": "def calculate_metrics(\n    y_true,\n    y_probability,\n    threshold=0.50\n):\n    \"\"\"\n    Calculate classification metrics using a probability threshold.\n    \"\"\"\n    y_prediction = (\n        y_probability >= threshold",
+        "detail": "neural-networks.exercise_09_customer_churn.evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_roc_auc",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_09_customer_churn.evaluation",
+        "description": "neural-networks.exercise_09_customer_churn.evaluation",
+        "peekOfCode": "def calculate_roc_auc(\n    y_true,\n    y_probability\n):\n    \"\"\"\n    Calculate ROC-AUC using prediction probabilities.\n    \"\"\"\n    return roc_auc_score(\n        y_true,\n        y_probability",
+        "detail": "neural-networks.exercise_09_customer_churn.evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "find_best_f1_threshold",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_09_customer_churn.evaluation",
+        "description": "neural-networks.exercise_09_customer_churn.evaluation",
+        "peekOfCode": "def find_best_f1_threshold(\n    y_true,\n    y_probability,\n    thresholds\n):\n    \"\"\"\n    Evaluate multiple thresholds and return:\n    1. A list containing the metrics for every threshold.\n    2. The threshold with the highest F1 score.\n    \"\"\"",
+        "detail": "neural-networks.exercise_09_customer_churn.evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "find_business_threshold",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_09_customer_churn.evaluation",
+        "description": "neural-networks.exercise_09_customer_churn.evaluation",
+        "peekOfCode": "def find_business_threshold(\n    threshold_results,\n    minimum_recall=0.60\n):\n    \"\"\"\n    Select a threshold that satisfies a minimum recall.\n    Among thresholds that satisfy the minimum recall,\n    the threshold with the highest precision is selected.\n    If no threshold satisfies the requirement,\n    the threshold with the highest recall is selected.",
+        "detail": "neural-networks.exercise_09_customer_churn.evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_09_customer_churn.exercise_09_customer_churn",
+        "description": "neural-networks.exercise_09_customer_churn.exercise_09_customer_churn",
+        "peekOfCode": "def main():\n    print(\"=\" * 60)\n    print(\"CUSTOMER CHURN PREDICTION\")\n    print(\"=\" * 60)\n    # ---------------------------------------------------------\n    # 1. Load dataset\n    # ---------------------------------------------------------\n    print(\"\\n[1/14] Loading dataset...\")\n    dataset = load_dataset()\n    print(",
+        "detail": "neural-networks.exercise_09_customer_churn.exercise_09_customer_churn",
+        "documentation": {}
+    },
+    {
+        "label": "create_model",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_09_customer_churn.model",
+        "description": "neural-networks.exercise_09_customer_churn.model",
+        "peekOfCode": "def create_model(input_features):\n    \"\"\"\n    Create and compile the customer churn neural network.\n    \"\"\"\n    model = tf.keras.Sequential([\n        tf.keras.layers.Input(\n            shape=(input_features,)\n        ),\n        tf.keras.layers.Dense(\n            64,",
+        "detail": "neural-networks.exercise_09_customer_churn.model",
+        "documentation": {}
+    },
+    {
+        "label": "create_callbacks",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_09_customer_churn.model",
+        "description": "neural-networks.exercise_09_customer_churn.model",
+        "peekOfCode": "def create_callbacks():\n    \"\"\"\n    Create callbacks used during model training.\n    \"\"\"\n    reduce_lr = tf.keras.callbacks.ReduceLROnPlateau(\n        monitor=\"val_loss\",\n        factor=0.5,\n        patience=5,\n        min_lr=0.00001,\n        verbose=1",
+        "detail": "neural-networks.exercise_09_customer_churn.model",
+        "documentation": {}
+    },
+    {
+        "label": "create_preprocessor",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_09_customer_churn.preprocessing",
+        "description": "neural-networks.exercise_09_customer_churn.preprocessing",
+        "peekOfCode": "def create_preprocessor():\n    \"\"\"\n    Create the preprocessing pipeline used by the neural network.\n    \"\"\"\n    preprocessor = ColumnTransformer(\n        transformers=[\n            (\n                \"numeric\",\n                StandardScaler(),\n                NUMERIC_FEATURES",
+        "detail": "neural-networks.exercise_09_customer_churn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_data",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_09_customer_churn.preprocessing",
+        "description": "neural-networks.exercise_09_customer_churn.preprocessing",
+        "peekOfCode": "def preprocess_data(\n    preprocessor,\n    X_train,\n    X_validation,\n    X_test\n):\n    \"\"\"\n    Fit the preprocessor on the training data\n    and transform training, validation and test data.\n    \"\"\"",
+        "detail": "neural-networks.exercise_09_customer_churn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "save_preprocessor",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_09_customer_churn.preprocessing",
+        "description": "neural-networks.exercise_09_customer_churn.preprocessing",
+        "peekOfCode": "def save_preprocessor(preprocessor):\n    \"\"\"\n    Save the fitted preprocessor to disk.\n    \"\"\"\n    joblib.dump(\n        preprocessor,\n        PREPROCESSOR_PATH\n    )\ndef load_preprocessor():\n    \"\"\"",
+        "detail": "neural-networks.exercise_09_customer_churn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "load_preprocessor",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_09_customer_churn.preprocessing",
+        "description": "neural-networks.exercise_09_customer_churn.preprocessing",
+        "peekOfCode": "def load_preprocessor():\n    \"\"\"\n    Load the fitted preprocessor from disk.\n    \"\"\"\n    return joblib.load(\n        PREPROCESSOR_PATH\n    )",
+        "detail": "neural-networks.exercise_09_customer_churn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "NUMERIC_FEATURES",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_09_customer_churn.preprocessing",
+        "description": "neural-networks.exercise_09_customer_churn.preprocessing",
+        "peekOfCode": "NUMERIC_FEATURES = [\n    \"tenure\",\n    \"MonthlyCharges\",\n    \"TotalCharges\"\n]\nCATEGORICAL_FEATURES = [\n    \"gender\",\n    \"SeniorCitizen\",\n    \"Partner\",\n    \"Dependents\",",
+        "detail": "neural-networks.exercise_09_customer_churn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "CATEGORICAL_FEATURES",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_09_customer_churn.preprocessing",
+        "description": "neural-networks.exercise_09_customer_churn.preprocessing",
+        "peekOfCode": "CATEGORICAL_FEATURES = [\n    \"gender\",\n    \"SeniorCitizen\",\n    \"Partner\",\n    \"Dependents\",\n    \"PhoneService\",\n    \"MultipleLines\",\n    \"InternetService\",\n    \"OnlineSecurity\",\n    \"OnlineBackup\",",
+        "detail": "neural-networks.exercise_09_customer_churn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "save_model_architecture",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_09_customer_churn.visualization",
+        "description": "neural-networks.exercise_09_customer_churn.visualization",
+        "peekOfCode": "def save_model_architecture(\n    model,\n    output_path\n):\n    \"\"\"\n    Save a visual representation of the neural network.\n    \"\"\"\n    plot_model(\n        model,\n        to_file=str(output_path),",
+        "detail": "neural-networks.exercise_09_customer_churn.visualization",
+        "documentation": {}
+    },
+    {
+        "label": "plot_training_loss",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_09_customer_churn.visualization",
+        "description": "neural-networks.exercise_09_customer_churn.visualization",
+        "peekOfCode": "def plot_training_loss(\n    history,\n    output_path\n):\n    \"\"\"\n    Plot and save training and validation loss.\n    \"\"\"\n    plt.figure(figsize=(8, 5))\n    plt.plot(history.history[\"loss\"], label=\"Training Loss\")\n    plt.plot(history.history[\"val_loss\"], label=\"Validation Loss\")",
+        "detail": "neural-networks.exercise_09_customer_churn.visualization",
+        "documentation": {}
+    },
+    {
+        "label": "plot_training_accuracy",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_09_customer_churn.visualization",
+        "description": "neural-networks.exercise_09_customer_churn.visualization",
+        "peekOfCode": "def plot_training_accuracy(\n    history,\n    output_path\n):\n    \"\"\"\n    Plot and save training and validation accuracy.\n    \"\"\"\n    plt.figure(figsize=(8, 5))\n    plt.plot(history.history[\"accuracy\"], label=\"Training Accuracy\")\n    plt.plot(history.history[\"val_accuracy\"], label=\"Validation Accuracy\")",
+        "detail": "neural-networks.exercise_09_customer_churn.visualization",
+        "documentation": {}
+    },
+    {
+        "label": "plot_training_auc",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_09_customer_churn.visualization",
+        "description": "neural-networks.exercise_09_customer_churn.visualization",
+        "peekOfCode": "def plot_training_auc(\n    history,\n    output_path\n):\n    \"\"\"\n    Plot and save training and validation AUC.\n    \"\"\"\n    plt.figure(figsize=(8, 5))\n    plt.plot(history.history[\"auc\"], label=\"Training AUC\")\n    plt.plot(history.history[\"val_auc\"], label=\"Validation AUC\")",
+        "detail": "neural-networks.exercise_09_customer_churn.visualization",
+        "documentation": {}
+    },
+    {
+        "label": "plot_threshold_analysis",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_09_customer_churn.visualization",
+        "description": "neural-networks.exercise_09_customer_churn.visualization",
+        "peekOfCode": "def plot_threshold_analysis(\n    threshold_results,\n    output_path\n):\n    \"\"\"\n    Plot accuracy, precision, recall and F1\n    for different classification thresholds.\n    \"\"\"\n    thresholds = [\n        result[\"threshold\"]",
+        "detail": "neural-networks.exercise_09_customer_churn.visualization",
+        "documentation": {}
+    },
+    {
+        "label": "plot_confusion_matrix",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_09_customer_churn.visualization",
+        "description": "neural-networks.exercise_09_customer_churn.visualization",
+        "peekOfCode": "def plot_confusion_matrix(\n    y_true,\n    y_pred,\n    output_path,\n    title=\"Confusion Matrix\"\n):\n    \"\"\"\n    Plot and save a confusion matrix.\n    Parameters\n    ----------",
+        "detail": "neural-networks.exercise_09_customer_churn.visualization",
+        "documentation": {}
+    },
+    {
+        "label": "plot_roc_curve",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_09_customer_churn.visualization",
+        "description": "neural-networks.exercise_09_customer_churn.visualization",
+        "peekOfCode": "def plot_roc_curve(\n    y_true,\n    y_probability,\n    output_path\n):\n    \"\"\"\n    Plot and save the ROC curve.\n    \"\"\"\n    false_positive_rate, true_positive_rate, _ = (\n        roc_curve(",
+        "detail": "neural-networks.exercise_09_customer_churn.visualization",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_10_customer_churn_prediction.exercise_10_customer_churn_prediction",
+        "description": "neural-networks.exercise_10_customer_churn_prediction.exercise_10_customer_churn_prediction",
+        "peekOfCode": "def main():\n    print(\"=\" * 60)\n    print(\"CUSTOMER CHURN PREDICTION\")\n    print(\"=\" * 60)\n    # -----------------------------------------------------\n    # 1. Load trained model\n    # -----------------------------------------------------\n    print(\"\\n[1/4] Loading trained model...\")\n    model = load_model(\n        MODEL_PATH",
+        "detail": "neural-networks.exercise_10_customer_churn_prediction.exercise_10_customer_churn_prediction",
+        "documentation": {}
+    },
+    {
+        "label": "EXERCISE_DIR",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_10_customer_churn_prediction.exercise_10_customer_churn_prediction",
+        "description": "neural-networks.exercise_10_customer_churn_prediction.exercise_10_customer_churn_prediction",
+        "peekOfCode": "EXERCISE_DIR = Path(__file__).resolve().parent\nNEURAL_NETWORKS_DIR = EXERCISE_DIR.parent\nMODEL_DIR = (\n    NEURAL_NETWORKS_DIR\n    / \"exercise_09_customer_churn\"\n    / \"models\"\n)\nMODEL_PATH = (\n    MODEL_DIR\n    / \"customer_churn_model.keras\"",
+        "detail": "neural-networks.exercise_10_customer_churn_prediction.exercise_10_customer_churn_prediction",
+        "documentation": {}
+    },
+    {
+        "label": "NEURAL_NETWORKS_DIR",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_10_customer_churn_prediction.exercise_10_customer_churn_prediction",
+        "description": "neural-networks.exercise_10_customer_churn_prediction.exercise_10_customer_churn_prediction",
+        "peekOfCode": "NEURAL_NETWORKS_DIR = EXERCISE_DIR.parent\nMODEL_DIR = (\n    NEURAL_NETWORKS_DIR\n    / \"exercise_09_customer_churn\"\n    / \"models\"\n)\nMODEL_PATH = (\n    MODEL_DIR\n    / \"customer_churn_model.keras\"\n)",
+        "detail": "neural-networks.exercise_10_customer_churn_prediction.exercise_10_customer_churn_prediction",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL_DIR",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_10_customer_churn_prediction.exercise_10_customer_churn_prediction",
+        "description": "neural-networks.exercise_10_customer_churn_prediction.exercise_10_customer_churn_prediction",
+        "peekOfCode": "MODEL_DIR = (\n    NEURAL_NETWORKS_DIR\n    / \"exercise_09_customer_churn\"\n    / \"models\"\n)\nMODEL_PATH = (\n    MODEL_DIR\n    / \"customer_churn_model.keras\"\n)\nPREPROCESSOR_PATH = (",
+        "detail": "neural-networks.exercise_10_customer_churn_prediction.exercise_10_customer_churn_prediction",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL_PATH",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_10_customer_churn_prediction.exercise_10_customer_churn_prediction",
+        "description": "neural-networks.exercise_10_customer_churn_prediction.exercise_10_customer_churn_prediction",
+        "peekOfCode": "MODEL_PATH = (\n    MODEL_DIR\n    / \"customer_churn_model.keras\"\n)\nPREPROCESSOR_PATH = (\n    MODEL_DIR\n    / \"customer_churn_preprocessor.joblib\"\n)\nCONFIG_PATH = (\n    MODEL_DIR",
+        "detail": "neural-networks.exercise_10_customer_churn_prediction.exercise_10_customer_churn_prediction",
+        "documentation": {}
+    },
+    {
+        "label": "PREPROCESSOR_PATH",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_10_customer_churn_prediction.exercise_10_customer_churn_prediction",
+        "description": "neural-networks.exercise_10_customer_churn_prediction.exercise_10_customer_churn_prediction",
+        "peekOfCode": "PREPROCESSOR_PATH = (\n    MODEL_DIR\n    / \"customer_churn_preprocessor.joblib\"\n)\nCONFIG_PATH = (\n    MODEL_DIR\n    / \"customer_churn_config.json\"\n)\ndef main():\n    print(\"=\" * 60)",
+        "detail": "neural-networks.exercise_10_customer_churn_prediction.exercise_10_customer_churn_prediction",
+        "documentation": {}
+    },
+    {
+        "label": "CONFIG_PATH",
+        "kind": 5,
+        "importPath": "neural-networks.exercise_10_customer_churn_prediction.exercise_10_customer_churn_prediction",
+        "description": "neural-networks.exercise_10_customer_churn_prediction.exercise_10_customer_churn_prediction",
+        "peekOfCode": "CONFIG_PATH = (\n    MODEL_DIR\n    / \"customer_churn_config.json\"\n)\ndef main():\n    print(\"=\" * 60)\n    print(\"CUSTOMER CHURN PREDICTION\")\n    print(\"=\" * 60)\n    # -----------------------------------------------------\n    # 1. Load trained model",
+        "detail": "neural-networks.exercise_10_customer_churn_prediction.exercise_10_customer_churn_prediction",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_10_customer_churn_prediction.prediction",
+        "description": "neural-networks.exercise_10_customer_churn_prediction.prediction",
+        "peekOfCode": "def load_model(model_path):\n    \"\"\"\n    Load the trained neural network from disk.\n    \"\"\"\n    return tf.keras.models.load_model(\n        model_path\n    )\ndef load_preprocessor(preprocessor_path):\n    \"\"\"\n    Load the fitted preprocessing pipeline from disk.",
+        "detail": "neural-networks.exercise_10_customer_churn_prediction.prediction",
+        "documentation": {}
+    },
+    {
+        "label": "load_preprocessor",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_10_customer_churn_prediction.prediction",
+        "description": "neural-networks.exercise_10_customer_churn_prediction.prediction",
+        "peekOfCode": "def load_preprocessor(preprocessor_path):\n    \"\"\"\n    Load the fitted preprocessing pipeline from disk.\n    \"\"\"\n    return joblib.load(\n        preprocessor_path\n    )\ndef load_threshold(config_path):\n    \"\"\"\n    Load the classification threshold from disk.",
+        "detail": "neural-networks.exercise_10_customer_churn_prediction.prediction",
+        "documentation": {}
+    },
+    {
+        "label": "load_threshold",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_10_customer_churn_prediction.prediction",
+        "description": "neural-networks.exercise_10_customer_churn_prediction.prediction",
+        "peekOfCode": "def load_threshold(config_path):\n    \"\"\"\n    Load the classification threshold from disk.\n    \"\"\"\n    with open(\n        config_path,\n        \"r\",\n        encoding=\"utf-8\"\n    ) as file:\n        configuration = json.load(file)",
+        "detail": "neural-networks.exercise_10_customer_churn_prediction.prediction",
+        "documentation": {}
+    },
+    {
+        "label": "predict_customer",
+        "kind": 2,
+        "importPath": "neural-networks.exercise_10_customer_churn_prediction.prediction",
+        "description": "neural-networks.exercise_10_customer_churn_prediction.prediction",
+        "peekOfCode": "def predict_customer(\n    model,\n    preprocessor,\n    customer_data,\n    threshold\n):\n    \"\"\"\n    Predict customer churn probability and class.\n    \"\"\"\n    # Apply the same preprocessing used during training.",
+        "detail": "neural-networks.exercise_10_customer_churn_prediction.prediction",
         "documentation": {}
     },
     {
