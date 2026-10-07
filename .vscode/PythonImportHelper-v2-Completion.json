@@ -1,188 +1,244 @@
 [
     {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "DATASET_PATH",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "RANDOM_STATE",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL_PATH",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "PREPROCESSOR_PATH",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "CONFIG_PATH",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "ARCHITECTURE_IMAGE_PATH",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "RESULTS_DIR",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "EPOCHS",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "BATCH_SIZE",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "LEARNING_RATE",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "DROPOUT_RATE_1",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "DROPOUT_RATE_2",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "PREPROCESSOR_PATH",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
         "label": "numpy",
         "kind": 6,
         "isExtraImport": true,
         "importPath": "numpy",
         "description": "numpy",
         "detail": "numpy",
-        "documentation": {}
-    },
-    {
-        "label": "matplotlib.pyplot",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "matplotlib.pyplot",
-        "description": "matplotlib.pyplot",
-        "detail": "matplotlib.pyplot",
-        "documentation": {}
-    },
-    {
-        "label": "train_test_split",
-        "importPath": "sklearn.model_selection",
-        "description": "sklearn.model_selection",
-        "isExtraImport": true,
-        "detail": "sklearn.model_selection",
-        "documentation": {}
-    },
-    {
-        "label": "train_test_split",
-        "importPath": "sklearn.model_selection",
-        "description": "sklearn.model_selection",
-        "isExtraImport": true,
-        "detail": "sklearn.model_selection",
-        "documentation": {}
-    },
-    {
-        "label": "train_test_split",
-        "importPath": "sklearn.model_selection",
-        "description": "sklearn.model_selection",
-        "isExtraImport": true,
-        "detail": "sklearn.model_selection",
-        "documentation": {}
-    },
-    {
-        "label": "train_test_split",
-        "importPath": "sklearn.model_selection",
-        "description": "sklearn.model_selection",
-        "isExtraImport": true,
-        "detail": "sklearn.model_selection",
-        "documentation": {}
-    },
-    {
-        "label": "train_test_split",
-        "importPath": "sklearn.model_selection",
-        "description": "sklearn.model_selection",
-        "isExtraImport": true,
-        "detail": "sklearn.model_selection",
-        "documentation": {}
-    },
-    {
-        "label": "train_test_split",
-        "importPath": "sklearn.model_selection",
-        "description": "sklearn.model_selection",
-        "isExtraImport": true,
-        "detail": "sklearn.model_selection",
-        "documentation": {}
-    },
-    {
-        "label": "train_test_split",
-        "importPath": "sklearn.model_selection",
-        "description": "sklearn.model_selection",
-        "isExtraImport": true,
-        "detail": "sklearn.model_selection",
-        "documentation": {}
-    },
-    {
-        "label": "train_test_split",
-        "importPath": "sklearn.model_selection",
-        "description": "sklearn.model_selection",
-        "isExtraImport": true,
-        "detail": "sklearn.model_selection",
-        "documentation": {}
-    },
-    {
-        "label": "train_test_split",
-        "importPath": "sklearn.model_selection",
-        "description": "sklearn.model_selection",
-        "isExtraImport": true,
-        "detail": "sklearn.model_selection",
-        "documentation": {}
-    },
-    {
-        "label": "train_test_split",
-        "importPath": "sklearn.model_selection",
-        "description": "sklearn.model_selection",
-        "isExtraImport": true,
-        "detail": "sklearn.model_selection",
-        "documentation": {}
-    },
-    {
-        "label": "LinearRegression",
-        "importPath": "sklearn.linear_model",
-        "description": "sklearn.linear_model",
-        "isExtraImport": true,
-        "detail": "sklearn.linear_model",
-        "documentation": {}
-    },
-    {
-        "label": "LinearRegression",
-        "importPath": "sklearn.linear_model",
-        "description": "sklearn.linear_model",
-        "isExtraImport": true,
-        "detail": "sklearn.linear_model",
-        "documentation": {}
-    },
-    {
-        "label": "LogisticRegression",
-        "importPath": "sklearn.linear_model",
-        "description": "sklearn.linear_model",
-        "isExtraImport": true,
-        "detail": "sklearn.linear_model",
-        "documentation": {}
-    },
-    {
-        "label": "LogisticRegression",
-        "importPath": "sklearn.linear_model",
-        "description": "sklearn.linear_model",
-        "isExtraImport": true,
-        "detail": "sklearn.linear_model",
-        "documentation": {}
-    },
-    {
-        "label": "LogisticRegression",
-        "importPath": "sklearn.linear_model",
-        "description": "sklearn.linear_model",
-        "isExtraImport": true,
-        "detail": "sklearn.linear_model",
-        "documentation": {}
-    },
-    {
-        "label": "mean_squared_error",
-        "importPath": "sklearn.metrics",
-        "description": "sklearn.metrics",
-        "isExtraImport": true,
-        "detail": "sklearn.metrics",
-        "documentation": {}
-    },
-    {
-        "label": "r2_score",
-        "importPath": "sklearn.metrics",
-        "description": "sklearn.metrics",
-        "isExtraImport": true,
-        "detail": "sklearn.metrics",
-        "documentation": {}
-    },
-    {
-        "label": "mean_squared_error",
-        "importPath": "sklearn.metrics",
-        "description": "sklearn.metrics",
-        "isExtraImport": true,
-        "detail": "sklearn.metrics",
-        "documentation": {}
-    },
-    {
-        "label": "r2_score",
-        "importPath": "sklearn.metrics",
-        "description": "sklearn.metrics",
-        "isExtraImport": true,
-        "detail": "sklearn.metrics",
-        "documentation": {}
-    },
-    {
-        "label": "accuracy_score",
-        "importPath": "sklearn.metrics",
-        "description": "sklearn.metrics",
-        "isExtraImport": true,
-        "detail": "sklearn.metrics",
-        "documentation": {}
-    },
-    {
-        "label": "accuracy_score",
-        "importPath": "sklearn.metrics",
-        "description": "sklearn.metrics",
-        "isExtraImport": true,
-        "detail": "sklearn.metrics",
         "documentation": {}
     },
     {
@@ -314,188 +370,51 @@
         "documentation": {}
     },
     {
-        "label": "pyplot",
-        "importPath": "matplotlib",
-        "description": "matplotlib",
+        "label": "mean_squared_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
         "isExtraImport": true,
-        "detail": "matplotlib",
+        "detail": "sklearn.metrics",
         "documentation": {}
     },
     {
-        "label": "pyplot",
-        "importPath": "matplotlib",
-        "description": "matplotlib",
+        "label": "r2_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
         "isExtraImport": true,
-        "detail": "matplotlib",
+        "detail": "sklearn.metrics",
         "documentation": {}
     },
     {
-        "label": "pyplot",
-        "importPath": "matplotlib",
-        "description": "matplotlib",
+        "label": "mean_squared_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
         "isExtraImport": true,
-        "detail": "matplotlib",
+        "detail": "sklearn.metrics",
         "documentation": {}
     },
     {
-        "label": "pyplot",
-        "importPath": "matplotlib",
-        "description": "matplotlib",
+        "label": "r2_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
         "isExtraImport": true,
-        "detail": "matplotlib",
+        "detail": "sklearn.metrics",
         "documentation": {}
     },
     {
-        "label": "Path",
-        "importPath": "pathlib",
-        "description": "pathlib",
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
         "isExtraImport": true,
-        "detail": "pathlib",
+        "detail": "sklearn.metrics",
         "documentation": {}
     },
     {
-        "label": "Path",
-        "importPath": "pathlib",
-        "description": "pathlib",
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
         "isExtraImport": true,
-        "detail": "pathlib",
-        "documentation": {}
-    },
-    {
-        "label": "Path",
-        "importPath": "pathlib",
-        "description": "pathlib",
-        "isExtraImport": true,
-        "detail": "pathlib",
-        "documentation": {}
-    },
-    {
-        "label": "Path",
-        "importPath": "pathlib",
-        "description": "pathlib",
-        "isExtraImport": true,
-        "detail": "pathlib",
-        "documentation": {}
-    },
-    {
-        "label": "Path",
-        "importPath": "pathlib",
-        "description": "pathlib",
-        "isExtraImport": true,
-        "detail": "pathlib",
-        "documentation": {}
-    },
-    {
-        "label": "pandas",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "pandas",
-        "description": "pandas",
-        "detail": "pandas",
-        "documentation": {}
-    },
-    {
-        "label": "DATASET_PATH",
-        "importPath": "config",
-        "description": "config",
-        "isExtraImport": true,
-        "detail": "config",
-        "documentation": {}
-    },
-    {
-        "label": "RANDOM_STATE",
-        "importPath": "config",
-        "description": "config",
-        "isExtraImport": true,
-        "detail": "config",
-        "documentation": {}
-    },
-    {
-        "label": "MODEL_PATH",
-        "importPath": "config",
-        "description": "config",
-        "isExtraImport": true,
-        "detail": "config",
-        "documentation": {}
-    },
-    {
-        "label": "PREPROCESSOR_PATH",
-        "importPath": "config",
-        "description": "config",
-        "isExtraImport": true,
-        "detail": "config",
-        "documentation": {}
-    },
-    {
-        "label": "CONFIG_PATH",
-        "importPath": "config",
-        "description": "config",
-        "isExtraImport": true,
-        "detail": "config",
-        "documentation": {}
-    },
-    {
-        "label": "ARCHITECTURE_IMAGE_PATH",
-        "importPath": "config",
-        "description": "config",
-        "isExtraImport": true,
-        "detail": "config",
-        "documentation": {}
-    },
-    {
-        "label": "RESULTS_DIR",
-        "importPath": "config",
-        "description": "config",
-        "isExtraImport": true,
-        "detail": "config",
-        "documentation": {}
-    },
-    {
-        "label": "EPOCHS",
-        "importPath": "config",
-        "description": "config",
-        "isExtraImport": true,
-        "detail": "config",
-        "documentation": {}
-    },
-    {
-        "label": "BATCH_SIZE",
-        "importPath": "config",
-        "description": "config",
-        "isExtraImport": true,
-        "detail": "config",
-        "documentation": {}
-    },
-    {
-        "label": "LEARNING_RATE",
-        "importPath": "config",
-        "description": "config",
-        "isExtraImport": true,
-        "detail": "config",
-        "documentation": {}
-    },
-    {
-        "label": "DROPOUT_RATE_1",
-        "importPath": "config",
-        "description": "config",
-        "isExtraImport": true,
-        "detail": "config",
-        "documentation": {}
-    },
-    {
-        "label": "DROPOUT_RATE_2",
-        "importPath": "config",
-        "description": "config",
-        "isExtraImport": true,
-        "detail": "config",
-        "documentation": {}
-    },
-    {
-        "label": "PREPROCESSOR_PATH",
-        "importPath": "config",
-        "description": "config",
-        "isExtraImport": true,
-        "detail": "config",
+        "detail": "sklearn.metrics",
         "documentation": {}
     },
     {
@@ -726,6 +645,15 @@
         "documentation": {}
     },
     {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
         "label": "plot_model",
         "importPath": "tensorflow.keras.utils",
         "description": "tensorflow.keras.utils",
@@ -800,444 +728,75 @@
         "documentation": {}
     },
     {
-        "label": "X",
-        "kind": 5,
-        "importPath": "exercises.exercise_01_linear_regression",
-        "description": "exercises.exercise_01_linear_regression",
-        "peekOfCode": "X = np.array([\n    [50],\n    [60],\n    [70],\n    [80],\n    [90],\n    [100],\n    [120],\n    [150]\n])",
-        "detail": "exercises.exercise_01_linear_regression",
+        "label": "LinearRegression",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
         "documentation": {}
     },
     {
-        "label": "y",
-        "kind": 5,
-        "importPath": "exercises.exercise_01_linear_regression",
-        "description": "exercises.exercise_01_linear_regression",
-        "peekOfCode": "y = np.array([\n    110000,\n    125000,\n    140000,\n    155000,\n    175000,\n    195000,\n    230000,\n    290000\n])",
-        "detail": "exercises.exercise_01_linear_regression",
+        "label": "LinearRegression",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
         "documentation": {}
     },
     {
-        "label": "model",
-        "kind": 5,
-        "importPath": "exercises.exercise_01_linear_regression",
-        "description": "exercises.exercise_01_linear_regression",
-        "peekOfCode": "model = LinearRegression()\n# ============================================================\n# Training\n# ============================================================\n# Train the model using the training data.\n# The model learns the relationship between\n# house surface area and price.\nmodel.fit(X_train, y_train)\n# ============================================================\n# Model Parameters",
-        "detail": "exercises.exercise_01_linear_regression",
+        "label": "LogisticRegression",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
         "documentation": {}
     },
     {
-        "label": "coefficient",
-        "kind": 5,
-        "importPath": "exercises.exercise_01_linear_regression",
-        "description": "exercises.exercise_01_linear_regression",
-        "peekOfCode": "coefficient = model.coef_[0]\n# Intercept:\n# Represents the predicted price when the input feature is 0.\nintercept = model.intercept_\nprint(\"Coefficient:\", coefficient)\nprint(\"Intercept:\", intercept)\n# ============================================================\n# Prediction for a New House\n# ============================================================\n# Predict the price of a new house with an area of 110 m².",
-        "detail": "exercises.exercise_01_linear_regression",
+        "label": "LogisticRegression",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
         "documentation": {}
     },
     {
-        "label": "intercept",
-        "kind": 5,
-        "importPath": "exercises.exercise_01_linear_regression",
-        "description": "exercises.exercise_01_linear_regression",
-        "peekOfCode": "intercept = model.intercept_\nprint(\"Coefficient:\", coefficient)\nprint(\"Intercept:\", intercept)\n# ============================================================\n# Prediction for a New House\n# ============================================================\n# Predict the price of a new house with an area of 110 m².\nhouse = np.array([[110]])\nhouse_prediction = model.predict(house)\nprint(\"\\nPredicted price for 110 m²:\", house_prediction[0])",
-        "detail": "exercises.exercise_01_linear_regression",
+        "label": "LogisticRegression",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
         "documentation": {}
     },
     {
-        "label": "house",
-        "kind": 5,
-        "importPath": "exercises.exercise_01_linear_regression",
-        "description": "exercises.exercise_01_linear_regression",
-        "peekOfCode": "house = np.array([[110]])\nhouse_prediction = model.predict(house)\nprint(\"\\nPredicted price for 110 m²:\", house_prediction[0])\n# ============================================================\n# Prediction on the Test Set\n# ============================================================\n# Use the trained model to predict prices for the test set.\ny_pred = model.predict(X_test)\nprint(\"\\nReal prices:\")\nprint(y_test)",
-        "detail": "exercises.exercise_01_linear_regression",
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
         "documentation": {}
     },
     {
-        "label": "house_prediction",
-        "kind": 5,
-        "importPath": "exercises.exercise_01_linear_regression",
-        "description": "exercises.exercise_01_linear_regression",
-        "peekOfCode": "house_prediction = model.predict(house)\nprint(\"\\nPredicted price for 110 m²:\", house_prediction[0])\n# ============================================================\n# Prediction on the Test Set\n# ============================================================\n# Use the trained model to predict prices for the test set.\ny_pred = model.predict(X_test)\nprint(\"\\nReal prices:\")\nprint(y_test)\nprint(\"\\nPredicted prices:\")",
-        "detail": "exercises.exercise_01_linear_regression",
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
         "documentation": {}
     },
     {
-        "label": "y_pred",
-        "kind": 5,
-        "importPath": "exercises.exercise_01_linear_regression",
-        "description": "exercises.exercise_01_linear_regression",
-        "peekOfCode": "y_pred = model.predict(X_test)\nprint(\"\\nReal prices:\")\nprint(y_test)\nprint(\"\\nPredicted prices:\")\nprint(y_pred)\n# ============================================================\n# Model Evaluation\n# ============================================================\n# Mean Squared Error (MSE):\n# Calculates the average squared difference between",
-        "detail": "exercises.exercise_01_linear_regression",
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
         "documentation": {}
     },
     {
-        "label": "mse",
-        "kind": 5,
-        "importPath": "exercises.exercise_01_linear_regression",
-        "description": "exercises.exercise_01_linear_regression",
-        "peekOfCode": "mse = mean_squared_error(y_test, y_pred)\n# R² Score:\n# Measures how well the model explains the variance\n# in the target values.\nr2 = r2_score(y_test, y_pred)\nprint(\"\\nMSE:\", mse)\nprint(\"R²:\", r2)\n# ============================================================\n# Visualization\n# ============================================================",
-        "detail": "exercises.exercise_01_linear_regression",
-        "documentation": {}
-    },
-    {
-        "label": "r2",
-        "kind": 5,
-        "importPath": "exercises.exercise_01_linear_regression",
-        "description": "exercises.exercise_01_linear_regression",
-        "peekOfCode": "r2 = r2_score(y_test, y_pred)\nprint(\"\\nMSE:\", mse)\nprint(\"R²:\", r2)\n# ============================================================\n# Visualization\n# ============================================================\n# Plot the actual data points.\nplt.scatter(X, y)\n# Plot the Linear Regression line.\nplt.plot(X, model.predict(X))",
-        "detail": "exercises.exercise_01_linear_regression",
-        "documentation": {}
-    },
-    {
-        "label": "X",
-        "kind": 5,
-        "importPath": "exercises.exercise_02_multiple_linear_regression",
-        "description": "exercises.exercise_02_multiple_linear_regression",
-        "peekOfCode": "X = np.array([\n    [50, 1, 30],\n    [60, 2, 20],\n    [70, 2, 15],\n    [80, 2, 10],\n    [90, 3, 8],\n    [100, 3, 5],\n    [120, 3, 3],\n    [150, 4, 1]\n])",
-        "detail": "exercises.exercise_02_multiple_linear_regression",
-        "documentation": {}
-    },
-    {
-        "label": "y",
-        "kind": 5,
-        "importPath": "exercises.exercise_02_multiple_linear_regression",
-        "description": "exercises.exercise_02_multiple_linear_regression",
-        "peekOfCode": "y = np.array([\n    100000,\n    130000,\n    150000,\n    175000,\n    200000,\n    225000,\n    270000,\n    350000\n])",
-        "detail": "exercises.exercise_02_multiple_linear_regression",
-        "documentation": {}
-    },
-    {
-        "label": "model",
-        "kind": 5,
-        "importPath": "exercises.exercise_02_multiple_linear_regression",
-        "description": "exercises.exercise_02_multiple_linear_regression",
-        "peekOfCode": "model = LinearRegression()\n# ============================================================\n# Training\n# ============================================================\n# Train the model using the training data.\nmodel.fit(X_train, y_train)\n# ============================================================\n# Model Parameters\n# ============================================================\n# Get the coefficients of the model.",
-        "detail": "exercises.exercise_02_multiple_linear_regression",
-        "documentation": {}
-    },
-    {
-        "label": "coefficients",
-        "kind": 5,
-        "importPath": "exercises.exercise_02_multiple_linear_regression",
-        "description": "exercises.exercise_02_multiple_linear_regression",
-        "peekOfCode": "coefficients = model.coef_\n# Get the intercept of the model.\nintercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# ============================================================\n# Prediction for a New House\n# ============================================================\n# Create a new house:\n# - 110 m²",
-        "detail": "exercises.exercise_02_multiple_linear_regression",
-        "documentation": {}
-    },
-    {
-        "label": "intercept",
-        "kind": 5,
-        "importPath": "exercises.exercise_02_multiple_linear_regression",
-        "description": "exercises.exercise_02_multiple_linear_regression",
-        "peekOfCode": "intercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# ============================================================\n# Prediction for a New House\n# ============================================================\n# Create a new house:\n# - 110 m²\n# - 2 bedrooms\n# - 15 years old",
-        "detail": "exercises.exercise_02_multiple_linear_regression",
-        "documentation": {}
-    },
-    {
-        "label": "house",
-        "kind": 5,
-        "importPath": "exercises.exercise_02_multiple_linear_regression",
-        "description": "exercises.exercise_02_multiple_linear_regression",
-        "peekOfCode": "house = np.array([[110, 2, 15]])\n# Predict the price of the new house.\nhouse_prediction = model.predict(house)\nprint(\"\\nPredicted price for the new house:\", house_prediction[0])\n# ============================================================\n# Prediction on the Test Set\n# ============================================================\n# Predict the prices of the houses in the test set.\ny_pred = model.predict(X_test)\nprint(\"\\nReal prices:\")",
-        "detail": "exercises.exercise_02_multiple_linear_regression",
-        "documentation": {}
-    },
-    {
-        "label": "house_prediction",
-        "kind": 5,
-        "importPath": "exercises.exercise_02_multiple_linear_regression",
-        "description": "exercises.exercise_02_multiple_linear_regression",
-        "peekOfCode": "house_prediction = model.predict(house)\nprint(\"\\nPredicted price for the new house:\", house_prediction[0])\n# ============================================================\n# Prediction on the Test Set\n# ============================================================\n# Predict the prices of the houses in the test set.\ny_pred = model.predict(X_test)\nprint(\"\\nReal prices:\")\nprint(y_test)\nprint(\"\\nPredicted prices:\")",
-        "detail": "exercises.exercise_02_multiple_linear_regression",
-        "documentation": {}
-    },
-    {
-        "label": "y_pred",
-        "kind": 5,
-        "importPath": "exercises.exercise_02_multiple_linear_regression",
-        "description": "exercises.exercise_02_multiple_linear_regression",
-        "peekOfCode": "y_pred = model.predict(X_test)\nprint(\"\\nReal prices:\")\nprint(y_test)\nprint(\"\\nPredicted prices:\")\nprint(y_pred)\n# ============================================================\n# Model Evaluation\n# ============================================================\n# Calculate the Mean Squared Error (MSE).\n# MSE measures the average squared difference between",
-        "detail": "exercises.exercise_02_multiple_linear_regression",
-        "documentation": {}
-    },
-    {
-        "label": "mse",
-        "kind": 5,
-        "importPath": "exercises.exercise_02_multiple_linear_regression",
-        "description": "exercises.exercise_02_multiple_linear_regression",
-        "peekOfCode": "mse = mean_squared_error(y_test, y_pred)\nprint(\"\\nMean Squared Error (MSE):\", mse)\n# Calculate the R² score.\n# R² measures how well the model explains the variance\n# in the real target values.\nr2 = r2_score(y_test, y_pred)\nprint(\"R² Score:\", r2)\nfor real, predicted in zip(y_test, y_pred):\n    print(f\"Real: €{real:.2f} | Predicted: €{predicted:.2f}\")\n# ============================================================",
-        "detail": "exercises.exercise_02_multiple_linear_regression",
-        "documentation": {}
-    },
-    {
-        "label": "r2",
-        "kind": 5,
-        "importPath": "exercises.exercise_02_multiple_linear_regression",
-        "description": "exercises.exercise_02_multiple_linear_regression",
-        "peekOfCode": "r2 = r2_score(y_test, y_pred)\nprint(\"R² Score:\", r2)\nfor real, predicted in zip(y_test, y_pred):\n    print(f\"Real: €{real:.2f} | Predicted: €{predicted:.2f}\")\n# ============================================================\n# Visualization\n# ============================================================\n# Visualize real prices vs predicted prices.\n# Each point represents one house from the test set.\nplt.scatter(y_test, y_pred)",
-        "detail": "exercises.exercise_02_multiple_linear_regression",
-        "documentation": {}
-    },
-    {
-        "label": "X",
-        "kind": 5,
-        "importPath": "exercises.exercise_03_logistic_regression",
-        "description": "exercises.exercise_03_logistic_regression",
-        "peekOfCode": "X = np.array([\n    [20, 20000],\n    [22, 25000],\n    [25, 30000],\n    [28, 35000],\n    [30, 40000],\n    [35, 45000],\n    [40, 50000],\n    [45, 60000],\n    [50, 70000],",
-        "detail": "exercises.exercise_03_logistic_regression",
-        "documentation": {}
-    },
-    {
-        "label": "y",
-        "kind": 5,
-        "importPath": "exercises.exercise_03_logistic_regression",
-        "description": "exercises.exercise_03_logistic_regression",
-        "peekOfCode": "y = np.array([\n    0,\n    0,\n    0,\n    0,\n    0,\n    1,\n    1,\n    1,\n    1,",
-        "detail": "exercises.exercise_03_logistic_regression",
-        "documentation": {}
-    },
-    {
-        "label": "model",
-        "kind": 5,
-        "importPath": "exercises.exercise_03_logistic_regression",
-        "description": "exercises.exercise_03_logistic_regression",
-        "peekOfCode": "model = LogisticRegression()\n# Training\nmodel.fit(X_train, y_train)\n# Model Parameters\ncoefficients = model.coef_\nintercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# Prediction for a New Customer\nnew_customer = np.array([[18, 15000]])",
-        "detail": "exercises.exercise_03_logistic_regression",
-        "documentation": {}
-    },
-    {
-        "label": "coefficients",
-        "kind": 5,
-        "importPath": "exercises.exercise_03_logistic_regression",
-        "description": "exercises.exercise_03_logistic_regression",
-        "peekOfCode": "coefficients = model.coef_\nintercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# Prediction for a New Customer\nnew_customer = np.array([[18, 15000]])\npurchase_prediction = model.predict(new_customer)\nprint(\"\\nNew customer prediction:\")\nprint(\"Will purchase:\", purchase_prediction[0])\npurchase_probability = model.predict_proba(new_customer)",
-        "detail": "exercises.exercise_03_logistic_regression",
-        "documentation": {}
-    },
-    {
-        "label": "intercept",
-        "kind": 5,
-        "importPath": "exercises.exercise_03_logistic_regression",
-        "description": "exercises.exercise_03_logistic_regression",
-        "peekOfCode": "intercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# Prediction for a New Customer\nnew_customer = np.array([[18, 15000]])\npurchase_prediction = model.predict(new_customer)\nprint(\"\\nNew customer prediction:\")\nprint(\"Will purchase:\", purchase_prediction[0])\npurchase_probability = model.predict_proba(new_customer)\nprint(\"\\nPurchase probabilities:\")",
-        "detail": "exercises.exercise_03_logistic_regression",
-        "documentation": {}
-    },
-    {
-        "label": "new_customer",
-        "kind": 5,
-        "importPath": "exercises.exercise_03_logistic_regression",
-        "description": "exercises.exercise_03_logistic_regression",
-        "peekOfCode": "new_customer = np.array([[18, 15000]])\npurchase_prediction = model.predict(new_customer)\nprint(\"\\nNew customer prediction:\")\nprint(\"Will purchase:\", purchase_prediction[0])\npurchase_probability = model.predict_proba(new_customer)\nprint(\"\\nPurchase probabilities:\")\nprint(\"No purchase:\", purchase_probability[0][0])\nprint(\"Purchase:\", purchase_probability[0][1]) \n# Prediction on the Test Set\ny_pred = model.predict(X_test)",
-        "detail": "exercises.exercise_03_logistic_regression",
-        "documentation": {}
-    },
-    {
-        "label": "purchase_prediction",
-        "kind": 5,
-        "importPath": "exercises.exercise_03_logistic_regression",
-        "description": "exercises.exercise_03_logistic_regression",
-        "peekOfCode": "purchase_prediction = model.predict(new_customer)\nprint(\"\\nNew customer prediction:\")\nprint(\"Will purchase:\", purchase_prediction[0])\npurchase_probability = model.predict_proba(new_customer)\nprint(\"\\nPurchase probabilities:\")\nprint(\"No purchase:\", purchase_probability[0][0])\nprint(\"Purchase:\", purchase_probability[0][1]) \n# Prediction on the Test Set\ny_pred = model.predict(X_test)\nprint(\"\\nReal purchase results:\")",
-        "detail": "exercises.exercise_03_logistic_regression",
-        "documentation": {}
-    },
-    {
-        "label": "purchase_probability",
-        "kind": 5,
-        "importPath": "exercises.exercise_03_logistic_regression",
-        "description": "exercises.exercise_03_logistic_regression",
-        "peekOfCode": "purchase_probability = model.predict_proba(new_customer)\nprint(\"\\nPurchase probabilities:\")\nprint(\"No purchase:\", purchase_probability[0][0])\nprint(\"Purchase:\", purchase_probability[0][1]) \n# Prediction on the Test Set\ny_pred = model.predict(X_test)\nprint(\"\\nReal purchase results:\")\nprint(y_test)\nprint(\"\\nPredicted purchase results:\")\nprint(y_pred)",
-        "detail": "exercises.exercise_03_logistic_regression",
-        "documentation": {}
-    },
-    {
-        "label": "y_pred",
-        "kind": 5,
-        "importPath": "exercises.exercise_03_logistic_regression",
-        "description": "exercises.exercise_03_logistic_regression",
-        "peekOfCode": "y_pred = model.predict(X_test)\nprint(\"\\nReal purchase results:\")\nprint(y_test)\nprint(\"\\nPredicted purchase results:\")\nprint(y_pred)\n# Compare Real and Predicted Results\nprint(\"\\nReal vs Predicted:\")\nfor real, predicted in zip(y_test, y_pred):\n    print(f\"Real: {real} | Predicted: {predicted}\")\n# Visualization",
-        "detail": "exercises.exercise_03_logistic_regression",
-        "documentation": {}
-    },
-    {
-        "label": "X",
-        "kind": 5,
-        "importPath": "exercises.exercise_04_logistic_regression_churn",
-        "description": "exercises.exercise_04_logistic_regression_churn",
-        "peekOfCode": "X = np.array([\n    [22, 30, 3],\n    [25, 35, 6],\n    [28, 40, 12],\n    [30, 45, 24],\n    [35, 50, 36],\n    [40, 60, 48],\n    [45, 70, 60],\n    [50, 80, 72],\n    [55, 90, 84],",
-        "detail": "exercises.exercise_04_logistic_regression_churn",
-        "documentation": {}
-    },
-    {
-        "label": "y",
-        "kind": 5,
-        "importPath": "exercises.exercise_04_logistic_regression_churn",
-        "description": "exercises.exercise_04_logistic_regression_churn",
-        "peekOfCode": "y = np.array([\n    1,\n    1,\n    1,\n    0,\n    0,\n    0,\n    0,\n    0,\n    0,",
-        "detail": "exercises.exercise_04_logistic_regression_churn",
-        "documentation": {}
-    },
-    {
-        "label": "model",
-        "kind": 5,
-        "importPath": "exercises.exercise_04_logistic_regression_churn",
-        "description": "exercises.exercise_04_logistic_regression_churn",
-        "peekOfCode": "model = LogisticRegression()\n# Training\nmodel.fit(X_train, y_train)\n# Model Parameters\ncoefficients = model.coef_\nintercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# Prediction for a New Customer\nnew_customer = np.array([[28, 20, 2]])",
-        "detail": "exercises.exercise_04_logistic_regression_churn",
-        "documentation": {}
-    },
-    {
-        "label": "coefficients",
-        "kind": 5,
-        "importPath": "exercises.exercise_04_logistic_regression_churn",
-        "description": "exercises.exercise_04_logistic_regression_churn",
-        "peekOfCode": "coefficients = model.coef_\nintercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# Prediction for a New Customer\nnew_customer = np.array([[28, 20, 2]])\nchurn_prediction = model.predict(new_customer)\nchurn_probability = model.predict_proba(new_customer)\nprint(\"\\nNew customer prediction:\")\nprint(\"Will churn:\", churn_prediction[0])",
-        "detail": "exercises.exercise_04_logistic_regression_churn",
-        "documentation": {}
-    },
-    {
-        "label": "intercept",
-        "kind": 5,
-        "importPath": "exercises.exercise_04_logistic_regression_churn",
-        "description": "exercises.exercise_04_logistic_regression_churn",
-        "peekOfCode": "intercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# Prediction for a New Customer\nnew_customer = np.array([[28, 20, 2]])\nchurn_prediction = model.predict(new_customer)\nchurn_probability = model.predict_proba(new_customer)\nprint(\"\\nNew customer prediction:\")\nprint(\"Will churn:\", churn_prediction[0])\nprint(\"\\nChurn probabilities:\")",
-        "detail": "exercises.exercise_04_logistic_regression_churn",
-        "documentation": {}
-    },
-    {
-        "label": "new_customer",
-        "kind": 5,
-        "importPath": "exercises.exercise_04_logistic_regression_churn",
-        "description": "exercises.exercise_04_logistic_regression_churn",
-        "peekOfCode": "new_customer = np.array([[28, 20, 2]])\nchurn_prediction = model.predict(new_customer)\nchurn_probability = model.predict_proba(new_customer)\nprint(\"\\nNew customer prediction:\")\nprint(\"Will churn:\", churn_prediction[0])\nprint(\"\\nChurn probabilities:\")\nprint(\"No churn:\", churn_probability[0][0])\nprint(\"Churn:\", churn_probability[0][1])\n# Prediction on the Test Set\ny_pred = model.predict(X_test)",
-        "detail": "exercises.exercise_04_logistic_regression_churn",
-        "documentation": {}
-    },
-    {
-        "label": "churn_prediction",
-        "kind": 5,
-        "importPath": "exercises.exercise_04_logistic_regression_churn",
-        "description": "exercises.exercise_04_logistic_regression_churn",
-        "peekOfCode": "churn_prediction = model.predict(new_customer)\nchurn_probability = model.predict_proba(new_customer)\nprint(\"\\nNew customer prediction:\")\nprint(\"Will churn:\", churn_prediction[0])\nprint(\"\\nChurn probabilities:\")\nprint(\"No churn:\", churn_probability[0][0])\nprint(\"Churn:\", churn_probability[0][1])\n# Prediction on the Test Set\ny_pred = model.predict(X_test)\n# Model Evaluation",
-        "detail": "exercises.exercise_04_logistic_regression_churn",
-        "documentation": {}
-    },
-    {
-        "label": "churn_probability",
-        "kind": 5,
-        "importPath": "exercises.exercise_04_logistic_regression_churn",
-        "description": "exercises.exercise_04_logistic_regression_churn",
-        "peekOfCode": "churn_probability = model.predict_proba(new_customer)\nprint(\"\\nNew customer prediction:\")\nprint(\"Will churn:\", churn_prediction[0])\nprint(\"\\nChurn probabilities:\")\nprint(\"No churn:\", churn_probability[0][0])\nprint(\"Churn:\", churn_probability[0][1])\n# Prediction on the Test Set\ny_pred = model.predict(X_test)\n# Model Evaluation\naccuracy = accuracy_score(y_test, y_pred)",
-        "detail": "exercises.exercise_04_logistic_regression_churn",
-        "documentation": {}
-    },
-    {
-        "label": "y_pred",
-        "kind": 5,
-        "importPath": "exercises.exercise_04_logistic_regression_churn",
-        "description": "exercises.exercise_04_logistic_regression_churn",
-        "peekOfCode": "y_pred = model.predict(X_test)\n# Model Evaluation\naccuracy = accuracy_score(y_test, y_pred)\nprint(\"\\nAccuracy:\", accuracy)\n# Compare Real and Predicted Results\nprint(\"\\nReal vs Predicted:\")\nfor real, predicted in zip(y_test, y_pred):\n    print(f\"Real: {real} | Predicted: {predicted}\")\n# Visualization\nplt.scatter(",
-        "detail": "exercises.exercise_04_logistic_regression_churn",
-        "documentation": {}
-    },
-    {
-        "label": "accuracy",
-        "kind": 5,
-        "importPath": "exercises.exercise_04_logistic_regression_churn",
-        "description": "exercises.exercise_04_logistic_regression_churn",
-        "peekOfCode": "accuracy = accuracy_score(y_test, y_pred)\nprint(\"\\nAccuracy:\", accuracy)\n# Compare Real and Predicted Results\nprint(\"\\nReal vs Predicted:\")\nfor real, predicted in zip(y_test, y_pred):\n    print(f\"Real: {real} | Predicted: {predicted}\")\n# Visualization\nplt.scatter(\n    range(len(y_test)),\n    y_test,",
-        "detail": "exercises.exercise_04_logistic_regression_churn",
-        "documentation": {}
-    },
-    {
-        "label": "X",
-        "kind": 5,
-        "importPath": "exercises.exercise_05_logistic_regression_loan_approval",
-        "description": "exercises.exercise_05_logistic_regression_loan_approval",
-        "peekOfCode": "X = np.array([\n    [22, 20000, 550],\n    [25, 25000, 580],\n    [28, 30000, 600],\n    [30, 35000, 620],\n    [32, 40000, 650],\n    [35, 45000, 680],\n    [38, 50000, 700],\n    [40, 55000, 720],\n    [45, 60000, 740],",
-        "detail": "exercises.exercise_05_logistic_regression_loan_approval",
-        "documentation": {}
-    },
-    {
-        "label": "y",
-        "kind": 5,
-        "importPath": "exercises.exercise_05_logistic_regression_loan_approval",
-        "description": "exercises.exercise_05_logistic_regression_loan_approval",
-        "peekOfCode": "y = np.array([\n    0,\n    0,\n    0,\n    0,\n    0,\n    1,\n    1,\n    1,\n    1,",
-        "detail": "exercises.exercise_05_logistic_regression_loan_approval",
-        "documentation": {}
-    },
-    {
-        "label": "model",
-        "kind": 5,
-        "importPath": "exercises.exercise_05_logistic_regression_loan_approval",
-        "description": "exercises.exercise_05_logistic_regression_loan_approval",
-        "peekOfCode": "model = LogisticRegression()\n# Training\nmodel.fit(X_train, y_train)\n# Model Parameters\ncoefficients = model.coef_\nintercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# Prediction for a New Applicant\nnew_applicant = np.array([[28, 20000, 620]])",
-        "detail": "exercises.exercise_05_logistic_regression_loan_approval",
-        "documentation": {}
-    },
-    {
-        "label": "coefficients",
-        "kind": 5,
-        "importPath": "exercises.exercise_05_logistic_regression_loan_approval",
-        "description": "exercises.exercise_05_logistic_regression_loan_approval",
-        "peekOfCode": "coefficients = model.coef_\nintercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# Prediction for a New Applicant\nnew_applicant = np.array([[28, 20000, 620]])\nloan_prediction = model.predict(new_applicant)\nloan_probability = model.predict_proba(new_applicant)\nprint(\"\\nNew applicant prediction:\")\nprint(\"Loan approved:\", loan_prediction[0])",
-        "detail": "exercises.exercise_05_logistic_regression_loan_approval",
-        "documentation": {}
-    },
-    {
-        "label": "intercept",
-        "kind": 5,
-        "importPath": "exercises.exercise_05_logistic_regression_loan_approval",
-        "description": "exercises.exercise_05_logistic_regression_loan_approval",
-        "peekOfCode": "intercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# Prediction for a New Applicant\nnew_applicant = np.array([[28, 20000, 620]])\nloan_prediction = model.predict(new_applicant)\nloan_probability = model.predict_proba(new_applicant)\nprint(\"\\nNew applicant prediction:\")\nprint(\"Loan approved:\", loan_prediction[0])\nprint(\"\\nLoan probabilities:\")",
-        "detail": "exercises.exercise_05_logistic_regression_loan_approval",
-        "documentation": {}
-    },
-    {
-        "label": "new_applicant",
-        "kind": 5,
-        "importPath": "exercises.exercise_05_logistic_regression_loan_approval",
-        "description": "exercises.exercise_05_logistic_regression_loan_approval",
-        "peekOfCode": "new_applicant = np.array([[28, 20000, 620]])\nloan_prediction = model.predict(new_applicant)\nloan_probability = model.predict_proba(new_applicant)\nprint(\"\\nNew applicant prediction:\")\nprint(\"Loan approved:\", loan_prediction[0])\nprint(\"\\nLoan probabilities:\")\nprint(\"Rejected:\", loan_probability[0][0])\nprint(\"Approved:\", loan_probability[0][1])\n# Prediction on the Test Set\ny_pred = model.predict(X_test)",
-        "detail": "exercises.exercise_05_logistic_regression_loan_approval",
-        "documentation": {}
-    },
-    {
-        "label": "loan_prediction",
-        "kind": 5,
-        "importPath": "exercises.exercise_05_logistic_regression_loan_approval",
-        "description": "exercises.exercise_05_logistic_regression_loan_approval",
-        "peekOfCode": "loan_prediction = model.predict(new_applicant)\nloan_probability = model.predict_proba(new_applicant)\nprint(\"\\nNew applicant prediction:\")\nprint(\"Loan approved:\", loan_prediction[0])\nprint(\"\\nLoan probabilities:\")\nprint(\"Rejected:\", loan_probability[0][0])\nprint(\"Approved:\", loan_probability[0][1])\n# Prediction on the Test Set\ny_pred = model.predict(X_test)\n# Model Evaluation",
-        "detail": "exercises.exercise_05_logistic_regression_loan_approval",
-        "documentation": {}
-    },
-    {
-        "label": "loan_probability",
-        "kind": 5,
-        "importPath": "exercises.exercise_05_logistic_regression_loan_approval",
-        "description": "exercises.exercise_05_logistic_regression_loan_approval",
-        "peekOfCode": "loan_probability = model.predict_proba(new_applicant)\nprint(\"\\nNew applicant prediction:\")\nprint(\"Loan approved:\", loan_prediction[0])\nprint(\"\\nLoan probabilities:\")\nprint(\"Rejected:\", loan_probability[0][0])\nprint(\"Approved:\", loan_probability[0][1])\n# Prediction on the Test Set\ny_pred = model.predict(X_test)\n# Model Evaluation\naccuracy = accuracy_score(y_test, y_pred)",
-        "detail": "exercises.exercise_05_logistic_regression_loan_approval",
-        "documentation": {}
-    },
-    {
-        "label": "y_pred",
-        "kind": 5,
-        "importPath": "exercises.exercise_05_logistic_regression_loan_approval",
-        "description": "exercises.exercise_05_logistic_regression_loan_approval",
-        "peekOfCode": "y_pred = model.predict(X_test)\n# Model Evaluation\naccuracy = accuracy_score(y_test, y_pred)\nprint(\"\\nAccuracy:\", accuracy)\n# Compare Real and Predicted Results\nprint(\"\\nReal vs Predicted:\")\nfor real, predicted in zip(y_test, y_pred):\n    print(f\"Real: {real} | Predicted: {predicted}\")\n# Visualization\nplt.scatter(",
-        "detail": "exercises.exercise_05_logistic_regression_loan_approval",
-        "documentation": {}
-    },
-    {
-        "label": "accuracy",
-        "kind": 5,
-        "importPath": "exercises.exercise_05_logistic_regression_loan_approval",
-        "description": "exercises.exercise_05_logistic_regression_loan_approval",
-        "peekOfCode": "accuracy = accuracy_score(y_test, y_pred)\nprint(\"\\nAccuracy:\", accuracy)\n# Compare Real and Predicted Results\nprint(\"\\nReal vs Predicted:\")\nfor real, predicted in zip(y_test, y_pred):\n    print(f\"Real: {real} | Predicted: {predicted}\")\n# Visualization\nplt.scatter(\n    range(len(y_test)),\n    y_test,",
-        "detail": "exercises.exercise_05_logistic_regression_loan_approval",
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
         "documentation": {}
     },
     {
@@ -3677,6 +3236,447 @@
         "description": "neural-networks.exercise_08_fine_tuning",
         "peekOfCode": "accuracy_gap = (\n    final_training_accuracy\n    - final_validation_accuracy\n)\nprint()\nprint(\n    \"========================\"\n)\nprint(\n    \"Overfitting Analysis\"",
         "detail": "neural-networks.exercise_08_fine_tuning",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "regression.exercise_01_linear_regression",
+        "description": "regression.exercise_01_linear_regression",
+        "peekOfCode": "X = np.array([\n    [50],\n    [60],\n    [70],\n    [80],\n    [90],\n    [100],\n    [120],\n    [150]\n])",
+        "detail": "regression.exercise_01_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "regression.exercise_01_linear_regression",
+        "description": "regression.exercise_01_linear_regression",
+        "peekOfCode": "y = np.array([\n    110000,\n    125000,\n    140000,\n    155000,\n    175000,\n    195000,\n    230000,\n    290000\n])",
+        "detail": "regression.exercise_01_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "regression.exercise_01_linear_regression",
+        "description": "regression.exercise_01_linear_regression",
+        "peekOfCode": "model = LinearRegression()\n# ============================================================\n# Training\n# ============================================================\n# Train the model using the training data.\n# The model learns the relationship between\n# house surface area and price.\nmodel.fit(X_train, y_train)\n# ============================================================\n# Model Parameters",
+        "detail": "regression.exercise_01_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "coefficient",
+        "kind": 5,
+        "importPath": "regression.exercise_01_linear_regression",
+        "description": "regression.exercise_01_linear_regression",
+        "peekOfCode": "coefficient = model.coef_[0]\n# Intercept:\n# Represents the predicted price when the input feature is 0.\nintercept = model.intercept_\nprint(\"Coefficient:\", coefficient)\nprint(\"Intercept:\", intercept)\n# ============================================================\n# Prediction for a New House\n# ============================================================\n# Predict the price of a new house with an area of 110 m².",
+        "detail": "regression.exercise_01_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "intercept",
+        "kind": 5,
+        "importPath": "regression.exercise_01_linear_regression",
+        "description": "regression.exercise_01_linear_regression",
+        "peekOfCode": "intercept = model.intercept_\nprint(\"Coefficient:\", coefficient)\nprint(\"Intercept:\", intercept)\n# ============================================================\n# Prediction for a New House\n# ============================================================\n# Predict the price of a new house with an area of 110 m².\nhouse = np.array([[110]])\nhouse_prediction = model.predict(house)\nprint(\"\\nPredicted price for 110 m²:\", house_prediction[0])",
+        "detail": "regression.exercise_01_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "house",
+        "kind": 5,
+        "importPath": "regression.exercise_01_linear_regression",
+        "description": "regression.exercise_01_linear_regression",
+        "peekOfCode": "house = np.array([[110]])\nhouse_prediction = model.predict(house)\nprint(\"\\nPredicted price for 110 m²:\", house_prediction[0])\n# ============================================================\n# Prediction on the Test Set\n# ============================================================\n# Use the trained model to predict prices for the test set.\ny_pred = model.predict(X_test)\nprint(\"\\nReal prices:\")\nprint(y_test)",
+        "detail": "regression.exercise_01_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "house_prediction",
+        "kind": 5,
+        "importPath": "regression.exercise_01_linear_regression",
+        "description": "regression.exercise_01_linear_regression",
+        "peekOfCode": "house_prediction = model.predict(house)\nprint(\"\\nPredicted price for 110 m²:\", house_prediction[0])\n# ============================================================\n# Prediction on the Test Set\n# ============================================================\n# Use the trained model to predict prices for the test set.\ny_pred = model.predict(X_test)\nprint(\"\\nReal prices:\")\nprint(y_test)\nprint(\"\\nPredicted prices:\")",
+        "detail": "regression.exercise_01_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "y_pred",
+        "kind": 5,
+        "importPath": "regression.exercise_01_linear_regression",
+        "description": "regression.exercise_01_linear_regression",
+        "peekOfCode": "y_pred = model.predict(X_test)\nprint(\"\\nReal prices:\")\nprint(y_test)\nprint(\"\\nPredicted prices:\")\nprint(y_pred)\n# ============================================================\n# Model Evaluation\n# ============================================================\n# Mean Squared Error (MSE):\n# Calculates the average squared difference between",
+        "detail": "regression.exercise_01_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "mse",
+        "kind": 5,
+        "importPath": "regression.exercise_01_linear_regression",
+        "description": "regression.exercise_01_linear_regression",
+        "peekOfCode": "mse = mean_squared_error(y_test, y_pred)\n# R² Score:\n# Measures how well the model explains the variance\n# in the target values.\nr2 = r2_score(y_test, y_pred)\nprint(\"\\nMSE:\", mse)\nprint(\"R²:\", r2)\n# ============================================================\n# Visualization\n# ============================================================",
+        "detail": "regression.exercise_01_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "r2",
+        "kind": 5,
+        "importPath": "regression.exercise_01_linear_regression",
+        "description": "regression.exercise_01_linear_regression",
+        "peekOfCode": "r2 = r2_score(y_test, y_pred)\nprint(\"\\nMSE:\", mse)\nprint(\"R²:\", r2)\n# ============================================================\n# Visualization\n# ============================================================\n# Plot the actual data points.\nplt.scatter(X, y)\n# Plot the Linear Regression line.\nplt.plot(X, model.predict(X))",
+        "detail": "regression.exercise_01_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "regression.exercise_02_multiple_linear_regression",
+        "description": "regression.exercise_02_multiple_linear_regression",
+        "peekOfCode": "X = np.array([\n    [50, 1, 30],\n    [60, 2, 20],\n    [70, 2, 15],\n    [80, 2, 10],\n    [90, 3, 8],\n    [100, 3, 5],\n    [120, 3, 3],\n    [150, 4, 1]\n])",
+        "detail": "regression.exercise_02_multiple_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "regression.exercise_02_multiple_linear_regression",
+        "description": "regression.exercise_02_multiple_linear_regression",
+        "peekOfCode": "y = np.array([\n    100000,\n    130000,\n    150000,\n    175000,\n    200000,\n    225000,\n    270000,\n    350000\n])",
+        "detail": "regression.exercise_02_multiple_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "regression.exercise_02_multiple_linear_regression",
+        "description": "regression.exercise_02_multiple_linear_regression",
+        "peekOfCode": "model = LinearRegression()\n# ============================================================\n# Training\n# ============================================================\n# Train the model using the training data.\nmodel.fit(X_train, y_train)\n# ============================================================\n# Model Parameters\n# ============================================================\n# Get the coefficients of the model.",
+        "detail": "regression.exercise_02_multiple_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "coefficients",
+        "kind": 5,
+        "importPath": "regression.exercise_02_multiple_linear_regression",
+        "description": "regression.exercise_02_multiple_linear_regression",
+        "peekOfCode": "coefficients = model.coef_\n# Get the intercept of the model.\nintercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# ============================================================\n# Prediction for a New House\n# ============================================================\n# Create a new house:\n# - 110 m²",
+        "detail": "regression.exercise_02_multiple_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "intercept",
+        "kind": 5,
+        "importPath": "regression.exercise_02_multiple_linear_regression",
+        "description": "regression.exercise_02_multiple_linear_regression",
+        "peekOfCode": "intercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# ============================================================\n# Prediction for a New House\n# ============================================================\n# Create a new house:\n# - 110 m²\n# - 2 bedrooms\n# - 15 years old",
+        "detail": "regression.exercise_02_multiple_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "house",
+        "kind": 5,
+        "importPath": "regression.exercise_02_multiple_linear_regression",
+        "description": "regression.exercise_02_multiple_linear_regression",
+        "peekOfCode": "house = np.array([[110, 2, 15]])\n# Predict the price of the new house.\nhouse_prediction = model.predict(house)\nprint(\"\\nPredicted price for the new house:\", house_prediction[0])\n# ============================================================\n# Prediction on the Test Set\n# ============================================================\n# Predict the prices of the houses in the test set.\ny_pred = model.predict(X_test)\nprint(\"\\nReal prices:\")",
+        "detail": "regression.exercise_02_multiple_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "house_prediction",
+        "kind": 5,
+        "importPath": "regression.exercise_02_multiple_linear_regression",
+        "description": "regression.exercise_02_multiple_linear_regression",
+        "peekOfCode": "house_prediction = model.predict(house)\nprint(\"\\nPredicted price for the new house:\", house_prediction[0])\n# ============================================================\n# Prediction on the Test Set\n# ============================================================\n# Predict the prices of the houses in the test set.\ny_pred = model.predict(X_test)\nprint(\"\\nReal prices:\")\nprint(y_test)\nprint(\"\\nPredicted prices:\")",
+        "detail": "regression.exercise_02_multiple_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "y_pred",
+        "kind": 5,
+        "importPath": "regression.exercise_02_multiple_linear_regression",
+        "description": "regression.exercise_02_multiple_linear_regression",
+        "peekOfCode": "y_pred = model.predict(X_test)\nprint(\"\\nReal prices:\")\nprint(y_test)\nprint(\"\\nPredicted prices:\")\nprint(y_pred)\n# ============================================================\n# Model Evaluation\n# ============================================================\n# Calculate the Mean Squared Error (MSE).\n# MSE measures the average squared difference between",
+        "detail": "regression.exercise_02_multiple_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "mse",
+        "kind": 5,
+        "importPath": "regression.exercise_02_multiple_linear_regression",
+        "description": "regression.exercise_02_multiple_linear_regression",
+        "peekOfCode": "mse = mean_squared_error(y_test, y_pred)\nprint(\"\\nMean Squared Error (MSE):\", mse)\n# Calculate the R² score.\n# R² measures how well the model explains the variance\n# in the real target values.\nr2 = r2_score(y_test, y_pred)\nprint(\"R² Score:\", r2)\nfor real, predicted in zip(y_test, y_pred):\n    print(f\"Real: €{real:.2f} | Predicted: €{predicted:.2f}\")\n# ============================================================",
+        "detail": "regression.exercise_02_multiple_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "r2",
+        "kind": 5,
+        "importPath": "regression.exercise_02_multiple_linear_regression",
+        "description": "regression.exercise_02_multiple_linear_regression",
+        "peekOfCode": "r2 = r2_score(y_test, y_pred)\nprint(\"R² Score:\", r2)\nfor real, predicted in zip(y_test, y_pred):\n    print(f\"Real: €{real:.2f} | Predicted: €{predicted:.2f}\")\n# ============================================================\n# Visualization\n# ============================================================\n# Visualize real prices vs predicted prices.\n# Each point represents one house from the test set.\nplt.scatter(y_test, y_pred)",
+        "detail": "regression.exercise_02_multiple_linear_regression",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "regression.exercise_03_logistic_regression",
+        "description": "regression.exercise_03_logistic_regression",
+        "peekOfCode": "X = np.array([\n    [20, 20000],\n    [22, 25000],\n    [25, 30000],\n    [28, 35000],\n    [30, 40000],\n    [35, 45000],\n    [40, 50000],\n    [45, 60000],\n    [50, 70000],",
+        "detail": "regression.exercise_03_logistic_regression",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "regression.exercise_03_logistic_regression",
+        "description": "regression.exercise_03_logistic_regression",
+        "peekOfCode": "y = np.array([\n    0,\n    0,\n    0,\n    0,\n    0,\n    1,\n    1,\n    1,\n    1,",
+        "detail": "regression.exercise_03_logistic_regression",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "regression.exercise_03_logistic_regression",
+        "description": "regression.exercise_03_logistic_regression",
+        "peekOfCode": "model = LogisticRegression()\n# Training\nmodel.fit(X_train, y_train)\n# Model Parameters\ncoefficients = model.coef_\nintercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# Prediction for a New Customer\nnew_customer = np.array([[18, 15000]])",
+        "detail": "regression.exercise_03_logistic_regression",
+        "documentation": {}
+    },
+    {
+        "label": "coefficients",
+        "kind": 5,
+        "importPath": "regression.exercise_03_logistic_regression",
+        "description": "regression.exercise_03_logistic_regression",
+        "peekOfCode": "coefficients = model.coef_\nintercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# Prediction for a New Customer\nnew_customer = np.array([[18, 15000]])\npurchase_prediction = model.predict(new_customer)\nprint(\"\\nNew customer prediction:\")\nprint(\"Will purchase:\", purchase_prediction[0])\npurchase_probability = model.predict_proba(new_customer)",
+        "detail": "regression.exercise_03_logistic_regression",
+        "documentation": {}
+    },
+    {
+        "label": "intercept",
+        "kind": 5,
+        "importPath": "regression.exercise_03_logistic_regression",
+        "description": "regression.exercise_03_logistic_regression",
+        "peekOfCode": "intercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# Prediction for a New Customer\nnew_customer = np.array([[18, 15000]])\npurchase_prediction = model.predict(new_customer)\nprint(\"\\nNew customer prediction:\")\nprint(\"Will purchase:\", purchase_prediction[0])\npurchase_probability = model.predict_proba(new_customer)\nprint(\"\\nPurchase probabilities:\")",
+        "detail": "regression.exercise_03_logistic_regression",
+        "documentation": {}
+    },
+    {
+        "label": "new_customer",
+        "kind": 5,
+        "importPath": "regression.exercise_03_logistic_regression",
+        "description": "regression.exercise_03_logistic_regression",
+        "peekOfCode": "new_customer = np.array([[18, 15000]])\npurchase_prediction = model.predict(new_customer)\nprint(\"\\nNew customer prediction:\")\nprint(\"Will purchase:\", purchase_prediction[0])\npurchase_probability = model.predict_proba(new_customer)\nprint(\"\\nPurchase probabilities:\")\nprint(\"No purchase:\", purchase_probability[0][0])\nprint(\"Purchase:\", purchase_probability[0][1]) \n# Prediction on the Test Set\ny_pred = model.predict(X_test)",
+        "detail": "regression.exercise_03_logistic_regression",
+        "documentation": {}
+    },
+    {
+        "label": "purchase_prediction",
+        "kind": 5,
+        "importPath": "regression.exercise_03_logistic_regression",
+        "description": "regression.exercise_03_logistic_regression",
+        "peekOfCode": "purchase_prediction = model.predict(new_customer)\nprint(\"\\nNew customer prediction:\")\nprint(\"Will purchase:\", purchase_prediction[0])\npurchase_probability = model.predict_proba(new_customer)\nprint(\"\\nPurchase probabilities:\")\nprint(\"No purchase:\", purchase_probability[0][0])\nprint(\"Purchase:\", purchase_probability[0][1]) \n# Prediction on the Test Set\ny_pred = model.predict(X_test)\nprint(\"\\nReal purchase results:\")",
+        "detail": "regression.exercise_03_logistic_regression",
+        "documentation": {}
+    },
+    {
+        "label": "purchase_probability",
+        "kind": 5,
+        "importPath": "regression.exercise_03_logistic_regression",
+        "description": "regression.exercise_03_logistic_regression",
+        "peekOfCode": "purchase_probability = model.predict_proba(new_customer)\nprint(\"\\nPurchase probabilities:\")\nprint(\"No purchase:\", purchase_probability[0][0])\nprint(\"Purchase:\", purchase_probability[0][1]) \n# Prediction on the Test Set\ny_pred = model.predict(X_test)\nprint(\"\\nReal purchase results:\")\nprint(y_test)\nprint(\"\\nPredicted purchase results:\")\nprint(y_pred)",
+        "detail": "regression.exercise_03_logistic_regression",
+        "documentation": {}
+    },
+    {
+        "label": "y_pred",
+        "kind": 5,
+        "importPath": "regression.exercise_03_logistic_regression",
+        "description": "regression.exercise_03_logistic_regression",
+        "peekOfCode": "y_pred = model.predict(X_test)\nprint(\"\\nReal purchase results:\")\nprint(y_test)\nprint(\"\\nPredicted purchase results:\")\nprint(y_pred)\n# Compare Real and Predicted Results\nprint(\"\\nReal vs Predicted:\")\nfor real, predicted in zip(y_test, y_pred):\n    print(f\"Real: {real} | Predicted: {predicted}\")\n# Visualization",
+        "detail": "regression.exercise_03_logistic_regression",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "regression.exercise_04_logistic_regression_churn",
+        "description": "regression.exercise_04_logistic_regression_churn",
+        "peekOfCode": "X = np.array([\n    [22, 30, 3],\n    [25, 35, 6],\n    [28, 40, 12],\n    [30, 45, 24],\n    [35, 50, 36],\n    [40, 60, 48],\n    [45, 70, 60],\n    [50, 80, 72],\n    [55, 90, 84],",
+        "detail": "regression.exercise_04_logistic_regression_churn",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "regression.exercise_04_logistic_regression_churn",
+        "description": "regression.exercise_04_logistic_regression_churn",
+        "peekOfCode": "y = np.array([\n    1,\n    1,\n    1,\n    0,\n    0,\n    0,\n    0,\n    0,\n    0,",
+        "detail": "regression.exercise_04_logistic_regression_churn",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "regression.exercise_04_logistic_regression_churn",
+        "description": "regression.exercise_04_logistic_regression_churn",
+        "peekOfCode": "model = LogisticRegression()\n# Training\nmodel.fit(X_train, y_train)\n# Model Parameters\ncoefficients = model.coef_\nintercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# Prediction for a New Customer\nnew_customer = np.array([[28, 20, 2]])",
+        "detail": "regression.exercise_04_logistic_regression_churn",
+        "documentation": {}
+    },
+    {
+        "label": "coefficients",
+        "kind": 5,
+        "importPath": "regression.exercise_04_logistic_regression_churn",
+        "description": "regression.exercise_04_logistic_regression_churn",
+        "peekOfCode": "coefficients = model.coef_\nintercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# Prediction for a New Customer\nnew_customer = np.array([[28, 20, 2]])\nchurn_prediction = model.predict(new_customer)\nchurn_probability = model.predict_proba(new_customer)\nprint(\"\\nNew customer prediction:\")\nprint(\"Will churn:\", churn_prediction[0])",
+        "detail": "regression.exercise_04_logistic_regression_churn",
+        "documentation": {}
+    },
+    {
+        "label": "intercept",
+        "kind": 5,
+        "importPath": "regression.exercise_04_logistic_regression_churn",
+        "description": "regression.exercise_04_logistic_regression_churn",
+        "peekOfCode": "intercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# Prediction for a New Customer\nnew_customer = np.array([[28, 20, 2]])\nchurn_prediction = model.predict(new_customer)\nchurn_probability = model.predict_proba(new_customer)\nprint(\"\\nNew customer prediction:\")\nprint(\"Will churn:\", churn_prediction[0])\nprint(\"\\nChurn probabilities:\")",
+        "detail": "regression.exercise_04_logistic_regression_churn",
+        "documentation": {}
+    },
+    {
+        "label": "new_customer",
+        "kind": 5,
+        "importPath": "regression.exercise_04_logistic_regression_churn",
+        "description": "regression.exercise_04_logistic_regression_churn",
+        "peekOfCode": "new_customer = np.array([[28, 20, 2]])\nchurn_prediction = model.predict(new_customer)\nchurn_probability = model.predict_proba(new_customer)\nprint(\"\\nNew customer prediction:\")\nprint(\"Will churn:\", churn_prediction[0])\nprint(\"\\nChurn probabilities:\")\nprint(\"No churn:\", churn_probability[0][0])\nprint(\"Churn:\", churn_probability[0][1])\n# Prediction on the Test Set\ny_pred = model.predict(X_test)",
+        "detail": "regression.exercise_04_logistic_regression_churn",
+        "documentation": {}
+    },
+    {
+        "label": "churn_prediction",
+        "kind": 5,
+        "importPath": "regression.exercise_04_logistic_regression_churn",
+        "description": "regression.exercise_04_logistic_regression_churn",
+        "peekOfCode": "churn_prediction = model.predict(new_customer)\nchurn_probability = model.predict_proba(new_customer)\nprint(\"\\nNew customer prediction:\")\nprint(\"Will churn:\", churn_prediction[0])\nprint(\"\\nChurn probabilities:\")\nprint(\"No churn:\", churn_probability[0][0])\nprint(\"Churn:\", churn_probability[0][1])\n# Prediction on the Test Set\ny_pred = model.predict(X_test)\n# Model Evaluation",
+        "detail": "regression.exercise_04_logistic_regression_churn",
+        "documentation": {}
+    },
+    {
+        "label": "churn_probability",
+        "kind": 5,
+        "importPath": "regression.exercise_04_logistic_regression_churn",
+        "description": "regression.exercise_04_logistic_regression_churn",
+        "peekOfCode": "churn_probability = model.predict_proba(new_customer)\nprint(\"\\nNew customer prediction:\")\nprint(\"Will churn:\", churn_prediction[0])\nprint(\"\\nChurn probabilities:\")\nprint(\"No churn:\", churn_probability[0][0])\nprint(\"Churn:\", churn_probability[0][1])\n# Prediction on the Test Set\ny_pred = model.predict(X_test)\n# Model Evaluation\naccuracy = accuracy_score(y_test, y_pred)",
+        "detail": "regression.exercise_04_logistic_regression_churn",
+        "documentation": {}
+    },
+    {
+        "label": "y_pred",
+        "kind": 5,
+        "importPath": "regression.exercise_04_logistic_regression_churn",
+        "description": "regression.exercise_04_logistic_regression_churn",
+        "peekOfCode": "y_pred = model.predict(X_test)\n# Model Evaluation\naccuracy = accuracy_score(y_test, y_pred)\nprint(\"\\nAccuracy:\", accuracy)\n# Compare Real and Predicted Results\nprint(\"\\nReal vs Predicted:\")\nfor real, predicted in zip(y_test, y_pred):\n    print(f\"Real: {real} | Predicted: {predicted}\")\n# Visualization\nplt.scatter(",
+        "detail": "regression.exercise_04_logistic_regression_churn",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy",
+        "kind": 5,
+        "importPath": "regression.exercise_04_logistic_regression_churn",
+        "description": "regression.exercise_04_logistic_regression_churn",
+        "peekOfCode": "accuracy = accuracy_score(y_test, y_pred)\nprint(\"\\nAccuracy:\", accuracy)\n# Compare Real and Predicted Results\nprint(\"\\nReal vs Predicted:\")\nfor real, predicted in zip(y_test, y_pred):\n    print(f\"Real: {real} | Predicted: {predicted}\")\n# Visualization\nplt.scatter(\n    range(len(y_test)),\n    y_test,",
+        "detail": "regression.exercise_04_logistic_regression_churn",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "regression.exercise_05_logistic_regression_loan_approval",
+        "description": "regression.exercise_05_logistic_regression_loan_approval",
+        "peekOfCode": "X = np.array([\n    [22, 20000, 550],\n    [25, 25000, 580],\n    [28, 30000, 600],\n    [30, 35000, 620],\n    [32, 40000, 650],\n    [35, 45000, 680],\n    [38, 50000, 700],\n    [40, 55000, 720],\n    [45, 60000, 740],",
+        "detail": "regression.exercise_05_logistic_regression_loan_approval",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "regression.exercise_05_logistic_regression_loan_approval",
+        "description": "regression.exercise_05_logistic_regression_loan_approval",
+        "peekOfCode": "y = np.array([\n    0,\n    0,\n    0,\n    0,\n    0,\n    1,\n    1,\n    1,\n    1,",
+        "detail": "regression.exercise_05_logistic_regression_loan_approval",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "regression.exercise_05_logistic_regression_loan_approval",
+        "description": "regression.exercise_05_logistic_regression_loan_approval",
+        "peekOfCode": "model = LogisticRegression()\n# Training\nmodel.fit(X_train, y_train)\n# Model Parameters\ncoefficients = model.coef_\nintercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# Prediction for a New Applicant\nnew_applicant = np.array([[28, 20000, 620]])",
+        "detail": "regression.exercise_05_logistic_regression_loan_approval",
+        "documentation": {}
+    },
+    {
+        "label": "coefficients",
+        "kind": 5,
+        "importPath": "regression.exercise_05_logistic_regression_loan_approval",
+        "description": "regression.exercise_05_logistic_regression_loan_approval",
+        "peekOfCode": "coefficients = model.coef_\nintercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# Prediction for a New Applicant\nnew_applicant = np.array([[28, 20000, 620]])\nloan_prediction = model.predict(new_applicant)\nloan_probability = model.predict_proba(new_applicant)\nprint(\"\\nNew applicant prediction:\")\nprint(\"Loan approved:\", loan_prediction[0])",
+        "detail": "regression.exercise_05_logistic_regression_loan_approval",
+        "documentation": {}
+    },
+    {
+        "label": "intercept",
+        "kind": 5,
+        "importPath": "regression.exercise_05_logistic_regression_loan_approval",
+        "description": "regression.exercise_05_logistic_regression_loan_approval",
+        "peekOfCode": "intercept = model.intercept_\nprint(\"\\nCoefficients:\", coefficients)\nprint(\"Intercept:\", intercept)\n# Prediction for a New Applicant\nnew_applicant = np.array([[28, 20000, 620]])\nloan_prediction = model.predict(new_applicant)\nloan_probability = model.predict_proba(new_applicant)\nprint(\"\\nNew applicant prediction:\")\nprint(\"Loan approved:\", loan_prediction[0])\nprint(\"\\nLoan probabilities:\")",
+        "detail": "regression.exercise_05_logistic_regression_loan_approval",
+        "documentation": {}
+    },
+    {
+        "label": "new_applicant",
+        "kind": 5,
+        "importPath": "regression.exercise_05_logistic_regression_loan_approval",
+        "description": "regression.exercise_05_logistic_regression_loan_approval",
+        "peekOfCode": "new_applicant = np.array([[28, 20000, 620]])\nloan_prediction = model.predict(new_applicant)\nloan_probability = model.predict_proba(new_applicant)\nprint(\"\\nNew applicant prediction:\")\nprint(\"Loan approved:\", loan_prediction[0])\nprint(\"\\nLoan probabilities:\")\nprint(\"Rejected:\", loan_probability[0][0])\nprint(\"Approved:\", loan_probability[0][1])\n# Prediction on the Test Set\ny_pred = model.predict(X_test)",
+        "detail": "regression.exercise_05_logistic_regression_loan_approval",
+        "documentation": {}
+    },
+    {
+        "label": "loan_prediction",
+        "kind": 5,
+        "importPath": "regression.exercise_05_logistic_regression_loan_approval",
+        "description": "regression.exercise_05_logistic_regression_loan_approval",
+        "peekOfCode": "loan_prediction = model.predict(new_applicant)\nloan_probability = model.predict_proba(new_applicant)\nprint(\"\\nNew applicant prediction:\")\nprint(\"Loan approved:\", loan_prediction[0])\nprint(\"\\nLoan probabilities:\")\nprint(\"Rejected:\", loan_probability[0][0])\nprint(\"Approved:\", loan_probability[0][1])\n# Prediction on the Test Set\ny_pred = model.predict(X_test)\n# Model Evaluation",
+        "detail": "regression.exercise_05_logistic_regression_loan_approval",
+        "documentation": {}
+    },
+    {
+        "label": "loan_probability",
+        "kind": 5,
+        "importPath": "regression.exercise_05_logistic_regression_loan_approval",
+        "description": "regression.exercise_05_logistic_regression_loan_approval",
+        "peekOfCode": "loan_probability = model.predict_proba(new_applicant)\nprint(\"\\nNew applicant prediction:\")\nprint(\"Loan approved:\", loan_prediction[0])\nprint(\"\\nLoan probabilities:\")\nprint(\"Rejected:\", loan_probability[0][0])\nprint(\"Approved:\", loan_probability[0][1])\n# Prediction on the Test Set\ny_pred = model.predict(X_test)\n# Model Evaluation\naccuracy = accuracy_score(y_test, y_pred)",
+        "detail": "regression.exercise_05_logistic_regression_loan_approval",
+        "documentation": {}
+    },
+    {
+        "label": "y_pred",
+        "kind": 5,
+        "importPath": "regression.exercise_05_logistic_regression_loan_approval",
+        "description": "regression.exercise_05_logistic_regression_loan_approval",
+        "peekOfCode": "y_pred = model.predict(X_test)\n# Model Evaluation\naccuracy = accuracy_score(y_test, y_pred)\nprint(\"\\nAccuracy:\", accuracy)\n# Compare Real and Predicted Results\nprint(\"\\nReal vs Predicted:\")\nfor real, predicted in zip(y_test, y_pred):\n    print(f\"Real: {real} | Predicted: {predicted}\")\n# Visualization\nplt.scatter(",
+        "detail": "regression.exercise_05_logistic_regression_loan_approval",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy",
+        "kind": 5,
+        "importPath": "regression.exercise_05_logistic_regression_loan_approval",
+        "description": "regression.exercise_05_logistic_regression_loan_approval",
+        "peekOfCode": "accuracy = accuracy_score(y_test, y_pred)\nprint(\"\\nAccuracy:\", accuracy)\n# Compare Real and Predicted Results\nprint(\"\\nReal vs Predicted:\")\nfor real, predicted in zip(y_test, y_pred):\n    print(f\"Real: {real} | Predicted: {predicted}\")\n# Visualization\nplt.scatter(\n    range(len(y_test)),\n    y_test,",
+        "detail": "regression.exercise_05_logistic_regression_loan_approval",
         "documentation": {}
     }
 ]
